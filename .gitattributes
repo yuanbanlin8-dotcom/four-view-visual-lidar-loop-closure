@@ -1,0 +1,2 @@
+# Preserve exact artifact bytes, including embedded SVG images and data checksums.
+* -text
