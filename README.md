@@ -1,4 +1,4 @@
-# Seeker: four-view loop closure and multilevel mapping
+# Four-View Visual–LiDAR Loop Closure for Drift Correction in Multi-Storey Indoor UAV Mapping
 
 Paper-support release containing the algorithm, experimental records, editable figures and table data for the Drones manuscript.
 
