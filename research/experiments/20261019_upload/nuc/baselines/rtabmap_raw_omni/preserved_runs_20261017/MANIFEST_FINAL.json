@@ -1,0 +1,243 @@
+{
+  "created_utc": "2026-10-17T09:42:44.449909+00:00",
+  "input": "original OmniLIVO frontend poses, with no optimized frontend or our loop backend",
+  "record_count": 47,
+  "total_bytes": 752395377,
+  "files": [
+    {
+      "name": "MANIFEST.json",
+      "bytes": 3537,
+      "sha256": "9d91ec216aad41289839c865e0486978abd8b2aabb81ec8409ccb03458061932"
+    },
+    {
+      "name": "MAP_RESULTS.json",
+      "bytes": 4163,
+      "sha256": "2ace94ecf5673c811509197dc99b3d28b361cdc4133099308654a77b0c704037"
+    },
+    {
+      "name": "README_zh.md",
+      "bytes": 3509,
+      "sha256": "434898fb81966e15807f128cefa7943465ece9462974d61b3057622dd60b7c39"
+    },
+    {
+      "name": "camera_local_transforms.txt",
+      "bytes": 610,
+      "sha256": "5c405428ca1207b78615250eb982a5645faa8f5df0c93f588f0ad839a6630a82"
+    },
+    {
+      "name": "camera_models.txt",
+      "bytes": 70,
+      "sha256": "c2c9700d17227a0c369887936760f25644d9675ad6f6c99ac58e69cde49f561f"
+    },
+    {
+      "name": "evaluation_floor_hypotheses.json",
+      "bytes": 12455,
+      "sha256": "909be5f40100de4b6736c2178fb5f7e734169dfb2cadc269bc8137155f4397da"
+    },
+    {
+      "name": "export_rtabmap_graph.cpp",
+      "bytes": 972,
+      "sha256": "11eecc42a616d4299886242855b5d236353dbe912b6dad8046bc04f2129d125b"
+    },
+    {
+      "name": "export_rtabmap_raw_omni_graphs_nuc.py",
+      "bytes": 875,
+      "sha256": "8c132efedb59bc250b66700423f71a50e78ff7f61a5b699c3169371cdaa3f594"
+    },
+    {
+      "name": "export_rtabmap_raw_omni_maps_nuc.py",
+      "bytes": 2722,
+      "sha256": "3b5575adb66fd9d0defc28bf6707133c380304518254bdc983a46f55739673e4"
+    },
+    {
+      "name": "false_loop_effect.png",
+      "bytes": 288694,
+      "sha256": "9185b485f752887be2986badc9fa3ad7e98785f14df7b6b9f03ab2fe8f541f20"
+    },
+    {
+      "name": "four_floor_rtabmap_multicam.cpp",
+      "bytes": 3679,
+      "sha256": "8dae4bb4e83bee7cf12cc8fcb5603585c0a5e6816d613b5ac0188357e0e85fdf"
+    },
+    {
+      "name": "input_manifest.json",
+      "bytes": 891,
+      "sha256": "c99d2131fada68229dffc2364fd06afc3b25daea8aa5098daf2ba5a0b6c7f03d"
+    },
+    {
+      "name": "mode0.log",
+      "bytes": 1498,
+      "sha256": "9eeec2911b387c94fa31904cecb5c59667be6a9f848a8c06108dd2588f018b8c"
+    },
+    {
+      "name": "mode1.log",
+      "bytes": 2087,
+      "sha256": "8a8aa40e2fc57bc52b2382cc1b7c9e48ac2678c241363a2162a6ddb638eedafe"
+    },
+    {
+      "name": "mode2.log",
+      "bytes": 1957,
+      "sha256": "43dfeae5d231cff1980db64386ebdc53a4f24b17b3eeb38a52029256dbffedd4"
+    },
+    {
+      "name": "mode3.log",
+      "bytes": 2089,
+      "sha256": "7848d1ccfdae87dff9855e6894be04f5488a316aee5330cc655bf09090f2dbeb"
+    },
+    {
+      "name": "mode4.log",
+      "bytes": 2075,
+      "sha256": "9deebdf4020f3498a734ddee798de7092803428cf795766e34a2938b4efd4dd5"
+    },
+    {
+      "name": "multicam_raw_omni_candidates.csv",
+      "bytes": 13561,
+      "sha256": "6e0bc7edd4535184976accaedc173a9f9d2d0b4c6f6e7fed68ac54c718cb05eb"
+    },
+    {
+      "name": "multicam_raw_omni_mode1_candidates.csv",
+      "bytes": 13564,
+      "sha256": "51610d7eb408813b58e20debf343bc99b2aedc889185a14b8866bb3bb534fb28"
+    },
+    {
+      "name": "multicam_raw_omni_mode2_candidates.csv",
+      "bytes": 13571,
+      "sha256": "4e118ba9e46bd92c17313c99e124062ba1a67cb932e7445efc4ae8e38fe5ee04"
+    },
+    {
+      "name": "multicam_raw_omni_mode3_candidates.csv",
+      "bytes": 13567,
+      "sha256": "23314cd912f934bd56737112dab5536bf61b48c447b349e9179399386298945e"
+    },
+    {
+      "name": "multicam_raw_omni_mode4_candidates.csv",
+      "bytes": 13559,
+      "sha256": "fe362b5f19324c402bd2e802e5993a809fb0cf22ed487be08703ad482c5b93b1"
+    },
+    {
+      "name": "odom_poses.txt",
+      "bytes": 26425,
+      "sha256": "08592d566339ef798632edfa4c839a8b33598b9a9e510197e1f49eb56021fe4f"
+    },
+    {
+      "name": "prepare_four_floor_rtabmap_multicam.py",
+      "bytes": 4672,
+      "sha256": "2dbfdd6e5ec6e8e1b77af3edf511b25a9b92ad9372b0504fc4eca19655ca1a2c"
+    },
+    {
+      "name": "prepare_rtabmap_raw_omni_baseline_nuc.py",
+      "bytes": 1827,
+      "sha256": "974a60713e3dd8e3853276695e9db9df01a3cc6c80468232e6329bb5b549b694"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni.db",
+      "bytes": 68816896,
+      "sha256": "da3c16ddd29caf98deb987270cd3ec55c5e4a28d8ffdb6bcd0c38a23cdc0a234"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode1.db",
+      "bytes": 68816896,
+      "sha256": "99f198fa09782644a25c9f99126ec767e93187727e03509fe190ff91810965f4"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode1_optimized_all_submaps_xyz.pcd",
+      "bytes": 81516464,
+      "sha256": "a72ddcd6e26b8535828aac660ee89588bf0333f2598c31328fb3fd530a7b7c25"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode1_path_optimized.csv",
+      "bytes": 16166,
+      "sha256": "d6598cdf0a1490e1a5a6f4531dfaf39b4c906a22bfe1a7249f99e134b75b0bf4"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode1_path_raw.csv",
+      "bytes": 16209,
+      "sha256": "bd77d36c31e2e0c4d790d9b03d73a113a86907fb57052d14b54c26b583d6904f"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode2.db",
+      "bytes": 68825088,
+      "sha256": "6f4858709eacf46eb6bc396d198a7bbbf15c6d9e4b55e0a4502393c0030df138"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode2_optimized_all_submaps_xyz.pcd",
+      "bytes": 81516464,
+      "sha256": "939a982d585a3e580a248e8124c8255976224fe584187c37b21e1702005a85ac"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode2_path_optimized.csv",
+      "bytes": 16186,
+      "sha256": "9188e23384d70a8fc565efa170c9fc84df82b37d8ddbfe9b6e046d4ca7f0fda3"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode2_path_raw.csv",
+      "bytes": 16209,
+      "sha256": "bd77d36c31e2e0c4d790d9b03d73a113a86907fb57052d14b54c26b583d6904f"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode3.db",
+      "bytes": 68829184,
+      "sha256": "c6f2d7d5423a5091e2c0df5c3fe4ea3ea7fbda200b082e28fbfe3b7afcf1fde9"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode3_optimized_all_submaps_xyz.pcd",
+      "bytes": 81516464,
+      "sha256": "fdfb67a7dc086c932d23e78c9894be4a3bf3a74c11eb8e6674b47e19a67e8a98"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode3_path_optimized.csv",
+      "bytes": 16191,
+      "sha256": "2bb0152eb522e76522f9eaf9f8a9c7b010cbf3e2410bc63edbec6a51e25add64"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode3_path_raw.csv",
+      "bytes": 16209,
+      "sha256": "bd77d36c31e2e0c4d790d9b03d73a113a86907fb57052d14b54c26b583d6904f"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode4.db",
+      "bytes": 68833280,
+      "sha256": "67f1486a094122a49dec00d6a57c500f776e32627fd1f2d989fedfc0e1f1e88b"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode4_optimized_all_submaps_xyz.pcd",
+      "bytes": 81516464,
+      "sha256": "8b32afc4130efccc7b997ce05d8a659446f1367339d7ee6b5d82a226162f2568"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode4_path_optimized.csv",
+      "bytes": 16197,
+      "sha256": "3beb83ac75c98cf04506a9c2f4af99b83f18238270b6602b4c0402ebd7374936"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_mode4_path_raw.csv",
+      "bytes": 16209,
+      "sha256": "bd77d36c31e2e0c4d790d9b03d73a113a86907fb57052d14b54c26b583d6904f"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_optimized_all_submaps_xyz.pcd",
+      "bytes": 81516464,
+      "sha256": "98dd532fed6f2e51d40f279a951d00dfffc2cb025991b7a6cf5f623e85c38b59"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_path_optimized.csv",
+      "bytes": 16188,
+      "sha256": "6f344e42df04ffa36e31ea9c6e697fc102aa1c3ef2ebe6b3b862de86119f8e27"
+    },
+    {
+      "name": "rtabmap_multicam_raw_omni_path_raw.csv",
+      "bytes": 16209,
+      "sha256": "bd77d36c31e2e0c4d790d9b03d73a113a86907fb57052d14b54c26b583d6904f"
+    },
+    {
+      "name": "source_poses.json",
+      "bytes": 70821,
+      "sha256": "ee87f177e1b509f06bbec415adf071c1ec1a9e800db3a812ecb13f0fc1f3c921"
+    },
+    {
+      "name": "source_raw_poses.txt",
+      "bytes": 26290,
+      "sha256": "f82ad30dac976178a6b543266da0e6224d9f45f6c964ff487592ecfd481cf6cd"
+    }
+  ]
+}

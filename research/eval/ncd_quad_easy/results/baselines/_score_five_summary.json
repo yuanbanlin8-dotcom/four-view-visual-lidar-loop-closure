@@ -1,0 +1,448 @@
+{
+  "anyloc": {
+    "status": "SCORED",
+    "path": "/workspace/project/eval/ncd_quad_easy/results/baselines/anyloc/eval_metrics.json",
+    "metrics": {
+      "name": "AnyLoc",
+      "fair": "yes",
+      "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+      "weights": "AnyLoc/DINO v1 urban c_centers + local dinov2_vitg14",
+      "protocol": "v1-locked-20261023",
+      "cam0": {
+        "label": "AnyLoc_cam0",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.8709677419354839,
+          "hits@1": 27,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.5806451612903226,
+          "hits@1": 18,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.9393939393939394,
+          "hits@1": 31,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.7272727272727273,
+          "hits@1": 24,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        }
+      },
+      "cam4": {
+        "label": "AnyLoc_4cam",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.9354838709677419,
+          "hits@1": 29,
+          "recall@5": 1.0,
+          "hits@5": 31
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.5483870967741935,
+          "hits@1": 17,
+          "recall@5": 0.9032258064516129,
+          "hits@5": 28
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.9393939393939394,
+          "hits@1": 31,
+          "recall@5": 1.0,
+          "hits@5": 33
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.8484848484848485,
+          "hits@1": 28,
+          "recall@5": 0.9696969696969697,
+          "hits@5": 32
+        }
+      }
+    }
+  },
+  "mixvpr": {
+    "status": "SCORED",
+    "path": "/workspace/project/eval/ncd_quad_easy/results/baselines/mixvpr/eval_metrics.json",
+    "metrics": {
+      "name": "MixVPR",
+      "fair": "yes",
+      "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+      "weights": "resnet50_MixVPR_4096.ckpt",
+      "protocol": "v1-locked-20261023",
+      "cam0": {
+        "label": "MixVPR_cam0",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.9032258064516129,
+          "hits@1": 28,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.6129032258064516,
+          "hits@1": 19,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.9090909090909091,
+          "hits@1": 30,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.8787878787878788,
+          "hits@1": 29,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        }
+      },
+      "cam4": {
+        "label": "MixVPR_4cam",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.967741935483871,
+          "hits@1": 30,
+          "recall@5": 1.0,
+          "hits@5": 31
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.5161290322580645,
+          "hits@1": 16,
+          "recall@5": 1.0,
+          "hits@5": 31
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 1.0,
+          "hits@1": 33,
+          "recall@5": 1.0,
+          "hits@5": 33
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.8181818181818182,
+          "hits@1": 27,
+          "recall@5": 1.0,
+          "hits@5": 33
+        }
+      }
+    }
+  },
+  "netvlad": {
+    "status": "SCORED",
+    "path": "/workspace/project/eval/ncd_quad_easy/results/baselines/netvlad/eval_metrics.json",
+    "metrics": {
+      "name": "NetVLAD",
+      "fair": "yes",
+      "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+      "weights": "vgg16_netvlad_checkpoint (Pittsburgh)",
+      "protocol": "v1-locked-20261023",
+      "cam0": {
+        "label": "NetVLAD_cam0",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.8064516129032258,
+          "hits@1": 25,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.5483870967741935,
+          "hits@1": 17,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.8787878787878788,
+          "hits@1": 29,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.7878787878787878,
+          "hits@1": 26,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        }
+      },
+      "cam4": {
+        "label": "NetVLAD_4cam",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.9032258064516129,
+          "hits@1": 28,
+          "recall@5": 1.0,
+          "hits@5": 31
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.6129032258064516,
+          "hits@1": 19,
+          "recall@5": 0.967741935483871,
+          "hits@5": 30
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.9393939393939394,
+          "hits@1": 31,
+          "recall@5": 1.0,
+          "hits@5": 33
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.8484848484848485,
+          "hits@1": 28,
+          "recall@5": 1.0,
+          "hits@5": 33
+        }
+      }
+    }
+  },
+  "orb_dbow2": {
+    "status": "SCORED",
+    "path": "/workspace/project/eval/ncd_quad_easy/results/baselines/orb_dbow2/eval_metrics.json",
+    "metrics": {
+      "name": "ORB-BoW (OpenCV stand-in for ORB-DBoW2)",
+      "fair": "partial",
+      "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+      "weights": "OpenCV ORB + k-means k=1024 on-sequence vocab (NOT C++ DBoW2)",
+      "protocol": "v1-locked-20261023",
+      "cam0": {
+        "label": "ORB-BoW (OpenCV stand-in for ORB-DBoW2)_cam0",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.8387096774193549,
+          "hits@1": 26,
+          "recall@5": 0.967741935483871,
+          "hits@5": 30
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.5161290322580645,
+          "hits@1": 16,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.8787878787878788,
+          "hits@1": 29,
+          "recall@5": 0.9696969696969697,
+          "hits@5": 32
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.7575757575757576,
+          "hits@1": 25,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        }
+      },
+      "cam4": {
+        "label": "ORB-BoW (OpenCV stand-in for ORB-DBoW2)_4cam",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.8387096774193549,
+          "hits@1": 26,
+          "recall@5": 1.0,
+          "hits@5": 31
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.41935483870967744,
+          "hits@1": 13,
+          "recall@5": 0.967741935483871,
+          "hits@5": 30
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.9090909090909091,
+          "hits@1": 30,
+          "recall@5": 1.0,
+          "hits@5": 33
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.7272727272727273,
+          "hits@1": 24,
+          "recall@5": 0.9696969696969697,
+          "hits@5": 32
+        }
+      },
+      "caveat": "Not ORB-SLAM2 DBoW2 C++ binary vocab \u2014 OpenCV ORB+k-means BoW stand-in; vocab fit on eval sequence (fairness partial)."
+    }
+  },
+  "sp_meanpool": {
+    "status": "SCORED",
+    "path": "/workspace/project/eval/ncd_quad_easy/results/baselines/sp_meanpool/eval_metrics.json",
+    "metrics": {
+      "name": "SuperPoint mean-pool",
+      "fair": "yes",
+      "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+      "weights": "lightglue.SuperPoint max_kp=512",
+      "protocol": "v1-locked-20261023",
+      "cam0": {
+        "label": "SuperPoint mean-pool_cam0",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.9032258064516129,
+          "hits@1": 28,
+          "recall@5": 1.0,
+          "hits@5": 31
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.5806451612903226,
+          "hits@1": 18,
+          "recall@5": 0.9354838709677419,
+          "hits@5": 29
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.9090909090909091,
+          "hits@1": 30,
+          "recall@5": 1.0,
+          "hits@5": 33
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.7878787878787878,
+          "hits@1": 26,
+          "recall@5": 0.9393939393939394,
+          "hits@5": 31
+        }
+      },
+      "cam4": {
+        "label": "SuperPoint mean-pool_4cam",
+        "R_2m_pm1": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 1,
+          "recall@1": 0.7419354838709677,
+          "hits@1": 23,
+          "recall@5": 1.0,
+          "hits@5": 31
+        },
+        "R_2m_tol0": {
+          "n_queries": 31,
+          "n_queries_with_candidates": 31,
+          "tol": 0,
+          "recall@1": 0.45161290322580644,
+          "hits@1": 14,
+          "recall@5": 0.9032258064516129,
+          "hits@5": 28
+        },
+        "R_3m_pm1": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 1,
+          "recall@1": 0.8787878787878788,
+          "hits@1": 29,
+          "recall@5": 1.0,
+          "hits@5": 33
+        },
+        "R_3m_tol0": {
+          "n_queries": 33,
+          "n_queries_with_candidates": 33,
+          "tol": 0,
+          "recall@1": 0.6666666666666666,
+          "hits@1": 22,
+          "recall@5": 1.0,
+          "hits@5": 33
+        }
+      }
+    }
+  }
+}

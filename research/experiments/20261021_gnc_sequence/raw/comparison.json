@@ -1,0 +1,16 @@
+{
+  "with_sequence": {
+    "added_edges": [],
+    "removed_edges": [],
+    "max_position_change_m": 4.216166313979353e-05,
+    "median_position_change_m": 4.528899381451812e-06,
+    "max_height_change_m": 4.2036247624999135e-05
+  },
+  "without_sequence": {
+    "added_edges": [],
+    "removed_edges": [],
+    "max_position_change_m": 4.216575089508128e-05,
+    "median_position_change_m": 4.569785934523174e-06,
+    "max_height_change_m": 4.203643911093735e-05
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "source": "OREN HF dlio_newer_college_recording deskewed PointCloud2",
+  "topic": "/robot/dlio/odom_node/pointcloud/deskewed",
+  "voxel_m": 0.1,
+  "nodes": [
+    {
+      "node": 0,
+      "dlio_idx": 0,
+      "stamp": 1625132073.4574535,
+      "dt_s": 4.2986414432525635,
+      "n_voxel": 42734,
+      "intensity_nonzero": 42734,
+      "intensity_mean": 136.97885131835938
+    },
+    {
+      "node": 1,
+      "dlio_idx": 0,
+      "stamp": 1625132073.4574535,
+      "dt_s": 1.199882984161377,
+      "n_voxel": 42734,
+      "intensity_nonzero": 42734,
+      "intensity_mean": 136.97885131835938
+    },
+    {
+      "node": 2,
+      "dlio_idx": 18,
+      "stamp": 1625132075.2595172,
+      "dt_s": 0.0,
+      "n_voxel": 49863,
+      "intensity_nonzero": 49863,
+      "intensity_mean": 134.5390167236328
+    },
+    {
+      "node": 3,
+      "dlio_idx": 49,
+      "stamp": 1625132078.3583376,
+      "dt_s": 0.0,
+      "n_voxel": 54487,
+      "intensity_nonzero": 54487,
+      "intensity_mean": 138.9123992919922
+    },
+    {
+      "node": 4,
+      "dlio_idx": 80,
+      "stamp": 1625132081.4580054,
+      "dt_s": 0.0,
+      "n_voxel": 55860,
+      "intensity_nonzero": 55860,
+      "intensity_mean": 136.03636169433594
+    },
+    {
+      "node": 5,
+      "dlio_idx": 111,
+      "stamp": 1625132084.5572493,
+      "dt_s": 0.0,
+      "n_voxel": 56638,
+      "intensity_nonzero": 56638,
+      "intensity_mean": 137.85299682617188
+    },
+    {
+      "node": 6,
+      "dlio_idx": 141,
+      "stamp": 1625132087.557864,
+      "dt_s": 0.0,
+      "n_voxel": 57990,
+      "intensity_nonzero": 57990,
+      "intensity_mean": 139.15737915039062
+    },
+    {
+      "node": 7,
+      "dlio_idx": 172,
+      "stamp": 1625132090.657601,
+      "dt_s": 0.0,
+      "n_voxel": 53023,
+      "intensity_nonzero": 53023,
+      "intensity_mean": 145.01388549804688
+    },
+    {
+      "node": 8,
+      "dlio_idx": 203,
+      "stamp": 1625132093.756724,
+      "dt_s": 0.0,
+      "n_voxel": 37607,
+      "intensity_nonzero": 37607,
+      "intensity_mean": 146.92796325683594
+    },
+    {
+      "node": 9,
+      "dlio_idx": 233,
+      "stamp": 1625132096.7576022,
+      "dt_s": 0.0,
+      "n_voxel": 43538,
+      "intensity_nonzero": 43538,
+      "intensity_mean": 158.15951538085938
+    },
+    {
+      "node": 10,
+      "dlio_idx": 264,
+      "stamp": 1625132099.8569837,
+      "dt_s": 0.0,
+      "n_voxel": 49660,
+      "intensity_nonzero": 49660,
+      "intensity_mean": 200.8251953125
+    },
+    {
+      "node": 11,
+      "dlio_idx": 295,
+      "stamp": 1625132102.9558508,
+      "dt_s": 0.0,
+      "n_voxel": 49418,
+      "intensity_nonzero": 49418,
+      "intensity_mean": 183.7063446044922
+    },
+    {
+      "node": 12,
+      "dlio_idx": 325,
+      "stamp": 1625132105.9558744,
+      "dt_s": 0.0,
+      "n_voxel": 51588,
+      "intensity_nonzero": 51588,
+      "intensity_mean": 167.28761291503906
+    },
+    {
+      "node": 13,
+      "dlio_idx": 356,
+      "stamp": 1625132109.055425,
+      "dt_s": 0.0,
+      "n_voxel": 56620,
+      "intensity_nonzero": 56620,
+      "intensity_mean": 139.40843200683594
+    },
+    {
+      "node": 14,
+      "dlio_idx": 386,
+      "stamp": 1625132112.056176,
+      "dt_s": 0.0,
+      "n_voxel": 61073,
+      "intensity_nonzero": 61073,
+      "intensity_mean": 119.15628814697266
+    },
+    {
+      "node": 15,
+      "dlio_idx": 417,
+      "stamp": 1625132115.1559424,
+      "dt_s": 0.0,
+      "n_voxel": 63305,
+      "intensity_nonzero": 63305,
+      "intensity_mean": 113.58624267578125
+    },
+    {
+      "node": 16,
+      "dlio_idx": 448,
+      "stamp": 1625132118.2547915,
+      "dt_s": 0.0,
+      "n_voxel": 60440,
+      "intensity_nonzero": 60440,
+      "intensity_mean": 117.96263885498047
+    },
+    {
+      "node": 17,
+      "dlio_idx": 479,
+      "stamp": 1625132121.3539615,
+      "dt_s": 0.0,
+      "n_voxel": 57999,
+      "intensity_nonzero": 57999,
+      "intensity_mean": 120.45345306396484
+    },
+    {
+      "node": 18,
+      "dlio_idx": 509,
+      "stamp": 1625132124.355077,
+      "dt_s": 0.0,
+      "n_voxel": 59266,
+      "intensity_nonzero": 59266,
+      "intensity_mean": 119.2761459350586
+    },
+    {
+      "node": 19,
+      "dlio_idx": 540,
+      "stamp": 1625132127.454687,
+      "dt_s": 0.0,
+      "n_voxel": 60546,
+      "intensity_nonzero": 60546,
+      "intensity_mean": 112.47895812988281
+    },
+    {
+      "node": 20,
+      "dlio_idx": 571,
+      "stamp": 1625132130.5533495,
+      "dt_s": 0.0,
+      "n_voxel": 61842,
+      "intensity_nonzero": 61842,
+      "intensity_mean": 103.19541931152344
+    },
+    {
+      "node": 21,
+      "dlio_idx": 601,
+      "stamp": 1625132133.5534542,
+      "dt_s": 0.0,
+      "n_voxel": 59536,
+      "intensity_nonzero": 59536,
+      "intensity_mean": 108.19451904296875
+    },
+    {
+      "node": 22,
+      "dlio_idx": 631,
+      "stamp": 1625132136.5540862,
+      "dt_s": 0.0,
+      "n_voxel": 54245,
+      "intensity_nonzero": 54245,
+      "intensity_mean": 125.88199615478516
+    },
+    {
+      "node": 23,
+      "dlio_idx": 662,
+      "stamp": 1625132139.653917,
+      "dt_s": 0.0,
+      "n_voxel": 49375,
+      "intensity_nonzero": 49375,
+      "intensity_mean": 146.03866577148438
+    },
+    {
+      "node": 24,
+      "dlio_idx": 693,
+      "stamp": 1625132142.7529325,
+      "dt_s": 0.0,
+      "n_voxel": 45770,
+      "intensity_nonzero": 45770,
+      "intensity_mean": 156.3881072998047
+    },
+    {
+      "node": 25,
+      "dlio_idx": 724,
+      "stamp": 1625132145.8527226,
+      "dt_s": 0.0,
+      "n_voxel": 44853,
+      "intensity_nonzero": 44853,
+      "intensity_mean": 162.72238159179688
+    },
+    {
+      "node": 26,
+      "dlio_idx": 755,
+      "stamp": 1625132148.9516478,
+      "dt_s": 0.0,
+      "n_voxel": 46531,
+      "intensity_nonzero": 46531,
+      "intensity_mean": 160.71771240234375
+    },
+    {
+      "node": 27,
+      "dlio_idx": 785,
+      "stamp": 1625132151.9526258,
+      "dt_s": 0.0,
+      "n_voxel": 51072,
+      "intensity_nonzero": 51072,
+      "intensity_mean": 145.6809539794922
+    },
+    {
+      "node": 28,
+      "dlio_idx": 816,
+      "stamp": 1625132155.0521696,
+      "dt_s": 0.0,
+      "n_voxel": 57252,
+      "intensity_nonzero": 57252,
+      "intensity_mean": 122.63150787353516
+    },
+    {
+      "node": 29,
+      "dlio_idx": 847,
+      "stamp": 1625132158.151039,
+      "dt_s": 0.0,
+      "n_voxel": 61779,
+      "intensity_nonzero": 61779,
+      "intensity_mean": 101.6966781616211
+    },
+    {
+      "node": 30,
+      "dlio_idx": 877,
+      "stamp": 1625132161.1513212,
+      "dt_s": 0.0,
+      "n_voxel": 62459,
+      "intensity_nonzero": 62459,
+      "intensity_mean": 99.4330062866211
+    },
+    {
+      "node": 31,
+      "dlio_idx": 907,
+      "stamp": 1625132164.1523917,
+      "dt_s": 0.0,
+      "n_voxel": 60228,
+      "intensity_nonzero": 60228,
+      "intensity_mean": 108.23197174072266
+    },
+    {
+      "node": 32,
+      "dlio_idx": 938,
+      "stamp": 1625132167.2505505,
+      "dt_s": 0.0,
+      "n_voxel": 59581,
+      "intensity_nonzero": 59581,
+      "intensity_mean": 114.8848648071289
+    },
+    {
+      "node": 33,
+      "dlio_idx": 968,
+      "stamp": 1625132170.2514515,
+      "dt_s": 0.0,
+      "n_voxel": 58223,
+      "intensity_nonzero": 58223,
+      "intensity_mean": 123.33319854736328
+    },
+    {
+      "node": 34,
+      "dlio_idx": 999,
+      "stamp": 1625132173.351545,
+      "dt_s": 0.0,
+      "n_voxel": 58028,
+      "intensity_nonzero": 58028,
+      "intensity_mean": 134.8594970703125
+    },
+    {
+      "node": 35,
+      "dlio_idx": 1030,
+      "stamp": 1625132176.4497986,
+      "dt_s": 0.0,
+      "n_voxel": 57620,
+      "intensity_nonzero": 57620,
+      "intensity_mean": 131.90084838867188
+    },
+    {
+      "node": 36,
+      "dlio_idx": 1060,
+      "stamp": 1625132179.4500723,
+      "dt_s": 0.0,
+      "n_voxel": 55921,
+      "intensity_nonzero": 55921,
+      "intensity_mean": 141.53616333007812
+    },
+    {
+      "node": 37,
+      "dlio_idx": 1091,
+      "stamp": 1625132182.5490792,
+      "dt_s": 0.0,
+      "n_voxel": 53773,
+      "intensity_nonzero": 53773,
+      "intensity_mean": 156.01307678222656
+    },
+    {
+      "node": 38,
+      "dlio_idx": 1121,
+      "stamp": 1625132185.550001,
+      "dt_s": 0.0,
+      "n_voxel": 47101,
+      "intensity_nonzero": 47101,
+      "intensity_mean": 124.71151733398438
+    },
+    {
+      "node": 39,
+      "dlio_idx": 1152,
+      "stamp": 1625132188.648687,
+      "dt_s": 0.0,
+      "n_voxel": 43682,
+      "intensity_nonzero": 43682,
+      "intensity_mean": 148.628662109375
+    },
+    {
+      "node": 40,
+      "dlio_idx": 1183,
+      "stamp": 1625132191.7475436,
+      "dt_s": 0.0,
+      "n_voxel": 48659,
+      "intensity_nonzero": 48659,
+      "intensity_mean": 185.17530822753906
+    },
+    {
+      "node": 41,
+      "dlio_idx": 1213,
+      "stamp": 1625132194.748644,
+      "dt_s": 0.0,
+      "n_voxel": 48580,
+      "intensity_nonzero": 48580,
+      "intensity_mean": 186.3739471435547
+    },
+    {
+      "node": 42,
+      "dlio_idx": 1243,
+      "stamp": 1625132197.7487812,
+      "dt_s": 0.0,
+      "n_voxel": 48311,
+      "intensity_nonzero": 48311,
+      "intensity_mean": 185.4967803955078
+    },
+    {
+      "node": 43,
+      "dlio_idx": 1274,
+      "stamp": 1625132200.8472648,
+      "dt_s": 0.0,
+      "n_voxel": 52773,
+      "intensity_nonzero": 52773,
+      "intensity_mean": 156.70701599121094
+    },
+    {
+      "node": 44,
+      "dlio_idx": 1304,
+      "stamp": 1625132203.8476536,
+      "dt_s": 0.0,
+      "n_voxel": 57755,
+      "intensity_nonzero": 57755,
+      "intensity_mean": 133.44711303710938
+    },
+    {
+      "node": 45,
+      "dlio_idx": 1334,
+      "stamp": 1625132206.8484893,
+      "dt_s": 0.0,
+      "n_voxel": 61831,
+      "intensity_nonzero": 61831,
+      "intensity_mean": 112.88860321044922
+    },
+    {
+      "node": 46,
+      "dlio_idx": 1365,
+      "stamp": 1625132209.94661,
+      "dt_s": 0.0,
+      "n_voxel": 61559,
+      "intensity_nonzero": 61559,
+      "intensity_mean": 114.61276245117188
+    },
+    {
+      "node": 47,
+      "dlio_idx": 1396,
+      "stamp": 1625132213.0465014,
+      "dt_s": 0.0,
+      "n_voxel": 59259,
+      "intensity_nonzero": 59259,
+      "intensity_mean": 116.24436950683594
+    },
+    {
+      "node": 48,
+      "dlio_idx": 1426,
+      "stamp": 1625132216.0470216,
+      "dt_s": 0.0,
+      "n_voxel": 58360,
+      "intensity_nonzero": 58360,
+      "intensity_mean": 118.47875213623047
+    },
+    {
+      "node": 49,
+      "dlio_idx": 1457,
+      "stamp": 1625132219.1473134,
+      "dt_s": 0.0,
+      "n_voxel": 59189,
+      "intensity_nonzero": 59189,
+      "intensity_mean": 116.34439086914062
+    },
+    {
+      "node": 50,
+      "dlio_idx": 1488,
+      "stamp": 1625132222.2451925,
+      "dt_s": 0.0,
+      "n_voxel": 61806,
+      "intensity_nonzero": 61806,
+      "intensity_mean": 107.655517578125
+    },
+    {
+      "node": 51,
+      "dlio_idx": 1518,
+      "stamp": 1625132225.2466156,
+      "dt_s": 0.0,
+      "n_voxel": 61098,
+      "intensity_nonzero": 61098,
+      "intensity_mean": 100.09705352783203
+    },
+    {
+      "node": 52,
+      "dlio_idx": 1549,
+      "stamp": 1625132228.3455846,
+      "dt_s": 0.0,
+      "n_voxel": 58302,
+      "intensity_nonzero": 58302,
+      "intensity_mean": 112.19575500488281
+    },
+    {
+      "node": 53,
+      "dlio_idx": 1580,
+      "stamp": 1625132231.4446588,
+      "dt_s": 0.0,
+      "n_voxel": 53215,
+      "intensity_nonzero": 53215,
+      "intensity_mean": 133.25950622558594
+    },
+    {
+      "node": 54,
+      "dlio_idx": 1611,
+      "stamp": 1625132234.5441155,
+      "dt_s": 0.0,
+      "n_voxel": 47939,
+      "intensity_nonzero": 47939,
+      "intensity_mean": 155.7073974609375
+    },
+    {
+      "node": 55,
+      "dlio_idx": 1641,
+      "stamp": 1625132237.5444422,
+      "dt_s": 0.0,
+      "n_voxel": 44907,
+      "intensity_nonzero": 44907,
+      "intensity_mean": 159.41978454589844
+    },
+    {
+      "node": 56,
+      "dlio_idx": 1671,
+      "stamp": 1625132240.5449257,
+      "dt_s": 0.0,
+      "n_voxel": 46263,
+      "intensity_nonzero": 46263,
+      "intensity_mean": 160.21543884277344
+    },
+    {
+      "node": 57,
+      "dlio_idx": 1702,
+      "stamp": 1625132243.6432188,
+      "dt_s": 0.0,
+      "n_voxel": 48068,
+      "intensity_nonzero": 48068,
+      "intensity_mean": 156.69287109375
+    },
+    {
+      "node": 58,
+      "dlio_idx": 1732,
+      "stamp": 1625132246.6439397,
+      "dt_s": 0.0,
+      "n_voxel": 51749,
+      "intensity_nonzero": 51749,
+      "intensity_mean": 142.5768585205078
+    },
+    {
+      "node": 59,
+      "dlio_idx": 1763,
+      "stamp": 1625132249.7446117,
+      "dt_s": 0.0,
+      "n_voxel": 57213,
+      "intensity_nonzero": 57213,
+      "intensity_mean": 119.70931243896484
+    },
+    {
+      "node": 60,
+      "dlio_idx": 1794,
+      "stamp": 1625132252.8433604,
+      "dt_s": 0.0,
+      "n_voxel": 62194,
+      "intensity_nonzero": 62194,
+      "intensity_mean": 99.47039794921875
+    },
+    {
+      "node": 61,
+      "dlio_idx": 1825,
+      "stamp": 1625132255.942499,
+      "dt_s": 0.0,
+      "n_voxel": 61691,
+      "intensity_nonzero": 61691,
+      "intensity_mean": 98.17650604248047
+    },
+    {
+      "node": 62,
+      "dlio_idx": 1855,
+      "stamp": 1625132258.942514,
+      "dt_s": 0.0,
+      "n_voxel": 59246,
+      "intensity_nonzero": 59246,
+      "intensity_mean": 108.08670806884766
+    },
+    {
+      "node": 63,
+      "dlio_idx": 1885,
+      "stamp": 1625132261.9430685,
+      "dt_s": 0.0,
+      "n_voxel": 55716,
+      "intensity_nonzero": 55716,
+      "intensity_mean": 117.7839584350586
+    },
+    {
+      "node": 64,
+      "dlio_idx": 1916,
+      "stamp": 1625132265.0421574,
+      "dt_s": 0.0,
+      "n_voxel": 43723,
+      "intensity_nonzero": 43723,
+      "intensity_mean": 136.7294158935547
+    },
+    {
+      "node": 65,
+      "dlio_idx": 1944,
+      "stamp": 1625132267.8413587,
+      "dt_s": 0.0,
+      "n_voxel": 29212,
+      "intensity_nonzero": 29212,
+      "intensity_mean": 151.02769470214844
+    }
+  ],
+  "frames_with_nonzero_intensity": 66
+}

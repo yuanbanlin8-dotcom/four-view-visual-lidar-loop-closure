@@ -1,0 +1,6 @@
+﻿Retrieval method,Input,R@1 +/-1 node,R@5 +/-1 node,R@1 exact node
+Scan Context [16],LiDAR,27/31 (87.1%),28/31 (90.3%),26/31 (83.9%)
+DINOv2 mean-pool [28],"Four cameras, 12 views",29/31 (93.5%),31/31 (100%),16/31 (51.6%)
+MixVPR [27],c0,28/31 (90.3%),29/31 (93.5%),19/31 (61.3%)
+"MixVPR [27], max-sim",Four cameras,30/31 (96.8%),31/31 (100%),16/31 (51.6%)
+Complete retrieval pipeline,Four cameras,30/31 (96.8%),31/31 (100%),17/31 (54.8%)

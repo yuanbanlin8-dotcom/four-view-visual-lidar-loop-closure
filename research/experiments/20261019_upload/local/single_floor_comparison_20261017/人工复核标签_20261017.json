@@ -1,0 +1,20 @@
+{
+  "dataset": "20261008_145008",
+  "review_date": "2026-10-17",
+  "source": "user human visual review in conversation",
+  "scope": "19 selected pairs in review_pages.zip; not all 1338 retrieval candidates or all 64 full-gate pair passes",
+  "false_loops": [[90, 45], [118, 17]],
+  "true_common_anchors": [[119, 15], [123, 11], [123, 12], [124, 9], [125, 5], [127, 1], [128, 9], [132, 4], [132, 8], [133, 0]],
+  "true_full_only_anchors": [[85, 50], [86, 49], [88, 47], [95, 40], [97, 38], [99, 36], [116, 19]],
+  "interpretation": {
+    "visual_only_pair_pass_reviewed": 2,
+    "visual_only_pair_pass_reviewed_false": 2,
+    "visual_only_pair_pass_reviewed_true": 0,
+    "visual_only_final_anchor_false": [[118, 17]],
+    "visual_only_pair_not_final_anchor_false": [[90, 45]],
+    "no_icp_final_anchors_reviewed_true": 10,
+    "no_icp_final_anchors_reviewed_false": 1,
+    "full_final_anchors_reviewed_true": 17,
+    "full_final_anchors_reviewed_false": 0
+  }
+}

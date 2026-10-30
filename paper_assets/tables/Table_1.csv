@@ -1,0 +1,7 @@
+﻿Stage,Four views,Forward pair
+Shortlisted candidates,1100,1100
+Sufficient visual support,207,5
+Pose consistent with frontend odometry,42,0
+Bidirectional LiDAR geometry passed,29,0
+Route-sequence supported,28,0
+Accepted loops,26,0

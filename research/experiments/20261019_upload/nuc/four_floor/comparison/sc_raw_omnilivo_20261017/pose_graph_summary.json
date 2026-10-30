@@ -1,0 +1,145 @@
+{
+  "input": "243 raw Omni-LIVO nodes; SC gap8 K3 threshold0.20 + bidirectional ICP",
+  "edge_count": 35,
+  "graph": "raw odometry + SC ICP loops, no floor/visual/PCM/sequence/ground factors",
+  "raw_floor_pose_statistics": {
+    "0": {
+      "nodes": 36,
+      "median_pose_z_m": 0.8100615895,
+      "p95_p5_pose_z_m": 0.587865301
+    },
+    "1": {
+      "nodes": 44,
+      "median_pose_z_m": -3.635217064,
+      "p95_p5_pose_z_m": 0.31438251085000024
+    },
+    "2": {
+      "nodes": 49,
+      "median_pose_z_m": -7.811698361,
+      "p95_p5_pose_z_m": 0.1613161594000001
+    },
+    "3": {
+      "nodes": 45,
+      "median_pose_z_m": 5.049592102,
+      "p95_p5_pose_z_m": 0.5248124111999992
+    }
+  },
+  "variants": {
+    "plain": {
+      "edge_count": 35,
+      "sc_threshold": 0.2,
+      "median_node_shift_m": 0.2824486782302214,
+      "max_node_shift_m": 1.095216715711205,
+      "max_vertical_shift_m": 1.0382677466460137,
+      "floor_pose_statistics": {
+        "0": {
+          "nodes": 36,
+          "median_pose_z_m": 0.7934098024181899,
+          "p95_p5_pose_z_m": 0.509570292260191
+        },
+        "1": {
+          "nodes": 44,
+          "median_pose_z_m": -4.058390238754582,
+          "p95_p5_pose_z_m": 1.3151931502094465
+        },
+        "2": {
+          "nodes": 49,
+          "median_pose_z_m": -8.063757333091282,
+          "p95_p5_pose_z_m": 1.370088592487515
+        },
+        "3": {
+          "nodes": 45,
+          "median_pose_z_m": 4.869131764678328,
+          "p95_p5_pose_z_m": 0.7271668162833604
+        }
+      }
+    },
+    "cauchy": {
+      "edge_count": 35,
+      "sc_threshold": 0.2,
+      "median_node_shift_m": 0.19261642933918385,
+      "max_node_shift_m": 0.5116207612534397,
+      "max_vertical_shift_m": 0.4742653853935468,
+      "floor_pose_statistics": {
+        "0": {
+          "nodes": 36,
+          "median_pose_z_m": 0.7929053644086876,
+          "p95_p5_pose_z_m": 0.5217226005681228
+        },
+        "1": {
+          "nodes": 44,
+          "median_pose_z_m": -3.9206479370208682,
+          "p95_p5_pose_z_m": 0.6540812188857181
+        },
+        "2": {
+          "nodes": 49,
+          "median_pose_z_m": -7.965736683797265,
+          "p95_p5_pose_z_m": 0.4012383933173238
+        },
+        "3": {
+          "nodes": 45,
+          "median_pose_z_m": 5.0808585096236065,
+          "p95_p5_pose_z_m": 0.6639413685174995
+        }
+      }
+    },
+    "strict_plain": {
+      "edge_count": 21,
+      "sc_threshold": 0.13,
+      "median_node_shift_m": 0.244908171896882,
+      "max_node_shift_m": 1.2568009274069725,
+      "max_vertical_shift_m": 1.222433287664126,
+      "floor_pose_statistics": {
+        "0": {
+          "nodes": 36,
+          "median_pose_z_m": 0.6889545269430847,
+          "p95_p5_pose_z_m": 0.5692366584865836
+        },
+        "1": {
+          "nodes": 44,
+          "median_pose_z_m": -3.7672830247906166,
+          "p95_p5_pose_z_m": 1.2731387185224965
+        },
+        "2": {
+          "nodes": 49,
+          "median_pose_z_m": -7.99074572800304,
+          "p95_p5_pose_z_m": 1.8368001497118938
+        },
+        "3": {
+          "nodes": 45,
+          "median_pose_z_m": 5.1291760019947,
+          "p95_p5_pose_z_m": 0.9852158659807397
+        }
+      }
+    },
+    "strict_cauchy": {
+      "edge_count": 21,
+      "sc_threshold": 0.13,
+      "median_node_shift_m": 0.23255103233108115,
+      "max_node_shift_m": 0.44593909618762995,
+      "max_vertical_shift_m": 0.4064891788745406,
+      "floor_pose_statistics": {
+        "0": {
+          "nodes": 36,
+          "median_pose_z_m": 0.6923804475299109,
+          "p95_p5_pose_z_m": 0.5669949511699234
+        },
+        "1": {
+          "nodes": 44,
+          "median_pose_z_m": -3.8565362115700306,
+          "p95_p5_pose_z_m": 0.43156984137690246
+        },
+        "2": {
+          "nodes": 49,
+          "median_pose_z_m": -7.970873409943204,
+          "p95_p5_pose_z_m": 0.22176656914986204
+        },
+        "3": {
+          "nodes": 45,
+          "median_pose_z_m": 5.184407260744675,
+          "p95_p5_pose_z_m": 1.0178980559314477
+        }
+      }
+    }
+  }
+}

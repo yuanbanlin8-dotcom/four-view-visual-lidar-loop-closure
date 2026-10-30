@@ -1,0 +1,7 @@
+<launch>
+  <arg name="runtime_config"/>
+  <rosparam command="load" file="$(arg runtime_config)"/>
+  <node pkg="omni_livo" type="fastlivo_mapping" name="laserMapping" output="screen" required="true">
+    <rosparam file="$(find omni_livo)/config/seeker_raw_cam.yaml"/>
+  </node>
+</launch>

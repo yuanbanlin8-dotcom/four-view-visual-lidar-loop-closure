@@ -1,0 +1,4 @@
+﻿Ranking,F1,F2,F3,F4,Total
+Joint four-view,11,3,7,5,26
+Independent max,8,5,7,0,20
+w/o LiDAR verification,10,0,6,0,16

@@ -1,0 +1,524 @@
+{
+  "retrieval_variants": [
+    {
+      "gap_nodes": 8,
+      "ring_key_shortlist": 3,
+      "sc_threshold": 0.13,
+      "queries_with_candidate": 234,
+      "top1_below_threshold": 104,
+      "same_floor_posthoc": 26,
+      "cross_floor_posthoc": 27,
+      "unknown_floor_posthoc": 51,
+      "accepted_edge_neighborhoods_covered_of_26": 4
+    },
+    {
+      "gap_nodes": 8,
+      "ring_key_shortlist": 3,
+      "sc_threshold": 0.2,
+      "queries_with_candidate": 234,
+      "top1_below_threshold": 204,
+      "same_floor_posthoc": 56,
+      "cross_floor_posthoc": 77,
+      "unknown_floor_posthoc": 71,
+      "accepted_edge_neighborhoods_covered_of_26": 16
+    },
+    {
+      "gap_nodes": 8,
+      "ring_key_shortlist": 10,
+      "sc_threshold": 0.13,
+      "queries_with_candidate": 234,
+      "top1_below_threshold": 140,
+      "same_floor_posthoc": 28,
+      "cross_floor_posthoc": 51,
+      "unknown_floor_posthoc": 61,
+      "accepted_edge_neighborhoods_covered_of_26": 9
+    },
+    {
+      "gap_nodes": 8,
+      "ring_key_shortlist": 10,
+      "sc_threshold": 0.2,
+      "queries_with_candidate": 234,
+      "top1_below_threshold": 215,
+      "same_floor_posthoc": 44,
+      "cross_floor_posthoc": 93,
+      "unknown_floor_posthoc": 78,
+      "accepted_edge_neighborhoods_covered_of_26": 17
+    },
+    {
+      "gap_nodes": 30,
+      "ring_key_shortlist": 3,
+      "sc_threshold": 0.13,
+      "queries_with_candidate": 212,
+      "top1_below_threshold": 83,
+      "same_floor_posthoc": 6,
+      "cross_floor_posthoc": 40,
+      "unknown_floor_posthoc": 37,
+      "accepted_edge_neighborhoods_covered_of_26": 2
+    },
+    {
+      "gap_nodes": 30,
+      "ring_key_shortlist": 3,
+      "sc_threshold": 0.2,
+      "queries_with_candidate": 212,
+      "top1_below_threshold": 179,
+      "same_floor_posthoc": 15,
+      "cross_floor_posthoc": 101,
+      "unknown_floor_posthoc": 63,
+      "accepted_edge_neighborhoods_covered_of_26": 7
+    },
+    {
+      "gap_nodes": 30,
+      "ring_key_shortlist": 10,
+      "sc_threshold": 0.13,
+      "queries_with_candidate": 212,
+      "top1_below_threshold": 120,
+      "same_floor_posthoc": 4,
+      "cross_floor_posthoc": 66,
+      "unknown_floor_posthoc": 50,
+      "accepted_edge_neighborhoods_covered_of_26": 6
+    },
+    {
+      "gap_nodes": 30,
+      "ring_key_shortlist": 10,
+      "sc_threshold": 0.2,
+      "queries_with_candidate": 212,
+      "top1_below_threshold": 198,
+      "same_floor_posthoc": 8,
+      "cross_floor_posthoc": 117,
+      "unknown_floor_posthoc": 73,
+      "accepted_edge_neighborhoods_covered_of_26": 9
+    }
+  ],
+  "geometry_candidate_count": 204,
+  "geometry_status_counts": {
+    "geometry_pass": 35,
+    "raw_pose_distance_over_15m": 99,
+    "forward_icp_reject": 67,
+    "reverse_icp_reject": 3
+  },
+  "geometry_pass_floor_relation_posthoc": {
+    "unknown": 22,
+    "same": 11,
+    "cross": 2
+  },
+  "known_cross_floor_geometry_pairs": [
+    {
+      "i": 92,
+      "j": 43,
+      "floor_i": 2,
+      "floor_j": 1,
+      "sc_distance": 0.12432387544100587,
+      "raw_position_distance_m": 4.201938724602479,
+      "correction_translation_m": 0.10037540806140818,
+      "forward_fitness": 0.35997414907367514,
+      "reverse_fitness": 0.26223975663085847,
+      "raw_z_difference_m": 4.118585179
+    },
+    {
+      "i": 122,
+      "j": 68,
+      "floor_i": 2,
+      "floor_j": 1,
+      "sc_distance": 0.191831581212637,
+      "raw_position_distance_m": 11.666462833900498,
+      "correction_translation_m": 0.1299853049147369,
+      "forward_fitness": 0.40602836879432624,
+      "reverse_fitness": 0.28703241895261844,
+      "raw_z_difference_m": 4.171469210000001
+    }
+  ],
+  "pose_metric_note": "Median keyframe pose Z per known floor; not mapped ground observations.",
+  "laser_gap_readings_m": [
+    4.18,
+    4.33,
+    4.18
+  ],
+  "pose_statistics": {
+    "raw_omnilivo": {
+      "physical_floor_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "median_pose_z_m": [
+        -7.811698,
+        -3.635217,
+        0.810062,
+        5.049592
+      ],
+      "pose_z_p95_minus_p5_m": [
+        0.161316,
+        0.314383,
+        0.587865,
+        0.524812
+      ],
+      "adjacent_median_pose_z_gaps_m": [
+        4.176481,
+        4.445279,
+        4.239531
+      ],
+      "gap_mae_vs_laser_m": 0.059442622999999806
+    },
+    "sc_plain_020": {
+      "physical_floor_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "median_pose_z_m": [
+        -8.063757,
+        -4.05839,
+        0.79341,
+        4.869132
+      ],
+      "pose_z_p95_minus_p5_m": [
+        1.370089,
+        1.315193,
+        0.50957,
+        0.727167
+      ],
+      "adjacent_median_pose_z_gaps_m": [
+        4.005367,
+        4.8518,
+        4.075722
+      ],
+      "gap_mae_vs_laser_m": 0.2669036615333337
+    },
+    "sc_cauchy_020": {
+      "physical_floor_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "median_pose_z_m": [
+        -7.965737,
+        -3.920648,
+        0.792905,
+        5.080859
+      ],
+      "pose_z_p95_minus_p5_m": [
+        0.401238,
+        0.654081,
+        0.521723,
+        0.663941
+      ],
+      "adjacent_median_pose_z_gaps_m": [
+        4.045089,
+        4.713553,
+        4.287953
+      ],
+      "gap_mae_vs_laser_m": 0.2088058999333331
+    },
+    "sc_plain_013": {
+      "physical_floor_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "median_pose_z_m": [
+        -7.990746,
+        -3.767283,
+        0.688955,
+        5.129176
+      ],
+      "pose_z_p95_minus_p5_m": [
+        1.8368,
+        1.273139,
+        0.569237,
+        0.985216
+      ],
+      "adjacent_median_pose_z_gaps_m": [
+        4.223463,
+        4.456238,
+        4.440221
+      ],
+      "gap_mae_vs_laser_m": 0.1433072433333337
+    },
+    "sc_cauchy_013": {
+      "physical_floor_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "median_pose_z_m": [
+        -7.970873,
+        -3.856536,
+        0.69238,
+        5.184407
+      ],
+      "pose_z_p95_minus_p5_m": [
+        0.221767,
+        0.43157,
+        0.566995,
+        1.017898
+      ],
+      "adjacent_median_pose_z_gaps_m": [
+        4.114337,
+        4.548917,
+        4.492027
+      ],
+      "gap_mae_vs_laser_m": 0.19886875796666637
+    },
+    "full_24s": {
+      "physical_floor_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "median_pose_z_m": [
+        -7.591516,
+        -3.396097,
+        0.914853,
+        5.118392
+      ],
+      "pose_z_p95_minus_p5_m": [
+        0.092315,
+        0.155498,
+        0.281804,
+        0.110108
+      ],
+      "adjacent_median_pose_z_gaps_m": [
+        4.195419,
+        4.31095,
+        4.203539
+      ],
+      "gap_mae_vs_laser_m": 0.019335989333333654
+    }
+  },
+  "posthoc_edge_deletion_diagnostics": {
+    "drop_two_cross": {
+      "remaining_edge_count": 33,
+      "variants": {
+        "plain": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -8.201625,
+            -4.007291,
+            0.793406,
+            4.847818
+          ],
+          "pose_z_p95_minus_p5_m": [
+            1.641887,
+            1.236996,
+            0.50982,
+            0.687608
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.194334,
+            4.800697,
+            4.054412
+          ],
+          "gap_mae_vs_laser_m": 0.20353967416666663
+        },
+        "cauchy": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -8.037234,
+            -3.927476,
+            0.792892,
+            5.074363
+          ],
+          "pose_z_p95_minus_p5_m": [
+            0.478295,
+            0.716104,
+            0.522179,
+            0.653584
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.109758,
+            4.720368,
+            4.281471
+          ],
+          "gap_mae_vs_laser_m": 0.18736038453333315
+        }
+      }
+    },
+    "drop_large_nearby": {
+      "remaining_edge_count": 34,
+      "variants": {
+        "plain": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -7.975999,
+            -3.930819,
+            0.793741,
+            5.093153
+          ],
+          "pose_z_p95_minus_p5_m": [
+            0.414664,
+            0.664513,
+            0.494616,
+            0.668673
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.04518,
+            4.72456,
+            4.299412
+          ],
+          "gap_mae_vs_laser_m": 0.21626413299999983
+        },
+        "cauchy": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -7.961654,
+            -3.91645,
+            0.792912,
+            5.080784
+          ],
+          "pose_z_p95_minus_p5_m": [
+            0.385205,
+            0.640733,
+            0.521514,
+            0.658525
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.045204,
+            4.709361,
+            4.287872
+          ],
+          "gap_mae_vs_laser_m": 0.20734307356666667
+        }
+      }
+    },
+    "drop_three_suspect": {
+      "remaining_edge_count": 32,
+      "variants": {
+        "plain": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -8.042635,
+            -3.939715,
+            0.793734,
+            5.087516
+          ],
+          "pose_z_p95_minus_p5_m": [
+            0.482176,
+            0.730717,
+            0.49481,
+            0.659747
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.10292,
+            4.733449,
+            4.293782
+          ],
+          "gap_mae_vs_laser_m": 0.19810346459999995
+        },
+        "cauchy": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -8.031128,
+            -3.924223,
+            0.792898,
+            5.074553
+          ],
+          "pose_z_p95_minus_p5_m": [
+            0.45838,
+            0.706434,
+            0.521964,
+            0.648687
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.106905,
+            4.717121,
+            4.281655
+          ],
+          "gap_mae_vs_laser_m": 0.18729042819999955
+        }
+      }
+    },
+    "known_same_floor_only": {
+      "remaining_edge_count": 11,
+      "variants": {
+        "plain": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -7.776153,
+            -3.66833,
+            0.809242,
+            5.173855
+          ],
+          "pose_z_p95_minus_p5_m": [
+            0.120259,
+            0.298583,
+            0.300189,
+            0.585671
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.107822,
+            4.477572,
+            4.364613
+          ],
+          "gap_mae_vs_laser_m": 0.13478748596666654
+        },
+        "cauchy": {
+          "physical_floor_order": [
+            2,
+            1,
+            0,
+            3
+          ],
+          "median_pose_z_m": [
+            -7.767649,
+            -3.651345,
+            0.814212,
+            5.157805
+          ],
+          "pose_z_p95_minus_p5_m": [
+            0.126749,
+            0.259735,
+            0.305556,
+            0.570452
+          ],
+          "adjacent_median_pose_z_gaps_m": [
+            4.116305,
+            4.465557,
+            4.343593
+          ],
+          "gap_mae_vs_laser_m": 0.12094858259999992
+        }
+      }
+    }
+  }
+}

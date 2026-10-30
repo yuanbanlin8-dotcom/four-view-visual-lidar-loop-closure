@@ -1,0 +1,37 @@
+{
+  "recording": "20261008_145008",
+  "before_pcd": "/home/nuc/omnilivo_floor_loop_trial/recall_pose_v13_20261010/reintegrate_v14/ws/src/Omni-LIVO/Log/PCD/all_raw_points.pcd",
+  "after_pcd": "/home/nuc/omnilivo_floor_loop_trial/research_sync_20261012/fullres_colored/map_research_vision_pcm_gnc_floor_fullres_colored.pcd",
+  "point_count_each": 153108192,
+  "frame_indices_outward": [
+    14,
+    20
+  ],
+  "frame_indices_return": [
+    115,
+    120
+  ],
+  "corridor_map_y_m": [
+    -26.5,
+    -11.0
+  ],
+  "ground_cell_size_m": 0.5,
+  "identical_spatial_cells_for_both_cases": true,
+  "cases": [
+    {
+      "name": "Omni-LIVO, before loop closure",
+      "matched_cells": 206,
+      "signed_median_gap_m": -0.2099616527557373,
+      "median_abs_gap_m": 0.2099616527557373,
+      "p75_abs_gap_m": 0.22379444539546967
+    },
+    {
+      "name": "Full method, corrected",
+      "matched_cells": 206,
+      "signed_median_gap_m": -0.0001188516616821289,
+      "median_abs_gap_m": 0.003927707672119141,
+      "p75_abs_gap_m": 0.008946314454078674
+    }
+  ],
+  "interpretation": "Same-recording, same-point-order whole-pipeline map consistency; not surveyed floor accuracy."
+}

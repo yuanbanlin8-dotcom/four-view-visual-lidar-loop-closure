@@ -1,0 +1,6602 @@
+[
+  {
+    "camera": 0,
+    "query": 21,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 25,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 27,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 49,
+    "match": 37,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 52,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 54,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 55,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 57,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 58,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 59,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 55,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 56,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 60,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 51,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 56,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 59,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 58,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 51,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 97,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 100,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 102,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 104,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 105,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 106,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 107,
+    "match": 95,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 106,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 106,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 110,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 107,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 106,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 115,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 115,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 169,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 171,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 173,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 175,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 176,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 178,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 164,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 176,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 164,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 185,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 171,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 186,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 169,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 24,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 19,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 24,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 215,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 24,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 9,
+    "decision": "hold_large_pose_disagreement"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 22,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 25,
+    "match": 13,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 27,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 50,
+    "match": 37,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 52,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 54,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 55,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 57,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 58,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 59,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 54,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 56,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 54,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 59,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 58,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 61,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 63,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 58,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 59,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 97,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 100,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 102,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 104,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 105,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 106,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 107,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 100,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 103,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 111,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 114,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 100,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 106,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 169,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 172,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 174,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 175,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 176,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 178,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 174,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 176,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 168,
+    "decision": "hold_large_pose_disagreement"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 181,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 15,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 217,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 24,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 219,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 23,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 25,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 27,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 50,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 52,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 54,
+    "match": 37,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 56,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 57,
+    "match": 37,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 58,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 59,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 51,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 50,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 57,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 56,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 58,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 55,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 55,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 51,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 62,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 98,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 100,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 102,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 104,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 105,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 107,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 100,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 95,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 106,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 112,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 109,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 100,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 110,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 170,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 172,
+    "match": 158,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 174,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 175,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 177,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 178,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 171,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 178,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 169,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 184,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 184,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 176,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 13,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 15,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 15,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 23,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 26,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 47,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 50,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 53,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 54,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 56,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 57,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 58,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 59,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 53,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 55,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 62,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 62,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 54,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 62,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 58,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 98,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 101,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 103,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 104,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 105,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 107,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 103,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 109,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 107,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 109,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 115,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 116,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 170,
+    "match": 158,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 172,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 174,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 175,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 177,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 178,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 169,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 174,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 178,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 164,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 164,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 164,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 178,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 169,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 182,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 182,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 15,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 15,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 13,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 214,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 24,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 26,
+    "match": 13,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 48,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 51,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 53,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 54,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 56,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 57,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 58,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 59,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 57,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 61,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 66,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 99,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 101,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 103,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 104,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 106,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 107,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 106,
+    "decision": "hold_large_pose_disagreement"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 97,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 95,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 114,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 112,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 114,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 116,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 170,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 172,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 174,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 176,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 177,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 178,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 171,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 174,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 183,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 186,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 168,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 187,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 22,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 26,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 22,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 214,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 216,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 218,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 216,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 24,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 26,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 48,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 51,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 53,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 55,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 56,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 57,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 58,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 53,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 51,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 52,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 57,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 58,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 50,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 58,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 99,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 101,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 103,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 104,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 106,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 107,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 89,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 101,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 95,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 103,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 106,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 97,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 89,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 112,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 114,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 106,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 113,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 171,
+    "match": 158,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 173,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 174,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 176,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 177,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 178,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 169,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 169,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 181,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 161,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 180,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 26,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 22,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 214,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 215,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 215,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 215,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 20,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 24,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 26,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 49,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 51,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 53,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 55,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 56,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 57,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 59,
+    "match": 47,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 41,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 37,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 55,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 63,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 37,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 55,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 59,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 64,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 99,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 101,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 103,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 105,
+    "match": 91,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 106,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 107,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 95,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 95,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 100,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 85,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 89,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 103,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 113,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 114,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 110,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 112,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 109,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 171,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 173,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 175,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 176,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 177,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 178,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 159,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 176,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 158,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 178,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 174,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 162,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 183,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 178,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 13,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 26,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 27,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 216,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 216,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 18,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 25,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 27,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 49,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 52,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 53,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 55,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 56,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 58,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 59,
+    "match": 44,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 60,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 61,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 62,
+    "match": 42,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 51,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 63,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 64,
+    "match": 49,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 65,
+    "match": 43,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 66,
+    "match": 35,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 67,
+    "match": 38,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 68,
+    "match": 48,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 69,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 70,
+    "match": 36,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 71,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 72,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 73,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 74,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 40,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 75,
+    "match": 45,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 76,
+    "match": 56,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 39,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 77,
+    "match": 46,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 78,
+    "match": 60,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 96,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 100,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 102,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 103,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 105,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 106,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 107,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 108,
+    "match": 95,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 109,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 110,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 111,
+    "match": 97,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 112,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 113,
+    "match": 97,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 102,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 114,
+    "match": 84,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 115,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 116,
+    "match": 99,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 98,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 117,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 118,
+    "match": 96,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 119,
+    "match": 107,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 120,
+    "match": 92,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 93,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 121,
+    "match": 109,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 122,
+    "match": 90,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 123,
+    "match": 107,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 124,
+    "match": 94,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 125,
+    "match": 100,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 126,
+    "match": 108,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 88,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 127,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 128,
+    "match": 116,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 129,
+    "match": 87,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 130,
+    "match": 104,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 131,
+    "match": 105,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 132,
+    "match": 86,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 168,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 171,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 173,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 175,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 176,
+    "match": 163,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 177,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 179,
+    "match": 158,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 180,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 169,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 181,
+    "match": 156,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 182,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 183,
+    "match": 171,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 184,
+    "match": 167,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 185,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 186,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 187,
+    "match": 157,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 188,
+    "match": 168,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 172,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 189,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 190,
+    "match": 176,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 191,
+    "match": 177,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 192,
+    "match": 173,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 193,
+    "match": 160,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 194,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 195,
+    "match": 183,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 196,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 175,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 197,
+    "match": 184,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 198,
+    "match": 170,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 166,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 199,
+    "match": 178,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 200,
+    "match": 165,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 214,
+    "match": 25,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 15,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 215,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 216,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 217,
+    "match": 26,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 218,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 219,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 220,
+    "match": 17,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 221,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 222,
+    "match": 12,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 16,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 223,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 224,
+    "match": 24,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 225,
+    "match": 15,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 14,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 226,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 227,
+    "match": 21,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 13,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 228,
+    "match": 9,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 229,
+    "match": 11,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 217,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 230,
+    "match": 23,
+    "decision": "reject_visual_support"
+  },
+  {
+    "camera": 0,
+    "query": 231,
+    "match": 218,
+    "decision": "reject_visual_support"
+  }
+]

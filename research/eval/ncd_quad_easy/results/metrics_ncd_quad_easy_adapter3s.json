@@ -1,0 +1,95 @@
+{
+  "protocol_version": "v1-locked-20261023",
+  "name": "ncd_quad_easy_adapter3s",
+  "node_source": "adapter_3s",
+  "frontend": "adapter_GT_3s",
+  "thr_m": 2.0,
+  "dt_min_s": 30.0,
+  "n_nodes_gt": 66,
+  "n_gt_positives": 38,
+  "n_canonical_queries": 31,
+  "n_reverse_positives": 5,
+  "gt_start_end": {
+    "pose_gap_m": 0.297752522570069,
+    "pose_gap_xy_m": 0.28055128265802304,
+    "pose_gap_z_m": -0.09973736759999996,
+    "icp_residual_m": "N/A"
+  },
+  "inputs": {
+    "candidates": "/workspace/project/vision/ncd_quad_easy/candidates.json",
+    "edges_accepted": "/workspace/project/backend/ncd_quad_easy/edges_accepted.edges",
+    "poses_opt": "/workspace/project/backend/ncd_quad_easy/poses_optimised.txt",
+    "poses_odom": "/workspace/project/backend/ncd_quad_easy/poses_odometry.txt"
+  },
+  "missing": [],
+  "R_at_k": {
+    "n_queries": 31,
+    "n_queries_with_candidates": 31,
+    "tol": 1,
+    "recall@1": 0.967741935483871,
+    "hits@1": 30,
+    "recall@5": 1.0,
+    "hits@5": 31,
+    "status": "ok"
+  },
+  "n_accepted_edges": 100,
+  "loop_pr": {
+    "n_pos": 38,
+    "n_edges": 100,
+    "tp": 96,
+    "fp": 4,
+    "unjudged": 0,
+    "precision_est": 0.96,
+    "precision_lower_bound": 0.96,
+    "recall": 0.8421052631578947,
+    "covered_pos": 32,
+    "tol": 1,
+    "n_reverse_pos": 5,
+    "covered_reverse": 0,
+    "status": "ok",
+    "P_est": 0.96,
+    "P_lb": 0.96
+  },
+  "n_verified_edges": "TBD (optional)",
+  "ate_optimised": {
+    "method": "SE3_Umeyama_no_scale",
+    "n": 66,
+    "ate_rmse_m": 0.019790626883410146,
+    "ate_trans_median_m": 0.014215891478580692,
+    "ate_trans_mean_m": 0.01642677238936735,
+    "ate_z_rmse_m": 0.019734256065294824,
+    "ate_xy_rmse_m": 0.0014926653971104418,
+    "status": "ok",
+    "start_end": {
+      "pose_gap_m": 0.3278957943322139,
+      "pose_gap_xy_m": 0.28067534207127565,
+      "pose_gap_z_m": -0.16951992299999996,
+      "icp_residual_m": "N/A"
+    },
+    "path": "/workspace/project/backend/ncd_quad_easy/poses_optimised.txt"
+  },
+  "ate_odometry": {
+    "method": "SE3_Umeyama_no_scale",
+    "n": 66,
+    "ate_rmse_m": 2.7272605553923217e-10,
+    "ate_trans_median_m": 2.1799408249687634e-10,
+    "ate_trans_mean_m": 2.299552474221748e-10,
+    "ate_z_rmse_m": 2.7272539488838227e-10,
+    "ate_xy_rmse_m": 6.002940648721221e-13,
+    "status": "ok",
+    "start_end": {
+      "pose_gap_m": 0.29775252270405594,
+      "pose_gap_xy_m": 0.28055128265802304,
+      "pose_gap_z_m": -0.09973736799999999,
+      "icp_residual_m": "N/A"
+    },
+    "path": "/workspace/project/backend/ncd_quad_easy/poses_odometry.txt"
+  },
+  "map_metrics": {
+    "floor_z": "N/A",
+    "lap_p2pl": "N/A",
+    "wall_sharpness": "N/A",
+    "note": "protocol \u00a73.5"
+  },
+  "ready_to_publish": true
+}

@@ -1,0 +1,2 @@
+frontend,node_source,protocol_version,thr_m,dt_min_s,n_gt_positives,n_canonical_queries,n_reverse_positives,R@1,R@5,n_accepted_edges,P_est,P_lb,Recall,ATE_RMSE_SE3_optimised_m,ATE_trans_median_optimised_m,ATE_Z_RMSE_optimised_m,start_end_gap_optimised_m,ATE_RMSE_SE3_odometry_m,start_end_gap_odometry_m,start_end_gap_GT_m,floor_z / lap_p2pl / sharpness,ready_to_publish,missing_artifacts
+adapter_GT_3s,adapter_3s,v1-locked-20261023,2.0,30.0,38,31,5,0.967742,1.000000,100,0.960000,0.960000,0.842105,0.019791,0.014216,0.019734,0.327896,0.000000,0.297753,0.297753,N/A,True,(none)

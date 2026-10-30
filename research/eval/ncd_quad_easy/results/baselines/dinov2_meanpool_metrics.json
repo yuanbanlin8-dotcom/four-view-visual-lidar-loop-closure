@@ -1,0 +1,41 @@
+{
+  "name": "DINOv2_meanpool_12views",
+  "status": "ok",
+  "note": "Cheap retrieval baseline: L2-normalize each of 4\u00d73 virtual views, mean-pool, cosine. No z-score cam-pair fusion / no shift search (unlike Seeker SoT retrieval). No verify / no accept set \u2192 P/R and ATE = N/A.",
+  "R_at_k_2m_pm1": {
+    "n_queries": 31,
+    "n_queries_with_candidates": 31,
+    "tol": 1,
+    "recall@1": 0.9354838709677419,
+    "hits@1": 29,
+    "recall@5": 1.0,
+    "hits@5": 31
+  },
+  "R_at_k_2m_tol0": {
+    "n_queries": 31,
+    "n_queries_with_candidates": 31,
+    "tol": 0,
+    "recall@1": 0.5161290322580645,
+    "hits@1": 16,
+    "recall@5": 0.967741935483871,
+    "hits@5": 30
+  },
+  "R_at_k_3m_pm1": {
+    "n_queries": 33,
+    "n_queries_with_candidates": 33,
+    "tol": 1,
+    "recall@1": 1.0,
+    "hits@1": 33,
+    "recall@5": 1.0,
+    "hits@5": 33
+  },
+  "R_at_k_3m_tol0": {
+    "n_queries": 33,
+    "n_queries_with_candidates": 33,
+    "tol": 0,
+    "recall@1": 0.8484848484848485,
+    "hits@1": 28,
+    "recall@5": 1.0,
+    "hits@5": 33
+  }
+}

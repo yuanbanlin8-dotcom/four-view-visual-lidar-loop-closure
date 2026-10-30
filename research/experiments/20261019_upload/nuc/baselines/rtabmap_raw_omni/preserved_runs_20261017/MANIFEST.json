@@ -1,0 +1,111 @@
+{
+  "created_utc": "2026-10-17T09:39:20.737272+00:00",
+  "input": "unoptimized OmniLIVO frontend; no optimized trajectory",
+  "files": [
+    {
+      "file": "input_manifest.json",
+      "bytes": 891,
+      "sha256": "c99d2131fada68229dffc2364fd06afc3b25daea8aa5098daf2ba5a0b6c7f03d"
+    },
+    {
+      "file": "odom_poses.txt",
+      "bytes": 26425,
+      "sha256": "08592d566339ef798632edfa4c839a8b33598b9a9e510197e1f49eb56021fe4f"
+    },
+    {
+      "file": "mode0.log",
+      "bytes": 1498,
+      "sha256": "9eeec2911b387c94fa31904cecb5c59667be6a9f848a8c06108dd2588f018b8c"
+    },
+    {
+      "file": "mode1.log",
+      "bytes": 2087,
+      "sha256": "8a8aa40e2fc57bc52b2382cc1b7c9e48ac2678c241363a2162a6ddb638eedafe"
+    },
+    {
+      "file": "mode2.log",
+      "bytes": 1957,
+      "sha256": "43dfeae5d231cff1980db64386ebdc53a4f24b17b3eeb38a52029256dbffedd4"
+    },
+    {
+      "file": "mode3.log",
+      "bytes": 2089,
+      "sha256": "7848d1ccfdae87dff9855e6894be04f5488a316aee5330cc655bf09090f2dbeb"
+    },
+    {
+      "file": "mode4.log",
+      "bytes": 2075,
+      "sha256": "9deebdf4020f3498a734ddee798de7092803428cf795766e34a2938b4efd4dd5"
+    },
+    {
+      "file": "rtabmap_multicam_raw_omni.db",
+      "bytes": 68816896,
+      "sha256": "da3c16ddd29caf98deb987270cd3ec55c5e4a28d8ffdb6bcd0c38a23cdc0a234"
+    },
+    {
+      "file": "rtabmap_multicam_raw_omni_mode1.db",
+      "bytes": 68816896,
+      "sha256": "99f198fa09782644a25c9f99126ec767e93187727e03509fe190ff91810965f4"
+    },
+    {
+      "file": "rtabmap_multicam_raw_omni_mode2.db",
+      "bytes": 68825088,
+      "sha256": "6f4858709eacf46eb6bc396d198a7bbbf15c6d9e4b55e0a4502393c0030df138"
+    },
+    {
+      "file": "rtabmap_multicam_raw_omni_mode3.db",
+      "bytes": 68829184,
+      "sha256": "c6f2d7d5423a5091e2c0df5c3fe4ea3ea7fbda200b082e28fbfe3b7afcf1fde9"
+    },
+    {
+      "file": "rtabmap_multicam_raw_omni_mode4.db",
+      "bytes": 68833280,
+      "sha256": "67f1486a094122a49dec00d6a57c500f776e32627fd1f2d989fedfc0e1f1e88b"
+    },
+    {
+      "file": "multicam_raw_omni_candidates.csv",
+      "bytes": 13561,
+      "sha256": "6e0bc7edd4535184976accaedc173a9f9d2d0b4c6f6e7fed68ac54c718cb05eb"
+    },
+    {
+      "file": "multicam_raw_omni_mode1_candidates.csv",
+      "bytes": 13564,
+      "sha256": "51610d7eb408813b58e20debf343bc99b2aedc889185a14b8866bb3bb534fb28"
+    },
+    {
+      "file": "multicam_raw_omni_mode2_candidates.csv",
+      "bytes": 13571,
+      "sha256": "4e118ba9e46bd92c17313c99e124062ba1a67cb932e7445efc4ae8e38fe5ee04"
+    },
+    {
+      "file": "multicam_raw_omni_mode3_candidates.csv",
+      "bytes": 13567,
+      "sha256": "23314cd912f934bd56737112dab5536bf61b48c447b349e9179399386298945e"
+    },
+    {
+      "file": "multicam_raw_omni_mode4_candidates.csv",
+      "bytes": 13559,
+      "sha256": "fe362b5f19324c402bd2e802e5993a809fb0cf22ed487be08703ad482c5b93b1"
+    },
+    {
+      "file": "four_floor_rtabmap_multicam.cpp",
+      "bytes": 3679,
+      "sha256": "8dae4bb4e83bee7cf12cc8fcb5603585c0a5e6816d613b5ac0188357e0e85fdf"
+    },
+    {
+      "file": "prepare_four_floor_rtabmap_multicam.py",
+      "bytes": 4672,
+      "sha256": "2dbfdd6e5ec6e8e1b77af3edf511b25a9b92ad9372b0504fc4eca19655ca1a2c"
+    },
+    {
+      "file": "camera_models.txt",
+      "bytes": 70,
+      "sha256": "c2c9700d17227a0c369887936760f25644d9675ad6f6c99ac58e69cde49f561f"
+    },
+    {
+      "file": "camera_local_transforms.txt",
+      "bytes": 610,
+      "sha256": "5c405428ca1207b78615250eb982a5645faa8f5df0c93f588f0ad839a6630a82"
+    }
+  ]
+}

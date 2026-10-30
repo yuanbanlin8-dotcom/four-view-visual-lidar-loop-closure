@@ -1,0 +1,12 @@
+{
+  "inputs": {
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929_submaps/poses.json": "ee87f177e1b509f06bbec415adf071c1ec1a9e800db3a812ecb13f0fc1f3c921",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/loop_latest_20261014/candidates.json": "ecf73421be648c454d71afe36111641a5eae73a9e580c2ccd281b23da08704b6",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/loop_latest_20261014/floor_hypotheses.json": "909be5f40100de4b6736c2178fb5f7e734169dfb2cadc269bc8137155f4397da",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/loop_latest_20261014/ground_measurements.json": "34ea8ee8fc9fd505c73a10d6cbbf86e34adcd0bc1baff1f82d00cb44f1a4d8f7",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/comparison_20261016/visual_retrieval/shortlists.json": "97004947b3494b9dfd459c26c5f1154546955db0ca32841fe14078e44d191922",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/comparison_20261016/no_icp_gate/summary.json": "ef897f53c598a14e2336f937936a6c6adc375fa79dbccf8e7191c516e52fbb2a",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/no_icp_gate_end_to_end_20261022/run.py": "29e9a25f10819cebde61167dcf2cfba5549441001bfd74fb8907cc1029ca18da",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/no_icp_gate_end_to_end_20261022/backend.py": "3b71dbf6d032116973d6cda29c9a92a84ae44d29a0fbef4298f7ad0b704b5cdf"
+  }
+}

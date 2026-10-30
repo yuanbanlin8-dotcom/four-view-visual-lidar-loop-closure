@@ -1,0 +1,20 @@
+# Direct Python deps actually used (Python 3.13; trimmed from pip freeze of
+# /workspace/venv_eval, project/vision/.venv and project/backend/.venv).
+# Install all in one venv, or split: eval = numpy/scipy/matplotlib/opencv/rosbags;
+# backend = + gtsam/open3d; vision = + torch/torchvision/kornia/lightglue/PyYAML.
+numpy==2.5.2
+scipy==1.18.1
+matplotlib==3.11.2
+pillow==12.3.0
+opencv-python-headless==5.0.0.93
+rosbags==0.11.6
+PyYAML==6.0.3
+# backend (C2/C3 factor graph, GICP)
+gtsam==4.3.0
+open3d==0.20.0
+# vision (C1). CPU wheels: pip install --index-url https://download.pytorch.org/whl/cpu torch torchvision
+torch==2.14.1
+torchvision==0.29.1
+kornia==0.8.3
+lightglue @ git+https://github.com/cvg/LightGlue.git@eb42fee2d71449efb0aa5c10549752b5d75384d8
+# DINOv2 ViT-B/14 is fetched at runtime via torch.hub (facebookresearch/dinov2); weights are not committed.

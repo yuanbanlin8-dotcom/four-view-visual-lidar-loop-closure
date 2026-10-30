@@ -1,0 +1,86 @@
+{
+  "name": "ORB-BoW (OpenCV stand-in for ORB-DBoW2)",
+  "fair": "partial",
+  "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+  "weights": "OpenCV ORB + k-means k=1024 on-sequence vocab (NOT C++ DBoW2)",
+  "protocol": "v1-locked-20261023",
+  "cam0": {
+    "label": "ORB-BoW (OpenCV stand-in for ORB-DBoW2)_cam0",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.8387096774193549,
+      "hits@1": 26,
+      "recall@5": 0.967741935483871,
+      "hits@5": 30
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.5161290322580645,
+      "hits@1": 16,
+      "recall@5": 0.9354838709677419,
+      "hits@5": 29
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 0.8787878787878788,
+      "hits@1": 29,
+      "recall@5": 0.9696969696969697,
+      "hits@5": 32
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.7575757575757576,
+      "hits@1": 25,
+      "recall@5": 0.9393939393939394,
+      "hits@5": 31
+    }
+  },
+  "cam4": {
+    "label": "ORB-BoW (OpenCV stand-in for ORB-DBoW2)_4cam",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.8387096774193549,
+      "hits@1": 26,
+      "recall@5": 1.0,
+      "hits@5": 31
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.41935483870967744,
+      "hits@1": 13,
+      "recall@5": 0.967741935483871,
+      "hits@5": 30
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 0.9090909090909091,
+      "hits@1": 30,
+      "recall@5": 1.0,
+      "hits@5": 33
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.7272727272727273,
+      "hits@1": 24,
+      "recall@5": 0.9696969696969697,
+      "hits@5": 32
+    }
+  },
+  "caveat": "Not ORB-SLAM2 DBoW2 C++ binary vocab \u2014 OpenCV ORB+k-means BoW stand-in; vocab fit on eval sequence (fairness partial)."
+}

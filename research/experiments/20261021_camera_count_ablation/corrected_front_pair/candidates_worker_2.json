@@ -1,0 +1,3040 @@
+[
+  {
+    "query": 23,
+    "match": 11,
+    "score": -0.4862191081047058,
+    "rank": 1,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 12,
+        "1": 18
+      }
+    }
+  },
+  {
+    "query": 25,
+    "match": 9,
+    "score": -0.4884490370750427,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 30,
+      "inliers": 4,
+      "inlier_cams": 0,
+      "per_cam": {
+        "0": 0,
+        "1": 4
+      },
+      "median_err_deg": 0.39080389948315364,
+      "T": [
+        [
+          0.9901007622628625,
+          0.13487879615663295,
+          0.03883543374080015,
+          1.06262932566089
+        ],
+        [
+          -0.1374691123443777,
+          0.9877129734155211,
+          0.07433253189498377,
+          8.69649196255986
+        ],
+        [
+          -0.028332379316737245,
+          -0.07893536909400868,
+          0.9964770362573565,
+          -2.8036994421236368
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 28.743798876161136,
+      "diff_vs_odom_r_deg": 172.10005948812628,
+      "icp_vs_odom_t_m": 7.944109290391274e-15,
+      "e_inliers_per_cam": {
+        "0": 20,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 27,
+    "match": 9,
+    "score": -1.0560741424560547,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 26,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 15,
+        "1": 9
+      }
+    }
+  },
+  {
+    "query": 50,
+    "match": 37,
+    "score": 0.3200368285179138,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 10
+      }
+    }
+  },
+  {
+    "query": 52,
+    "match": 35,
+    "score": 0.14012956619262695,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 2,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 12,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 54,
+    "match": 38,
+    "score": -0.09463398903608322,
+    "rank": 3,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 3,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 15,
+        "1": 10
+      }
+    }
+  },
+  {
+    "query": 56,
+    "match": 43,
+    "score": 1.2203154563903809,
+    "rank": 1,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 57,
+    "match": 38,
+    "score": -0.14924171566963196,
+    "rank": 3,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 21
+      }
+    }
+  },
+  {
+    "query": 58,
+    "match": 44,
+    "score": 0.6308990120887756,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 10,
+      "inliers": 5,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 5
+      },
+      "median_err_deg": 0.6825951825596547,
+      "T": [
+        [
+          -0.4293438522229458,
+          0.5986519678340445,
+          -0.6762245765770328,
+          -6.081683830699694
+        ],
+        [
+          -0.897529633164033,
+          -0.19948813009799252,
+          0.39324934016784147,
+          16.43797659228767
+        ],
+        [
+          0.10052071503325888,
+          0.7757707827434805,
+          0.6229568833320408,
+          -14.155294918886657
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 66.51152453871063,
+      "diff_vs_odom_r_deg": 74.29997132558373,
+      "icp_vs_odom_t_m": 3.66205343881779e-15,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 59,
+    "match": 37,
+    "score": -0.6109864711761475,
+    "rank": 5,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 3,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 11,
+        "1": 12
+      }
+    }
+  },
+  {
+    "query": 60,
+    "match": 46,
+    "score": 0.0606226921081543,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 18,
+      "inliers": 2,
+      "inlier_cams": 0,
+      "per_cam": {
+        "1": 2
+      },
+      "median_err_deg": 0.4458461372467437,
+      "T": [
+        [
+          -0.4642165322137891,
+          0.7509823899952707,
+          -0.4696045795521967,
+          7.101590761053016
+        ],
+        [
+          -0.813289264697647,
+          -0.5714023852561027,
+          -0.10981751249776765,
+          -4.503413398295256
+        ],
+        [
+          -0.3508041948822235,
+          0.33094525837459554,
+          0.8760203495424107,
+          2.8997111811998795
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 24.322577041795228,
+      "diff_vs_odom_r_deg": 68.04749529825132,
+      "icp_vs_odom_t_m": 3.972054645195637e-15,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 61,
+    "match": 46,
+    "score": -0.35517606139183044,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 4,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 13,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 62,
+    "match": 44,
+    "score": 0.3948930501937866,
+    "rank": 5,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 6,
+        "1": 10
+      }
+    }
+  },
+  {
+    "query": 63,
+    "match": 43,
+    "score": 0.7490624189376831,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 13,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 64,
+    "match": 52,
+    "score": 1.6243112087249756,
+    "rank": 3,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 2,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 15
+      }
+    }
+  },
+  {
+    "query": 65,
+    "match": 36,
+    "score": 0.923846960067749,
+    "rank": 1,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 7,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 20,
+        "1": 38
+      }
+    }
+  },
+  {
+    "query": 65,
+    "match": 52,
+    "score": 0.166842520236969,
+    "rank": 9,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 37
+      }
+    }
+  },
+  {
+    "query": 66,
+    "match": 53,
+    "score": 0.476177453994751,
+    "rank": 6,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 67,
+    "match": 45,
+    "score": 1.9083256721496582,
+    "rank": 3,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 14,
+      "inliers": 4,
+      "inlier_cams": 0,
+      "per_cam": {
+        "0": 4,
+        "1": 0
+      },
+      "median_err_deg": 0.20508866800946476,
+      "T": [
+        [
+          0.5338475815434536,
+          0.6503806462909377,
+          -0.5403811382814798,
+          6.432759036859793
+        ],
+        [
+          -0.7553291902563276,
+          0.654061475812679,
+          0.041004880251754666,
+          0.03624032897871762
+        ],
+        [
+          0.3801112653249388,
+          0.3862752914540646,
+          0.8404206239646617,
+          2.5421743483286323
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 8.577558064343538,
+      "diff_vs_odom_r_deg": 136.15201274993126,
+      "icp_vs_odom_t_m": 1.2560739669470201e-15,
+      "e_inliers_per_cam": {
+        "0": 12,
+        "1": 9
+      }
+    }
+  },
+  {
+    "query": 67,
+    "match": 35,
+    "score": 0.025902390480041504,
+    "rank": 11,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 5,
+        "1": 20
+      }
+    }
+  },
+  {
+    "query": 68,
+    "match": 38,
+    "score": 1.090726375579834,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 12,
+        "1": 15
+      }
+    }
+  },
+  {
+    "query": 69,
+    "match": 42,
+    "score": 1.1651934385299683,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 8,
+      "inliers": 4,
+      "inlier_cams": 0,
+      "per_cam": {
+        "0": 4,
+        "1": 0
+      },
+      "median_err_deg": 0.2356422188288464,
+      "T": [
+        [
+          0.8903580002582044,
+          -0.19258630701475274,
+          0.4125204791602854,
+          1.5105660007290822
+        ],
+        [
+          -0.19939767926594873,
+          -0.9795483325209428,
+          -0.026937515824499852,
+          10.916941417100222
+        ],
+        [
+          0.4092715441849896,
+          -0.05827159347281263,
+          -0.910549957176746,
+          -0.11986788214303826
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 24.600862373778604,
+      "diff_vs_odom_r_deg": 156.57222105152505,
+      "icp_vs_odom_t_m": 8.881784197001252e-16,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 69,
+    "match": 54,
+    "score": -0.4752071499824524,
+    "rank": 12,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 18,
+        "1": 71
+      }
+    }
+  },
+  {
+    "query": 70,
+    "match": 54,
+    "score": 0.608957052230835,
+    "rank": 8,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 20,
+        "1": 31
+      }
+    }
+  },
+  {
+    "query": 71,
+    "match": 49,
+    "score": 1.4938201904296875,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 17,
+        "1": 21
+      }
+    }
+  },
+  {
+    "query": 71,
+    "match": 55,
+    "score": 0.48431554436683655,
+    "rank": 12,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 72,
+    "match": 55,
+    "score": -0.1076246127486229,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 73,
+    "match": 40,
+    "score": 0.5466324090957642,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 7,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 73,
+    "match": 43,
+    "score": -0.31623896956443787,
+    "rank": 12,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 5,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 74,
+    "match": 51,
+    "score": 0.8425547480583191,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 22,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 75,
+    "match": 46,
+    "score": 1.309319257736206,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 39,
+        "1": 33
+      }
+    }
+  },
+  {
+    "query": 75,
+    "match": 49,
+    "score": 0.24651870131492615,
+    "rank": 12,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 22
+      }
+    }
+  },
+  {
+    "query": 76,
+    "match": 64,
+    "score": 0.8285089731216431,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 42
+      }
+    }
+  },
+  {
+    "query": 77,
+    "match": 38,
+    "score": 1.1777527332305908,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 20,
+        "1": 27
+      }
+    }
+  },
+  {
+    "query": 77,
+    "match": 46,
+    "score": 0.27715596556663513,
+    "rank": 12,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 3,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 78,
+    "match": 47,
+    "score": 0.5170308351516724,
+    "rank": 8,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 9,
+      "inliers": 6,
+      "inlier_cams": 1,
+      "per_cam": {
+        "1": 6
+      },
+      "median_err_deg": 0.3031736527219896,
+      "T": [
+        [
+          0.8634060744158489,
+          -0.4493357060481664,
+          0.22940656906899887,
+          0.39102621047767877
+        ],
+        [
+          0.4624492721676555,
+          0.8866373737655557,
+          -0.0038520272226298877,
+          -0.7971615869276691
+        ],
+        [
+          -0.20166958455210654,
+          0.10941476459927138,
+          0.9733230645342105,
+          -0.11988021688316589
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 41.001384742817635,
+      "diff_vs_odom_r_deg": 178.8135653938922,
+      "icp_vs_odom_t_m": 3.972054645195637e-15,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 36
+      }
+    }
+  },
+  {
+    "query": 98,
+    "match": 86,
+    "score": 0.5084370374679565,
+    "rank": 1,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 100,
+    "match": 85,
+    "score": -0.7709450721740723,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 9
+      }
+    }
+  },
+  {
+    "query": 102,
+    "match": 85,
+    "score": -0.8860330581665039,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 28,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 104,
+    "match": 92,
+    "score": 0.9950385689735413,
+    "rank": 3,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 11,
+      "inliers": 1,
+      "inlier_cams": 0,
+      "per_cam": {
+        "0": 1,
+        "1": 0
+      },
+      "median_err_deg": 0.16594235015512235,
+      "T": [
+        [
+          -0.935094708088741,
+          0.27543999981020617,
+          0.2230037968488113,
+          4.906863463334002
+        ],
+        [
+          0.11009918195517951,
+          0.8238907767267055,
+          -0.5559515789684079,
+          10.083017902937893
+        ],
+        [
+          -0.3368620742043137,
+          -0.4953148438409848,
+          -0.8007416240171034,
+          -2.3844688665189957
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 57.38226337655253,
+      "diff_vs_odom_r_deg": 177.60564329143202,
+      "icp_vs_odom_t_m": 3.972054645195637e-15,
+      "e_inliers_per_cam": {
+        "0": 12,
+        "1": 17
+      }
+    }
+  },
+  {
+    "query": 105,
+    "match": 87,
+    "score": 0.9658756256103516,
+    "rank": 5,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 22,
+        "1": 16
+      }
+    }
+  },
+  {
+    "query": 107,
+    "match": 86,
+    "score": 0.9517236351966858,
+    "rank": 1,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 17,
+        "1": 15
+      }
+    }
+  },
+  {
+    "query": 108,
+    "match": 93,
+    "score": 1.0462263822555542,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 13,
+        "1": 19
+      }
+    }
+  },
+  {
+    "query": 109,
+    "match": 86,
+    "score": 0.8175358176231384,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 8,
+        "1": 10
+      }
+    }
+  },
+  {
+    "query": 110,
+    "match": 93,
+    "score": 1.088793158531189,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 13,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 111,
+    "match": 88,
+    "score": 0.7520460486412048,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 23,
+        "1": 32
+      }
+    }
+  },
+  {
+    "query": 112,
+    "match": 88,
+    "score": 1.3220009803771973,
+    "rank": 1,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 11,
+        "1": 14
+      }
+    }
+  },
+  {
+    "query": 112,
+    "match": 97,
+    "score": -0.07249679416418076,
+    "rank": 9,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 5
+      }
+    }
+  },
+  {
+    "query": 113,
+    "match": 85,
+    "score": 0.24293449521064758,
+    "rank": 7,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 2,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 114,
+    "match": 88,
+    "score": 1.1609673500061035,
+    "rank": 5,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 13,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 115,
+    "match": 94,
+    "score": 1.052978515625,
+    "rank": 3,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 29
+      }
+    }
+  },
+  {
+    "query": 115,
+    "match": 84,
+    "score": 0.4278557002544403,
+    "rank": 11,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 24,
+        "1": 29
+      }
+    }
+  },
+  {
+    "query": 116,
+    "match": 86,
+    "score": 0.4819774925708771,
+    "rank": 8,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 36
+      }
+    }
+  },
+  {
+    "query": 117,
+    "match": 94,
+    "score": 0.7247255444526672,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 42,
+        "1": 13
+      }
+    }
+  },
+  {
+    "query": 117,
+    "match": 85,
+    "score": -0.7302752137184143,
+    "rank": 12,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 13,
+        "1": 22
+      }
+    }
+  },
+  {
+    "query": 118,
+    "match": 101,
+    "score": -0.44729140400886536,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 9
+      }
+    }
+  },
+  {
+    "query": 119,
+    "match": 93,
+    "score": 0.07949265092611313,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 44,
+        "1": 42
+      }
+    }
+  },
+  {
+    "query": 119,
+    "match": 107,
+    "score": -0.7104392647743225,
+    "rank": 12,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 19
+      }
+    }
+  },
+  {
+    "query": 120,
+    "match": 87,
+    "score": 0.890811562538147,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 2,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 12
+      }
+    }
+  },
+  {
+    "query": 121,
+    "match": 92,
+    "score": -0.3695451021194458,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 3,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 16
+      }
+    }
+  },
+  {
+    "query": 121,
+    "match": 98,
+    "score": -0.7365964651107788,
+    "rank": 12,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 11,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 122,
+    "match": 95,
+    "score": 0.37896233797073364,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 20,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 123,
+    "match": 93,
+    "score": 1.213683843612671,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 10
+      }
+    }
+  },
+  {
+    "query": 123,
+    "match": 90,
+    "score": 0.685880720615387,
+    "rank": 12,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 9,
+      "inliers": 7,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 6,
+        "1": 1
+      },
+      "median_err_deg": 0.2555876750627836,
+      "T": [
+        [
+          0.9809475412957057,
+          -0.07336042693935282,
+          0.17988932426685633,
+          1.3058501631503976
+        ],
+        [
+          0.0005855070693754766,
+          -0.9248418830666664,
+          -0.38035134876476395,
+          8.376911742440116
+        ],
+        [
+          0.19427191873089128,
+          0.37321004687036397,
+          -0.9071784182329513,
+          -1.9432601100588196
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 16.1380427683164,
+      "diff_vs_odom_r_deg": 162.50389012445203,
+      "icp_vs_odom_t_m": 9.930136612989092e-16,
+      "e_inliers_per_cam": {
+        "0": 21,
+        "1": 19
+      }
+    }
+  },
+  {
+    "query": 124,
+    "match": 109,
+    "score": 0.7045672535896301,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 10,
+      "inliers": 5,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 0,
+        "1": 5
+      },
+      "median_err_deg": 0.19057516400005858,
+      "T": [
+        [
+          -0.45320756618246916,
+          -0.8573623401210904,
+          0.24399327797513254,
+          0.5672959108384213
+        ],
+        [
+          0.7621751150056681,
+          -0.23076024875189927,
+          0.6048460975008914,
+          -6.5019628416727135
+        ],
+        [
+          -0.46226831604714064,
+          0.4600864324646501,
+          0.7580425308918304,
+          5.854031133606639
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 39.633560016525955,
+      "diff_vs_odom_r_deg": 134.052472379903,
+      "icp_vs_odom_t_m": 7.105427357601002e-15,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 125,
+    "match": 100,
+    "score": 1.544668436050415,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 11,
+        "1": 14
+      }
+    }
+  },
+  {
+    "query": 125,
+    "match": 90,
+    "score": 0.5516235828399658,
+    "rank": 12,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 3,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 17,
+        "1": 19
+      }
+    }
+  },
+  {
+    "query": 126,
+    "match": 101,
+    "score": 0.9430640935897827,
+    "rank": 8,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 27
+      }
+    }
+  },
+  {
+    "query": 127,
+    "match": 93,
+    "score": 1.5630444288253784,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 16
+      }
+    }
+  },
+  {
+    "query": 127,
+    "match": 109,
+    "score": 0.3748936653137207,
+    "rank": 12,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 4,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 24,
+        "1": 18
+      }
+    }
+  },
+  {
+    "query": 128,
+    "match": 89,
+    "score": 0.969996988773346,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 11,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 18
+      }
+    }
+  },
+  {
+    "query": 129,
+    "match": 91,
+    "score": 1.8712215423583984,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 4,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 30
+      }
+    }
+  },
+  {
+    "query": 129,
+    "match": 110,
+    "score": 0.779421329498291,
+    "rank": 12,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 26,
+      "inliers": 16,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 2,
+        "1": 14
+      },
+      "median_err_deg": 0.23054608239446162,
+      "T": [
+        [
+          0.9876999527176534,
+          -0.15401557579399777,
+          0.02698158287403316,
+          0.038962761253155294
+        ],
+        [
+          0.15583257407065526,
+          0.9837713429112357,
+          -0.08893904499789483,
+          -0.4265135804516254
+        ],
+        [
+          -0.012845709791939348,
+          0.09204970005093528,
+          0.9956715525013627,
+          -0.06559019448133968
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 59.523944235244606,
+      "diff_vs_odom_r_deg": 4.239751641566163,
+      "icp_vs_odom_t_m": 4.440892098500626e-16,
+      "e_inliers_per_cam": {
+        "0": 35,
+        "1": 34
+      },
+      "icp_T": [
+        [
+          0.9875110447120762,
+          -0.1300296239013847,
+          0.08896197771930026,
+          -0.10826229497953248
+        ],
+        [
+          0.135539165417616,
+          0.9890162263662587,
+          -0.05895793943262997,
+          -0.34378188841808327
+        ],
+        [
+          -0.08031856080359609,
+          0.07027944857716223,
+          0.9942885536392987,
+          0.07677286874566792
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "icp_fitness": 0.7412028599467265,
+      "icp_rmse": 0.07875731210235365,
+      "icp_n": 5287,
+      "icp_corr_t": 0.22087777575126907,
+      "icp_corr_r": 4.208104844017117,
+      "reverse_fitness": 0.41749295480638765,
+      "reverse_rmse": 0.07586248888778493
+    }
+  },
+  {
+    "query": 130,
+    "match": 91,
+    "score": 1.035017967224121,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 4,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 18
+      }
+    }
+  },
+  {
+    "query": 131,
+    "match": 94,
+    "score": -0.5655419230461121,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 14
+      }
+    }
+  },
+  {
+    "query": 131,
+    "match": 103,
+    "score": -0.8540096282958984,
+    "rank": 12,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 6,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 6,
+        "1": 9
+      }
+    }
+  },
+  {
+    "query": 132,
+    "match": 93,
+    "score": -0.25245562195777893,
+    "rank": 8,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 14,
+        "1": 26
+      }
+    }
+  },
+  {
+    "query": 170,
+    "match": 158,
+    "score": -0.4193243980407715,
+    "rank": 1,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 172,
+    "match": 159,
+    "score": -0.34755566716194153,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 23,
+        "1": 25
+      }
+    }
+  },
+  {
+    "query": 174,
+    "match": 160,
+    "score": 0.1314171552658081,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 175,
+    "match": 157,
+    "score": -1.631864070892334,
+    "rank": 5,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 21,
+        "1": 22
+      }
+    }
+  },
+  {
+    "query": 177,
+    "match": 160,
+    "score": 0.8583645224571228,
+    "rank": 1,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 178,
+    "match": 160,
+    "score": 0.4967348277568817,
+    "rank": 3,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 20,
+        "1": 20
+      }
+    }
+  },
+  {
+    "query": 179,
+    "match": 158,
+    "score": -0.46317440271377563,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 29,
+        "1": 22
+      }
+    }
+  },
+  {
+    "query": 180,
+    "match": 160,
+    "score": -0.38674473762512207,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 37,
+        "1": 18
+      }
+    }
+  },
+  {
+    "query": 181,
+    "match": 165,
+    "score": 0.5312455296516418,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 29,
+        "1": 22
+      }
+    }
+  },
+  {
+    "query": 182,
+    "match": 169,
+    "score": 0.533426821231842,
+    "rank": 3,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 43,
+        "1": 32
+      }
+    }
+  },
+  {
+    "query": 183,
+    "match": 169,
+    "score": 1.055678367614746,
+    "rank": 1,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 9
+      }
+    }
+  },
+  {
+    "query": 183,
+    "match": 157,
+    "score": -1.175812005996704,
+    "rank": 9,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 184,
+    "match": 166,
+    "score": 0.6478116512298584,
+    "rank": 7,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 5,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 21,
+        "1": 12
+      }
+    }
+  },
+  {
+    "query": 185,
+    "match": 167,
+    "score": 0.28437548875808716,
+    "rank": 5,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 4,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 28,
+        "1": 21
+      }
+    }
+  },
+  {
+    "query": 186,
+    "match": 172,
+    "score": 1.356145977973938,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 18,
+      "inliers": 5,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 0,
+        "1": 5
+      },
+      "median_err_deg": 0.24302481553706884,
+      "T": [
+        [
+          0.9612175159407824,
+          -0.24469038307585803,
+          -0.1272301201713706,
+          0.9319743607192739
+        ],
+        [
+          0.2595918523880851,
+          0.9585078609345637,
+          0.11779113167114696,
+          -1.1211246719806758
+        ],
+        [
+          0.09312871320035614,
+          -0.14625080155963827,
+          0.9848541749014466,
+          -2.332892544950034
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 3.1109939419163815,
+      "diff_vs_odom_r_deg": 168.4337643052102,
+      "icp_vs_odom_t_m": 2.7755575615628914e-17,
+      "e_inliers_per_cam": {
+        "0": 12,
+        "1": 22
+      }
+    }
+  },
+  {
+    "query": 186,
+    "match": 173,
+    "score": 0.5456465482711792,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 8,
+        "1": 9
+      }
+    }
+  },
+  {
+    "query": 187,
+    "match": 173,
+    "score": 0.5953397154808044,
+    "rank": 6,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 10
+      }
+    }
+  },
+  {
+    "query": 188,
+    "match": 163,
+    "score": 1.298558235168457,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 17,
+        "1": 17
+      }
+    }
+  },
+  {
+    "query": 188,
+    "match": 175,
+    "score": 0.42269569635391235,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 4,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 8,
+        "1": 14
+      }
+    }
+  },
+  {
+    "query": 189,
+    "match": 160,
+    "score": 1.4528597593307495,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 2,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 35,
+        "1": 32
+      }
+    }
+  },
+  {
+    "query": 190,
+    "match": 161,
+    "score": 1.0405415296554565,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 35,
+        "1": 32
+      }
+    }
+  },
+  {
+    "query": 190,
+    "match": 166,
+    "score": 0.14580349624156952,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 9,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 24,
+        "1": 40
+      }
+    }
+  },
+  {
+    "query": 191,
+    "match": 178,
+    "score": 0.45702481269836426,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 54,
+        "1": 30
+      }
+    }
+  },
+  {
+    "query": 192,
+    "match": 162,
+    "score": 1.5326473712921143,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 24,
+        "1": 20
+      }
+    }
+  },
+  {
+    "query": 192,
+    "match": 177,
+    "score": 0.6823325157165527,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 30,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 193,
+    "match": 175,
+    "score": 0.4820868968963623,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 6,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 20,
+        "1": 19
+      }
+    }
+  },
+  {
+    "query": 194,
+    "match": 166,
+    "score": 1.601528286933899,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 17,
+      "inliers": 6,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 0,
+        "1": 6
+      },
+      "median_err_deg": 0.2675478470266986,
+      "T": [
+        [
+          0.23725588895315786,
+          0.9271622585030507,
+          -0.28996515232794573,
+          3.4179742119673597
+        ],
+        [
+          -0.9670862416669567,
+          0.25367473798417306,
+          0.01983251086326865,
+          0.4306070908281652
+        ],
+        [
+          0.09194478960510692,
+          0.2757159293841817,
+          0.9568316894565572,
+          -0.267165341897129
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 5.497436558038544,
+      "diff_vs_odom_r_deg": 120.66672384083222,
+      "icp_vs_odom_t_m": 9.155133597044475e-16,
+      "e_inliers_per_cam": {
+        "0": 30,
+        "1": 30
+      }
+    }
+  },
+  {
+    "query": 194,
+    "match": 178,
+    "score": 0.7506275177001953,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 6,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 13,
+        "1": 13
+      }
+    }
+  },
+  {
+    "query": 195,
+    "match": 162,
+    "score": 1.150273323059082,
+    "rank": 6,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 15,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 196,
+    "match": 165,
+    "score": 1.756906270980835,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 26,
+        "1": 34
+      }
+    }
+  },
+  {
+    "query": 196,
+    "match": 183,
+    "score": 0.5422973036766052,
+    "rank": 10,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 21,
+      "inliers": 7,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 0,
+        "1": 7
+      },
+      "median_err_deg": 0.21390679739729593,
+      "T": [
+        [
+          0.982318053716102,
+          -0.0071960216526509545,
+          -0.18708142242292192,
+          -2.9186708578635656
+        ],
+        [
+          -0.025658370793272055,
+          0.9846577090398597,
+          -0.17260024344307778,
+          -3.488207940849267
+        ],
+        [
+          0.18545319989594178,
+          0.17434853971498965,
+          0.9670624061287908,
+          -1.4693291358422897
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 47.84698577443387,
+      "diff_vs_odom_r_deg": 27.621502527852478,
+      "icp_vs_odom_t_m": 1.7763568394002505e-15,
+      "e_inliers_per_cam": {
+        "0": 39,
+        "1": 82
+      }
+    }
+  },
+  {
+    "query": 197,
+    "match": 173,
+    "score": 1.1660940647125244,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 40,
+        "1": 59
+      }
+    }
+  },
+  {
+    "query": 198,
+    "match": 172,
+    "score": 1.3686144351959229,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 4,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 17,
+        "1": 21
+      }
+    }
+  },
+  {
+    "query": 198,
+    "match": 173,
+    "score": 0.7084983587265015,
+    "rank": 10,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 39,
+        "1": 48
+      }
+    }
+  },
+  {
+    "query": 199,
+    "match": 172,
+    "score": 0.7630627155303955,
+    "rank": 6,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 12,
+        "1": 26
+      }
+    }
+  },
+  {
+    "query": 200,
+    "match": 187,
+    "score": 0.6781978607177734,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 8,
+        "1": 12
+      }
+    }
+  },
+  {
+    "query": 200,
+    "match": 188,
+    "score": 0.24113720655441284,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 12
+      }
+    }
+  },
+  {
+    "query": 214,
+    "match": 23,
+    "score": 0.6233457922935486,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 14,
+      "inliers": 4,
+      "inlier_cams": 0,
+      "per_cam": {
+        "1": 4
+      },
+      "median_err_deg": 0.05650547906655944,
+      "T": [
+        [
+          0.85075088839362,
+          0.13732902194661534,
+          -0.5073102262212467,
+          -1.1413940798466164
+        ],
+        [
+          -0.4204217846056969,
+          0.7570613039189719,
+          -0.500103694384942,
+          2.257879109729926
+        ],
+        [
+          0.31538619013271246,
+          0.638747932943577,
+          0.7018066893624485,
+          -3.9607047353828877
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 23.961820722121843,
+      "diff_vs_odom_r_deg": 160.79361452178827,
+      "icp_vs_odom_t_m": 4.440892098500626e-16,
+      "e_inliers_per_cam": {
+        "0": 22,
+        "1": 34
+      }
+    }
+  },
+  {
+    "query": 215,
+    "match": 12,
+    "score": 0.7852874398231506,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 8,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 216,
+    "match": 27,
+    "score": 1.0224850177764893,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 3,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 6,
+        "1": 12
+      }
+    }
+  },
+  {
+    "query": 216,
+    "match": 11,
+    "score": -0.4199771285057068,
+    "rank": 10,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 17,
+        "1": 43
+      }
+    }
+  },
+  {
+    "query": 217,
+    "match": 17,
+    "score": 0.5829986929893494,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 218,
+    "match": 15,
+    "score": 0.6038422584533691,
+    "rank": 6,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 28,
+        "1": 25
+      }
+    }
+  },
+  {
+    "query": 219,
+    "match": 16,
+    "score": 0.9717495441436768,
+    "rank": 4,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 6,
+        "1": 7
+      }
+    }
+  },
+  {
+    "query": 220,
+    "match": 27,
+    "score": 1.49628484249115,
+    "rank": 2,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 8,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 19
+      }
+    }
+  },
+  {
+    "query": 220,
+    "match": 9,
+    "score": -1.8425540924072266,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 14,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 1,
+        "1": 13
+      }
+    }
+  },
+  {
+    "query": 221,
+    "match": 12,
+    "score": 0.24913841485977173,
+    "rank": 8,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 38,
+        "1": 29
+      }
+    }
+  },
+  {
+    "query": 222,
+    "match": 20,
+    "score": 0.5617910623550415,
+    "rank": 6,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 223,
+    "match": 12,
+    "score": 0.8420143723487854,
+    "rank": 4,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 27,
+        "1": 20
+      }
+    }
+  },
+  {
+    "query": 224,
+    "match": 23,
+    "score": 0.9742087125778198,
+    "rank": 2,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 20
+      }
+    }
+  },
+  {
+    "query": 224,
+    "match": 9,
+    "score": -2.498859405517578,
+    "rank": 10,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 19,
+      "inliers": 4,
+      "inlier_cams": 0,
+      "per_cam": {
+        "0": 0,
+        "1": 4
+      },
+      "median_err_deg": 0.09631695097108636,
+      "T": [
+        [
+          0.9069684397181127,
+          0.31526022378622937,
+          -0.27931924504686123,
+          -0.506720286364504
+        ],
+        [
+          -0.28129780922613284,
+          0.9469529932845357,
+          0.15540775731615206,
+          1.0693121684058073
+        ],
+        [
+          0.31349607952870817,
+          -0.06237803946674211,
+          0.9475384890928786,
+          0.15461061068183649
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 14.376180842684693,
+      "diff_vs_odom_r_deg": 11.086623701545799,
+      "icp_vs_odom_t_m": 8.881784197001252e-16,
+      "e_inliers_per_cam": {
+        "0": 10,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 225,
+    "match": 16,
+    "score": 0.3599052429199219,
+    "rank": 8,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 226,
+    "match": 20,
+    "score": 0.7295271158218384,
+    "rank": 6,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 6,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 227,
+    "match": 214,
+    "score": 1.1861836910247803,
+    "rank": 3,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 8,
+        "1": 8
+      }
+    }
+  },
+  {
+    "query": 227,
+    "match": 9,
+    "score": -0.8474533557891846,
+    "rank": 11,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 20,
+      "inliers": 5,
+      "inlier_cams": 0,
+      "per_cam": {
+        "0": 4,
+        "1": 1
+      },
+      "median_err_deg": 0.2771856792055339,
+      "T": [
+        [
+          0.3582543254105747,
+          -0.6686038990695092,
+          -0.6516307731174634,
+          7.068710848417771
+        ],
+        [
+          -0.858219226084684,
+          -0.5106322989390731,
+          0.05210005046833127,
+          15.440788076637718
+        ],
+        [
+          -0.36757801662126044,
+          0.5405769893634451,
+          -0.7567449506059051,
+          -12.285942765496378
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 20.67579696009588,
+      "diff_vs_odom_r_deg": 142.4005613876875,
+      "icp_vs_odom_t_m": 8.881784197001252e-16,
+      "e_inliers_per_cam": {
+        "0": 7,
+        "1": 11
+      }
+    }
+  },
+  {
+    "query": 228,
+    "match": 27,
+    "score": -0.21486130356788635,
+    "rank": 7,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 7,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 15,
+        "1": 16
+      }
+    }
+  },
+  {
+    "query": 229,
+    "match": 12,
+    "score": 1.5705080032348633,
+    "rank": 3,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 1,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 9,
+        "1": 15
+      }
+    }
+  },
+  {
+    "query": 229,
+    "match": 9,
+    "score": -0.009358303621411324,
+    "rank": 11,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 34,
+      "inliers": 14,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 2,
+        "1": 12
+      },
+      "median_err_deg": 0.3505519135650996,
+      "T": [
+        [
+          0.9554722913942488,
+          0.07663639047588969,
+          -0.28495537200174087,
+          -1.7398416826358205
+        ],
+        [
+          -0.10228958074738592,
+          0.991828854052744,
+          -0.07623887419777732,
+          -0.6194965952133289
+        ],
+        [
+          0.27678428793619697,
+          0.10199209735684163,
+          0.9555040921044791,
+          -0.8827883179662493
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 6.331713098881013,
+      "diff_vs_odom_r_deg": 116.49404581485625,
+      "icp_vs_odom_t_m": 3.1401849173675503e-16,
+      "e_inliers_per_cam": {
+        "0": 40,
+        "1": 30
+      },
+      "icp_T": [
+        [
+          0.9877312874237173,
+          0.15596654283000524,
+          -0.007832072646588882,
+          -2.1570365622958008
+        ],
+        [
+          -0.15616303590285127,
+          0.9865202767368618,
+          -0.048896316882062536,
+          -0.5356971667555422
+        ],
+        [
+          0.00010030897352026107,
+          0.049519502266100614,
+          0.9987731518385077,
+          0.5651524675829513
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "icp_fitness": 0.21329428243983192,
+      "icp_rmse": 0.10299627386363817,
+      "icp_n": 3350,
+      "icp_corr_t": 1.5091740887920102,
+      "icp_corr_r": 16.713900230944237,
+      "reverse_fitness": 0.1874766355140187,
+      "reverse_rmse": 0.097206750060203
+    }
+  },
+  {
+    "query": 230,
+    "match": 24,
+    "score": 0.15196193754673004,
+    "rank": 7,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 8,
+        "1": 6
+      }
+    }
+  },
+  {
+    "query": 231,
+    "match": 18,
+    "score": 0.5304909944534302,
+    "rank": 3,
+    "shift": 1,
+    "camera": 4,
+    "sp": {
+      "n_corr": 0,
+      "success": false,
+      "inliers": 0,
+      "e_inliers_per_cam": {
+        "0": 17,
+        "1": 12
+      }
+    }
+  },
+  {
+    "query": 231,
+    "match": 23,
+    "score": -0.6941535472869873,
+    "rank": 11,
+    "shift": 0,
+    "camera": 4,
+    "sp": {
+      "n_corr": 18,
+      "inliers": 5,
+      "inlier_cams": 1,
+      "per_cam": {
+        "0": 0,
+        "1": 5
+      },
+      "median_err_deg": 0.24775899201976423,
+      "T": [
+        [
+          0.8710127505286268,
+          -0.48861779353979856,
+          -0.05088654294462347,
+          -2.3064777916007864
+        ],
+        [
+          0.43382136479791816,
+          0.8136389320085499,
+          -0.38702805035921894,
+          3.090847554858636
+        ],
+        [
+          0.2305120644596022,
+          0.31503069716503074,
+          0.9206627221639242,
+          -0.591016157490985
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "success": false,
+      "diff_vs_odom_t_m": 26.79621072037724,
+      "diff_vs_odom_r_deg": 95.12468707040418,
+      "icp_vs_odom_t_m": 5.068262347813025e-15,
+      "e_inliers_per_cam": {
+        "0": 16,
+        "1": 9
+      }
+    }
+  }
+]

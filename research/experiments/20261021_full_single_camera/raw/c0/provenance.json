@@ -1,0 +1,25 @@
+{
+  "description": "Four fixed-camera end-to-end visual-input controls on the frozen four-floor data.\n\nEach control uses the same physical camera on both traversals for retrieval,\nfeature matching, essential geometry and LiDAR-depth PnP. LiDAR ICP, sequence\nsupport, ground factors and the GNC backend are unchanged. This is a single-view\nvisual-input ablation, not a vision-only monocular-SLAM benchmark.\n",
+  "worker_count": 8,
+  "cameras": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "tasks": 4400,
+  "files": {
+    "/home/nuc/five_floor_optimization_20261013/research/multifloor/verify.py": "f5818d1f97d57dbd2915003cc5341389cfd6ccda9e5b0af126eb854e84ede25c",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/comparison_20261016/visual_retrieval/shortlists.json": "97004947b3494b9dfd459c26c5f1154546955db0ca32841fe14078e44d191922",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/full_single_camera_20261021/scripts/backend.py": "3b71dbf6d032116973d6cda29c9a92a84ae44d29a0fbef4298f7ad0b704b5cdf",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/vision_input/global_dinov2.npz": "ccabf8f5796ef0de5d67cd5e6adba5be079f98a3418233fe0fbad0c2bfff2886",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929_submaps/poses.json": "ee87f177e1b509f06bbec415adf071c1ec1a9e800db3a812ecb13f0fc1f3c921",
+    "/home/nuc/five_floor_optimization_20261013/research/vision/src/pnp_multicam.py": "ec3cf2584f2cc119e3148083b31e681a3ff54f5b59b918d012d001f6e0b2cf5d",
+    "/home/nuc/five_floor_optimization_20261013/research/vision/src/match_reverse.py": "2a50947fc77772d7a4a9d64708277fc8722ee7533449279d3a4e5afcb05c6490"
+  },
+  "verifier_patch": {
+    "fixed_same_camera": true,
+    "one_camera_gate": true,
+    "all_other_thresholds_unchanged": true
+  }
+}

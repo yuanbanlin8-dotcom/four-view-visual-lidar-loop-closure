@@ -1,0 +1,157 @@
+{
+  "0": {
+    "pcd": "rtabmap_multicam_fastlio_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "af7acefc89220f5adcc03820dfc79d799e7b5943a4d85b0ba3bcf7067c34dc18",
+    "max_pose_correction_m": 0.0001445683229500933,
+    "median_pose_correction_m": 2.0000000000131024e-05,
+    "return_z_m": 0.014520329999999998,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -7.17179,
+        "p90_z_range_m": 0.4424139999999994
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -3.290795,
+        "p90_z_range_m": 0.8191379999999997
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.9842035,
+        "p90_z_range_m": 0.33069899999999997
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 5.13741,
+        "p90_z_range_m": 0.15974999999999984
+      }
+    }
+  },
+  "1": {
+    "pcd": "rtabmap_multicam_fastlio_mode1_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "4a84b377da9d5c3634f034b7f2663593a45b5c9d69aec6ddc64e6bf471529e0d",
+    "max_pose_correction_m": 4.192117332702414,
+    "median_pose_correction_m": 2.0242629024165817,
+    "return_z_m": 0.005346610000000001,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -4.43714,
+        "p90_z_range_m": 0.5976439999999998
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -0.2883205,
+        "p90_z_range_m": 4.449964049999999
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.9116569999999999,
+        "p90_z_range_m": 2.2740973175
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 6.73938,
+        "p90_z_range_m": 0.7357800000000001
+      }
+    }
+  },
+  "2": {
+    "pcd": "rtabmap_multicam_fastlio_mode2_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "de085482a7d041c23b2df567cf778261cc16176d06122d18bc9ff1cc2e6e63e0",
+    "max_pose_correction_m": 3.6699872272802265,
+    "median_pose_correction_m": 1.9092221970216021,
+    "return_z_m": 0.008354529999999999,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -5.41395,
+        "p90_z_range_m": 1.6413680000000004
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -1.36829,
+        "p90_z_range_m": 3.7667753
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.8996824999999999,
+        "p90_z_range_m": 0.8903105000000001
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 5.96281,
+        "p90_z_range_m": 0.746179999999999
+      }
+    }
+  },
+  "3": {
+    "pcd": "rtabmap_multicam_fastlio_mode3_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "14c933c974b59321ddaef572b20734674020a609394c9a78a12976e25e3b7b44",
+    "max_pose_correction_m": 3.5560779715861126,
+    "median_pose_correction_m": 1.2645776362485635,
+    "return_z_m": -0.011155149999999999,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -4.8549,
+        "p90_z_range_m": 1.530164
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -2.2179599999999997,
+        "p90_z_range_m": 3.6366800400000003
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.9440195,
+        "p90_z_range_m": 0.7760625000000001
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 6.13835,
+        "p90_z_range_m": 0.8741380000000003
+      }
+    }
+  },
+  "4": {
+    "pcd": "rtabmap_multicam_fastlio_mode4_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "916b5578ca685ce23f0a6815123bd88f52c21a7e3f144675de6372b10477ba14",
+    "max_pose_correction_m": 8.223567192941333,
+    "median_pose_correction_m": 2.727698209113317,
+    "return_z_m": 0.015990129999999998,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -3.77385,
+        "p90_z_range_m": 0.4609399999999999
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": 0.1170245,
+        "p90_z_range_m": 4.4221591
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.9744955,
+        "p90_z_range_m": 1.17349025
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 6.55689,
+        "p90_z_range_m": 1.976954000000001
+      }
+    }
+  }
+}

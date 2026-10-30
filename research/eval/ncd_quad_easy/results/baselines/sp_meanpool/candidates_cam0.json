@@ -1,0 +1,7922 @@
+[
+  {
+    "query_id": 0,
+    "candidate_id": 6,
+    "rank": 1,
+    "score": 0.9117392301559448
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 24,
+    "rank": 2,
+    "score": 0.9032444357872009
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 54,
+    "rank": 3,
+    "score": 0.8922152519226074
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 22,
+    "rank": 4,
+    "score": 0.8895965814590454
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 55,
+    "rank": 5,
+    "score": 0.8888125419616699
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 52,
+    "rank": 6,
+    "score": 0.8762639760971069
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 23,
+    "rank": 7,
+    "score": 0.8734445571899414
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 7,
+    "rank": 8,
+    "score": 0.8702597618103027
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 53,
+    "rank": 9,
+    "score": 0.8686106204986572
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 38,
+    "rank": 10,
+    "score": 0.8679253458976746
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 56,
+    "rank": 11,
+    "score": 0.8670615553855896
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 41,
+    "rank": 12,
+    "score": 0.8592252135276794
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 11,
+    "rank": 13,
+    "score": 0.8471720814704895
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 42,
+    "rank": 14,
+    "score": 0.8440297842025757
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 40,
+    "rank": 15,
+    "score": 0.8437803387641907
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 5,
+    "rank": 16,
+    "score": 0.8433187007904053
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 21,
+    "rank": 17,
+    "score": 0.8405892848968506
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 10,
+    "rank": 18,
+    "score": 0.8374655246734619
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 25,
+    "rank": 19,
+    "score": 0.8312315940856934
+  },
+  {
+    "query_id": 0,
+    "candidate_id": 9,
+    "rank": 20,
+    "score": 0.8310075998306274
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 6,
+    "rank": 1,
+    "score": 0.9180604219436646
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 24,
+    "rank": 2,
+    "score": 0.9004702568054199
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 55,
+    "rank": 3,
+    "score": 0.8929595947265625
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 54,
+    "rank": 4,
+    "score": 0.8922697901725769
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 22,
+    "rank": 5,
+    "score": 0.8860889077186584
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 7,
+    "rank": 6,
+    "score": 0.8762426972389221
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 23,
+    "rank": 7,
+    "score": 0.8722442984580994
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 38,
+    "rank": 8,
+    "score": 0.8707015514373779
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 53,
+    "rank": 9,
+    "score": 0.8692342042922974
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 56,
+    "rank": 10,
+    "score": 0.8675662279129028
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 52,
+    "rank": 11,
+    "score": 0.8670740723609924
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 41,
+    "rank": 12,
+    "score": 0.8589195013046265
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 40,
+    "rank": 13,
+    "score": 0.8487028479576111
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 11,
+    "rank": 14,
+    "score": 0.8458725214004517
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.8432382941246033
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 10,
+    "rank": 16,
+    "score": 0.84321129322052
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 36,
+    "rank": 17,
+    "score": 0.8392738699913025
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 25,
+    "rank": 18,
+    "score": 0.8356422185897827
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 9,
+    "rank": 19,
+    "score": 0.8332255482673645
+  },
+  {
+    "query_id": 1,
+    "candidate_id": 21,
+    "rank": 20,
+    "score": 0.8311662673950195
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 34,
+    "rank": 1,
+    "score": 0.9135446548461914
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 33,
+    "rank": 2,
+    "score": 0.9082326889038086
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 35,
+    "rank": 3,
+    "score": 0.8976486921310425
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 36,
+    "rank": 4,
+    "score": 0.8684391975402832
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 32,
+    "rank": 5,
+    "score": 0.8670588135719299
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 54,
+    "rank": 6,
+    "score": 0.8608502149581909
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 23,
+    "rank": 7,
+    "score": 0.8548554182052612
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 52,
+    "rank": 8,
+    "score": 0.8537706136703491
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 62,
+    "rank": 9,
+    "score": 0.8488757610321045
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 24,
+    "rank": 10,
+    "score": 0.8455007076263428
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 22,
+    "rank": 11,
+    "score": 0.8430402278900146
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 63,
+    "rank": 12,
+    "score": 0.8422191739082336
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 53,
+    "rank": 13,
+    "score": 0.838838517665863
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 40,
+    "rank": 14,
+    "score": 0.8250004649162292
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 41,
+    "rank": 15,
+    "score": 0.8238765001296997
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 38,
+    "rank": 16,
+    "score": 0.814676821231842
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 55,
+    "rank": 17,
+    "score": 0.812233567237854
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 10,
+    "rank": 18,
+    "score": 0.8104957342147827
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 21,
+    "rank": 19,
+    "score": 0.808069109916687
+  },
+  {
+    "query_id": 2,
+    "candidate_id": 11,
+    "rank": 20,
+    "score": 0.8049457669258118
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 33,
+    "rank": 1,
+    "score": 0.9378534555435181
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 34,
+    "rank": 2,
+    "score": 0.9367404580116272
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 35,
+    "rank": 3,
+    "score": 0.9043874740600586
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 63,
+    "rank": 4,
+    "score": 0.8880546689033508
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 32,
+    "rank": 5,
+    "score": 0.8679651618003845
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 23,
+    "rank": 6,
+    "score": 0.8489755988121033
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 62,
+    "rank": 7,
+    "score": 0.8398346900939941
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 36,
+    "rank": 8,
+    "score": 0.8355662226676941
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 65,
+    "rank": 9,
+    "score": 0.833669900894165
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 52,
+    "rank": 10,
+    "score": 0.8240922093391418
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 54,
+    "rank": 11,
+    "score": 0.821627676486969
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 24,
+    "rank": 12,
+    "score": 0.8152257204055786
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 22,
+    "rank": 13,
+    "score": 0.8110814094543457
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 53,
+    "rank": 14,
+    "score": 0.8037629723548889
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 21,
+    "rank": 15,
+    "score": 0.794418215751648
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 40,
+    "rank": 16,
+    "score": 0.782066822052002
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 41,
+    "rank": 17,
+    "score": 0.7785910367965698
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 31,
+    "rank": 18,
+    "score": 0.7669199705123901
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 64,
+    "rank": 19,
+    "score": 0.7665436267852783
+  },
+  {
+    "query_id": 3,
+    "candidate_id": 42,
+    "rank": 20,
+    "score": 0.7627054452896118
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 34,
+    "rank": 1,
+    "score": 0.9764004945755005
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 35,
+    "rank": 2,
+    "score": 0.9731245636940002
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 33,
+    "rank": 3,
+    "score": 0.9646596908569336
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 32,
+    "rank": 4,
+    "score": 0.9324936866760254
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 62,
+    "rank": 5,
+    "score": 0.9286589026451111
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 36,
+    "rank": 6,
+    "score": 0.9096749424934387
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 31,
+    "rank": 7,
+    "score": 0.8647146224975586
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 63,
+    "rank": 8,
+    "score": 0.8526267409324646
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 54,
+    "rank": 9,
+    "score": 0.8473272919654846
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 40,
+    "rank": 10,
+    "score": 0.8430298566818237
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 61,
+    "rank": 11,
+    "score": 0.840172290802002
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 23,
+    "rank": 12,
+    "score": 0.8377012610435486
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 52,
+    "rank": 13,
+    "score": 0.8297238945960999
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 41,
+    "rank": 14,
+    "score": 0.827200174331665
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 10,
+    "rank": 15,
+    "score": 0.8239060640335083
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 24,
+    "rank": 16,
+    "score": 0.8225196599960327
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 53,
+    "rank": 17,
+    "score": 0.8209484815597534
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 22,
+    "rank": 18,
+    "score": 0.8181166052818298
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 42,
+    "rank": 19,
+    "score": 0.8119393587112427
+  },
+  {
+    "query_id": 4,
+    "candidate_id": 11,
+    "rank": 20,
+    "score": 0.8081269860267639
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 35,
+    "rank": 1,
+    "score": 0.9824559092521667
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 36,
+    "rank": 2,
+    "score": 0.9685969948768616
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 34,
+    "rank": 3,
+    "score": 0.9446229934692383
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 33,
+    "rank": 4,
+    "score": 0.918257474899292
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 62,
+    "rank": 5,
+    "score": 0.9007247686386108
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 32,
+    "rank": 6,
+    "score": 0.8984382152557373
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 40,
+    "rank": 7,
+    "score": 0.889618456363678
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 10,
+    "rank": 8,
+    "score": 0.8816642165184021
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 41,
+    "rank": 9,
+    "score": 0.877817690372467
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 54,
+    "rank": 10,
+    "score": 0.869167149066925
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 53,
+    "rank": 11,
+    "score": 0.8564776182174683
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 42,
+    "rank": 12,
+    "score": 0.8503597378730774
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 22,
+    "rank": 13,
+    "score": 0.8496665954589844
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 11,
+    "rank": 14,
+    "score": 0.849342942237854
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 23,
+    "rank": 15,
+    "score": 0.8440423011779785
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 0,
+    "rank": 16,
+    "score": 0.8433187007904053
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 52,
+    "rank": 17,
+    "score": 0.8406869769096375
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 24,
+    "rank": 18,
+    "score": 0.8370255827903748
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 31,
+    "rank": 19,
+    "score": 0.8357445001602173
+  },
+  {
+    "query_id": 5,
+    "candidate_id": 61,
+    "rank": 20,
+    "score": 0.8271493315696716
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 38,
+    "rank": 1,
+    "score": 0.9543589949607849
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 41,
+    "rank": 2,
+    "score": 0.9471482634544373
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 40,
+    "rank": 3,
+    "score": 0.9442883133888245
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 56,
+    "rank": 4,
+    "score": 0.9436859488487244
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 54,
+    "rank": 5,
+    "score": 0.9353165030479431
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 11,
+    "rank": 6,
+    "score": 0.9264332056045532
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 22,
+    "rank": 7,
+    "score": 0.9261309504508972
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 55,
+    "rank": 8,
+    "score": 0.9228118062019348
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 53,
+    "rank": 9,
+    "score": 0.9213189482688904
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 52,
+    "rank": 10,
+    "score": 0.9188592433929443
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 42,
+    "rank": 11,
+    "score": 0.9180731177330017
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 1,
+    "rank": 12,
+    "score": 0.9180604219436646
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 51,
+    "rank": 13,
+    "score": 0.9158572554588318
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 0,
+    "rank": 14,
+    "score": 0.9117392301559448
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 24,
+    "rank": 15,
+    "score": 0.9044888019561768
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 57,
+    "rank": 16,
+    "score": 0.9037755727767944
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 36,
+    "rank": 17,
+    "score": 0.9025251865386963
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 25,
+    "rank": 18,
+    "score": 0.9013547301292419
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 12,
+    "rank": 19,
+    "score": 0.895190954208374
+  },
+  {
+    "query_id": 6,
+    "candidate_id": 26,
+    "rank": 20,
+    "score": 0.8943738341331482
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 38,
+    "rank": 1,
+    "score": 0.9717958569526672
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 56,
+    "rank": 2,
+    "score": 0.9345108866691589
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 37,
+    "rank": 3,
+    "score": 0.9226354360580444
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 57,
+    "rank": 4,
+    "score": 0.9200722575187683
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 41,
+    "rank": 5,
+    "score": 0.9146064519882202
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 40,
+    "rank": 6,
+    "score": 0.9145536422729492
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 51,
+    "rank": 7,
+    "score": 0.9142407178878784
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 55,
+    "rank": 8,
+    "score": 0.9113283157348633
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 26,
+    "rank": 9,
+    "score": 0.9081776142120361
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 22,
+    "rank": 10,
+    "score": 0.902039647102356
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 54,
+    "rank": 11,
+    "score": 0.9015979170799255
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 42,
+    "rank": 12,
+    "score": 0.896914005279541
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 52,
+    "rank": 13,
+    "score": 0.8959099650382996
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 53,
+    "rank": 14,
+    "score": 0.8951745629310608
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 43,
+    "rank": 15,
+    "score": 0.8905730843544006
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 12,
+    "rank": 16,
+    "score": 0.8883050680160522
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 25,
+    "rank": 17,
+    "score": 0.8880934715270996
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 50,
+    "rank": 18,
+    "score": 0.876438319683075
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 1,
+    "rank": 19,
+    "score": 0.8762426972389221
+  },
+  {
+    "query_id": 7,
+    "candidate_id": 24,
+    "rank": 20,
+    "score": 0.8729196190834045
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 38,
+    "rank": 1,
+    "score": 0.8727597594261169
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 39,
+    "rank": 2,
+    "score": 0.8622833490371704
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 27,
+    "rank": 3,
+    "score": 0.860601544380188
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 40,
+    "rank": 4,
+    "score": 0.854820191860199
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 58,
+    "rank": 5,
+    "score": 0.8536022305488586
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 29,
+    "rank": 6,
+    "score": 0.8448037505149841
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 59,
+    "rank": 7,
+    "score": 0.8435154557228088
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 51,
+    "rank": 8,
+    "score": 0.8381924033164978
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 57,
+    "rank": 9,
+    "score": 0.8362244367599487
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 60,
+    "rank": 10,
+    "score": 0.8286386728286743
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 26,
+    "rank": 11,
+    "score": 0.8262837529182434
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 28,
+    "rank": 12,
+    "score": 0.8243761658668518
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 37,
+    "rank": 13,
+    "score": 0.8231343030929565
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 56,
+    "rank": 14,
+    "score": 0.8128711581230164
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 30,
+    "rank": 15,
+    "score": 0.8104808330535889
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 41,
+    "rank": 16,
+    "score": 0.8020660281181335
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 20,
+    "rank": 17,
+    "score": 0.7984580397605896
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 43,
+    "rank": 18,
+    "score": 0.7931780219078064
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 55,
+    "rank": 19,
+    "score": 0.7907190918922424
+  },
+  {
+    "query_id": 8,
+    "candidate_id": 21,
+    "rank": 20,
+    "score": 0.7900152206420898
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 40,
+    "rank": 1,
+    "score": 0.9856693744659424
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 41,
+    "rank": 2,
+    "score": 0.9781739711761475
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 42,
+    "rank": 3,
+    "score": 0.9696316123008728
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.9466271996498108
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 56,
+    "rank": 5,
+    "score": 0.928459882736206
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 57,
+    "rank": 6,
+    "score": 0.9266621470451355
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 51,
+    "rank": 7,
+    "score": 0.9162728786468506
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 26,
+    "rank": 8,
+    "score": 0.9116931557655334
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 44,
+    "rank": 9,
+    "score": 0.9099364280700684
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 54,
+    "rank": 10,
+    "score": 0.9099168181419373
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 20,
+    "rank": 11,
+    "score": 0.9061038494110107
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 55,
+    "rank": 12,
+    "score": 0.905509352684021
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 27,
+    "rank": 13,
+    "score": 0.9014018177986145
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 38,
+    "rank": 14,
+    "score": 0.8984952569007874
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 50,
+    "rank": 15,
+    "score": 0.8977248072624207
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 52,
+    "rank": 16,
+    "score": 0.895628035068512
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 53,
+    "rank": 17,
+    "score": 0.8949634432792664
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 58,
+    "rank": 18,
+    "score": 0.8941190242767334
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 14,
+    "rank": 19,
+    "score": 0.8917886018753052
+  },
+  {
+    "query_id": 9,
+    "candidate_id": 22,
+    "rank": 20,
+    "score": 0.8900830745697021
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 40,
+    "rank": 1,
+    "score": 0.9908006191253662
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 41,
+    "rank": 2,
+    "score": 0.9837252497673035
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 42,
+    "rank": 3,
+    "score": 0.9675525426864624
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.9401847720146179
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 56,
+    "rank": 5,
+    "score": 0.9316198825836182
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 54,
+    "rank": 6,
+    "score": 0.9212714433670044
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 51,
+    "rank": 7,
+    "score": 0.9156469702720642
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 57,
+    "rank": 8,
+    "score": 0.9093686938285828
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 38,
+    "rank": 9,
+    "score": 0.9054339528083801
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 53,
+    "rank": 10,
+    "score": 0.904147744178772
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 55,
+    "rank": 11,
+    "score": 0.9038633108139038
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 26,
+    "rank": 12,
+    "score": 0.9035757184028625
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 52,
+    "rank": 13,
+    "score": 0.9031071662902832
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 25,
+    "rank": 14,
+    "score": 0.894596517086029
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 22,
+    "rank": 15,
+    "score": 0.89347904920578
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 44,
+    "rank": 16,
+    "score": 0.8916023969650269
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 20,
+    "rank": 17,
+    "score": 0.8910449743270874
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 60,
+    "rank": 18,
+    "score": 0.8900004029273987
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 5,
+    "rank": 19,
+    "score": 0.8816642165184021
+  },
+  {
+    "query_id": 10,
+    "candidate_id": 58,
+    "rank": 20,
+    "score": 0.8779500126838684
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 41,
+    "rank": 1,
+    "score": 0.9918313026428223
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 42,
+    "rank": 2,
+    "score": 0.985416829586029
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 40,
+    "rank": 3,
+    "score": 0.9761555194854736
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.9650548696517944
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 44,
+    "rank": 5,
+    "score": 0.9348611235618591
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 6,
+    "rank": 6,
+    "score": 0.9264332056045532
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 57,
+    "rank": 7,
+    "score": 0.9230602979660034
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 56,
+    "rank": 8,
+    "score": 0.9193039536476135
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 47,
+    "rank": 9,
+    "score": 0.9088261127471924
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 51,
+    "rank": 10,
+    "score": 0.9087133407592773
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 26,
+    "rank": 11,
+    "score": 0.9077632427215576
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 54,
+    "rank": 12,
+    "score": 0.9068927764892578
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 16,
+    "rank": 13,
+    "score": 0.905851423740387
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 20,
+    "rank": 14,
+    "score": 0.9053386449813843
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 50,
+    "rank": 15,
+    "score": 0.9039703607559204
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 45,
+    "rank": 16,
+    "score": 0.9029286503791809
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 52,
+    "rank": 17,
+    "score": 0.9001025557518005
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 55,
+    "rank": 18,
+    "score": 0.8969842791557312
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 46,
+    "rank": 19,
+    "score": 0.8914239406585693
+  },
+  {
+    "query_id": 11,
+    "candidate_id": 22,
+    "rank": 20,
+    "score": 0.8908284306526184
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 42,
+    "rank": 1,
+    "score": 0.988466739654541
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 43,
+    "rank": 2,
+    "score": 0.9873360991477966
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 41,
+    "rank": 3,
+    "score": 0.9716423749923706
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 44,
+    "rank": 4,
+    "score": 0.9711192846298218
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 40,
+    "rank": 5,
+    "score": 0.9500275254249573
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 45,
+    "rank": 6,
+    "score": 0.9348488450050354
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 47,
+    "rank": 7,
+    "score": 0.9324962496757507
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 50,
+    "rank": 8,
+    "score": 0.9294141530990601
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 18,
+    "rank": 9,
+    "score": 0.9249271750450134
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 20,
+    "rank": 10,
+    "score": 0.9240431785583496
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 57,
+    "rank": 11,
+    "score": 0.9228700995445251
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 49,
+    "rank": 12,
+    "score": 0.9228020906448364
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 46,
+    "rank": 13,
+    "score": 0.9227191209793091
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 48,
+    "rank": 14,
+    "score": 0.9221862554550171
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 17,
+    "rank": 15,
+    "score": 0.9209286570549011
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 19,
+    "rank": 16,
+    "score": 0.9208834767341614
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 26,
+    "rank": 17,
+    "score": 0.9095919728279114
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 51,
+    "rank": 18,
+    "score": 0.9078256487846375
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 56,
+    "rank": 19,
+    "score": 0.9008094668388367
+  },
+  {
+    "query_id": 12,
+    "candidate_id": 52,
+    "rank": 20,
+    "score": 0.8980443477630615
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 44,
+    "rank": 1,
+    "score": 0.9911554455757141
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 43,
+    "rank": 2,
+    "score": 0.9861062169075012
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 42,
+    "rank": 3,
+    "score": 0.9582151770591736
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 45,
+    "rank": 4,
+    "score": 0.9570640325546265
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 18,
+    "rank": 5,
+    "score": 0.9392560124397278
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 41,
+    "rank": 6,
+    "score": 0.9361562132835388
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 50,
+    "rank": 7,
+    "score": 0.9357292652130127
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 46,
+    "rank": 8,
+    "score": 0.9350969791412354
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 48,
+    "rank": 9,
+    "score": 0.9343048930168152
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 47,
+    "rank": 10,
+    "score": 0.9324825406074524
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 49,
+    "rank": 11,
+    "score": 0.931658923625946
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 19,
+    "rank": 12,
+    "score": 0.9307735562324524
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 20,
+    "rank": 13,
+    "score": 0.9219079613685608
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 57,
+    "rank": 14,
+    "score": 0.9149526953697205
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 27,
+    "rank": 15,
+    "score": 0.9138814210891724
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 40,
+    "rank": 16,
+    "score": 0.9072446227073669
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 58,
+    "rank": 17,
+    "score": 0.9029434323310852
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 26,
+    "rank": 18,
+    "score": 0.9012333750724792
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 51,
+    "rank": 19,
+    "score": 0.8991113305091858
+  },
+  {
+    "query_id": 13,
+    "candidate_id": 56,
+    "rank": 20,
+    "score": 0.8784310221672058
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 45,
+    "rank": 1,
+    "score": 0.9880884885787964
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 46,
+    "rank": 2,
+    "score": 0.9776977896690369
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 44,
+    "rank": 3,
+    "score": 0.9776944518089294
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.963315486907959
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 47,
+    "rank": 5,
+    "score": 0.9602630734443665
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 48,
+    "rank": 6,
+    "score": 0.9451373219490051
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 20,
+    "rank": 7,
+    "score": 0.9418564438819885
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 19,
+    "rank": 8,
+    "score": 0.938517153263092
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 50,
+    "rank": 9,
+    "score": 0.9365367889404297
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 42,
+    "rank": 10,
+    "score": 0.93588787317276
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 49,
+    "rank": 11,
+    "score": 0.9285696744918823
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 41,
+    "rank": 12,
+    "score": 0.9128630757331848
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 51,
+    "rank": 13,
+    "score": 0.9026920199394226
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 52,
+    "rank": 14,
+    "score": 0.8979225158691406
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 26,
+    "rank": 15,
+    "score": 0.896306037902832
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 9,
+    "rank": 16,
+    "score": 0.8917886018753052
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 40,
+    "rank": 17,
+    "score": 0.890792727470398
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 22,
+    "rank": 18,
+    "score": 0.8892358541488647
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 21,
+    "rank": 19,
+    "score": 0.8859845995903015
+  },
+  {
+    "query_id": 14,
+    "candidate_id": 57,
+    "rank": 20,
+    "score": 0.8847754597663879
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 45,
+    "rank": 1,
+    "score": 0.9882852435112
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 46,
+    "rank": 2,
+    "score": 0.9862509965896606
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 47,
+    "rank": 3,
+    "score": 0.9641897678375244
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 44,
+    "rank": 4,
+    "score": 0.9411500692367554
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 48,
+    "rank": 5,
+    "score": 0.9403384923934937
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 20,
+    "rank": 6,
+    "score": 0.9241633415222168
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 43,
+    "rank": 7,
+    "score": 0.9193156361579895
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 50,
+    "rank": 8,
+    "score": 0.9171136617660522
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 49,
+    "rank": 9,
+    "score": 0.9145526885986328
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 42,
+    "rank": 10,
+    "score": 0.8953485488891602
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 51,
+    "rank": 11,
+    "score": 0.88199782371521
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 52,
+    "rank": 12,
+    "score": 0.8807501196861267
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 22,
+    "rank": 13,
+    "score": 0.8784480690956116
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 41,
+    "rank": 14,
+    "score": 0.8732755780220032
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 26,
+    "rank": 15,
+    "score": 0.8708340525627136
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 21,
+    "rank": 16,
+    "score": 0.8703208565711975
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 53,
+    "rank": 17,
+    "score": 0.8637070655822754
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 57,
+    "rank": 18,
+    "score": 0.8612093329429626
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 56,
+    "rank": 19,
+    "score": 0.8541101813316345
+  },
+  {
+    "query_id": 15,
+    "candidate_id": 9,
+    "rank": 20,
+    "score": 0.8538580536842346
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 47,
+    "rank": 1,
+    "score": 0.9861674308776855
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 46,
+    "rank": 2,
+    "score": 0.9838101863861084
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 45,
+    "rank": 3,
+    "score": 0.9772046804428101
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 48,
+    "rank": 4,
+    "score": 0.9736014604568481
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 44,
+    "rank": 5,
+    "score": 0.9591251015663147
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 49,
+    "rank": 6,
+    "score": 0.9564298987388611
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 50,
+    "rank": 7,
+    "score": 0.9446286559104919
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 43,
+    "rank": 8,
+    "score": 0.9387058615684509
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 42,
+    "rank": 9,
+    "score": 0.9186493754386902
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 57,
+    "rank": 10,
+    "score": 0.9104909300804138
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 26,
+    "rank": 11,
+    "score": 0.9099673628807068
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 41,
+    "rank": 12,
+    "score": 0.9069007635116577
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 11,
+    "rank": 13,
+    "score": 0.905851423740387
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 51,
+    "rank": 14,
+    "score": 0.9049279689788818
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 22,
+    "rank": 15,
+    "score": 0.9033352732658386
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 52,
+    "rank": 16,
+    "score": 0.9021928906440735
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 56,
+    "rank": 17,
+    "score": 0.896048367023468
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 53,
+    "rank": 18,
+    "score": 0.8893316388130188
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 25,
+    "rank": 19,
+    "score": 0.8876270651817322
+  },
+  {
+    "query_id": 16,
+    "candidate_id": 9,
+    "rank": 20,
+    "score": 0.8833385705947876
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 48,
+    "rank": 1,
+    "score": 0.9942581653594971
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 47,
+    "rank": 2,
+    "score": 0.9855404496192932
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 49,
+    "rank": 3,
+    "score": 0.9781808853149414
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 46,
+    "rank": 4,
+    "score": 0.9708683490753174
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 45,
+    "rank": 5,
+    "score": 0.9562357664108276
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 50,
+    "rank": 6,
+    "score": 0.9476466774940491
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 44,
+    "rank": 7,
+    "score": 0.9461135268211365
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 43,
+    "rank": 8,
+    "score": 0.9233413338661194
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 12,
+    "rank": 9,
+    "score": 0.9209286570549011
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 57,
+    "rank": 10,
+    "score": 0.9067140817642212
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 42,
+    "rank": 11,
+    "score": 0.901459813117981
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 51,
+    "rank": 12,
+    "score": 0.8909074068069458
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 26,
+    "rank": 13,
+    "score": 0.8904486298561096
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 11,
+    "rank": 14,
+    "score": 0.8859635591506958
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 52,
+    "rank": 15,
+    "score": 0.8825474977493286
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 27,
+    "rank": 16,
+    "score": 0.8794075846672058
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 22,
+    "rank": 17,
+    "score": 0.8788357377052307
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 58,
+    "rank": 18,
+    "score": 0.8771701455116272
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 41,
+    "rank": 19,
+    "score": 0.8756545782089233
+  },
+  {
+    "query_id": 17,
+    "candidate_id": 56,
+    "rank": 20,
+    "score": 0.8628648519515991
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 49,
+    "rank": 1,
+    "score": 0.9919310212135315
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 48,
+    "rank": 2,
+    "score": 0.9904363751411438
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 47,
+    "rank": 3,
+    "score": 0.9619163870811462
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 50,
+    "rank": 4,
+    "score": 0.9610586166381836
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 44,
+    "rank": 5,
+    "score": 0.9539267420768738
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 46,
+    "rank": 6,
+    "score": 0.9465065002441406
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 13,
+    "rank": 7,
+    "score": 0.9392560124397278
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 45,
+    "rank": 8,
+    "score": 0.9367170333862305
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 43,
+    "rank": 9,
+    "score": 0.9303736686706543
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 12,
+    "rank": 10,
+    "score": 0.9249271750450134
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 57,
+    "rank": 11,
+    "score": 0.9228247404098511
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 27,
+    "rank": 12,
+    "score": 0.9072080254554749
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 58,
+    "rank": 13,
+    "score": 0.9019830226898193
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 26,
+    "rank": 14,
+    "score": 0.897114634513855
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.8961625099182129
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 51,
+    "rank": 16,
+    "score": 0.8956495523452759
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 11,
+    "rank": 17,
+    "score": 0.8838057518005371
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 52,
+    "rank": 18,
+    "score": 0.8753533959388733
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 59,
+    "rank": 19,
+    "score": 0.8742254376411438
+  },
+  {
+    "query_id": 18,
+    "candidate_id": 41,
+    "rank": 20,
+    "score": 0.872541069984436
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 50,
+    "rank": 1,
+    "score": 0.9832181334495544
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 49,
+    "rank": 2,
+    "score": 0.9765881299972534
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 48,
+    "rank": 3,
+    "score": 0.9679943919181824
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 47,
+    "rank": 4,
+    "score": 0.9563518166542053
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 45,
+    "rank": 5,
+    "score": 0.9467079043388367
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 46,
+    "rank": 6,
+    "score": 0.940984308719635
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 14,
+    "rank": 7,
+    "score": 0.938517153263092
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 44,
+    "rank": 8,
+    "score": 0.9343717098236084
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 51,
+    "rank": 9,
+    "score": 0.9325118660926819
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 13,
+    "rank": 10,
+    "score": 0.9307735562324524
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 43,
+    "rank": 11,
+    "score": 0.9234876036643982
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 12,
+    "rank": 12,
+    "score": 0.9208834767341614
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 57,
+    "rank": 13,
+    "score": 0.9090923070907593
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 52,
+    "rank": 14,
+    "score": 0.9086783528327942
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.9081766605377197
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 27,
+    "rank": 16,
+    "score": 0.8966718912124634
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 58,
+    "rank": 17,
+    "score": 0.8891186118125916
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 11,
+    "rank": 18,
+    "score": 0.8889042735099792
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 41,
+    "rank": 19,
+    "score": 0.8868640661239624
+  },
+  {
+    "query_id": 19,
+    "candidate_id": 26,
+    "rank": 20,
+    "score": 0.8868264555931091
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 50,
+    "rank": 1,
+    "score": 0.9798828363418579
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 51,
+    "rank": 2,
+    "score": 0.9743478894233704
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 52,
+    "rank": 3,
+    "score": 0.9501208662986755
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 45,
+    "rank": 4,
+    "score": 0.9474376440048218
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 14,
+    "rank": 5,
+    "score": 0.9418564438819885
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 47,
+    "rank": 6,
+    "score": 0.9355099201202393
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 49,
+    "rank": 7,
+    "score": 0.9334322214126587
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 46,
+    "rank": 8,
+    "score": 0.9330710768699646
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 48,
+    "rank": 9,
+    "score": 0.9318966865539551
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 43,
+    "rank": 10,
+    "score": 0.9278007745742798
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 25,
+    "rank": 11,
+    "score": 0.92743319272995
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 53,
+    "rank": 12,
+    "score": 0.926494300365448
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 15,
+    "rank": 13,
+    "score": 0.9241633415222168
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 12,
+    "rank": 14,
+    "score": 0.9240431785583496
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.9232834577560425
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 44,
+    "rank": 16,
+    "score": 0.9224144816398621
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 13,
+    "rank": 17,
+    "score": 0.9219079613685608
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 26,
+    "rank": 18,
+    "score": 0.9199156165122986
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 54,
+    "rank": 19,
+    "score": 0.9134403467178345
+  },
+  {
+    "query_id": 20,
+    "candidate_id": 57,
+    "rank": 20,
+    "score": 0.9133968949317932
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 52,
+    "rank": 1,
+    "score": 0.9709086418151855
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 51,
+    "rank": 2,
+    "score": 0.9534157514572144
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 53,
+    "rank": 3,
+    "score": 0.9383919835090637
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 54,
+    "rank": 4,
+    "score": 0.9353803396224976
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 50,
+    "rank": 5,
+    "score": 0.9264331459999084
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 55,
+    "rank": 6,
+    "score": 0.9075450897216797
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 40,
+    "rank": 7,
+    "score": 0.8952084183692932
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 26,
+    "rank": 8,
+    "score": 0.8938537836074829
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 38,
+    "rank": 9,
+    "score": 0.8895921111106873
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 45,
+    "rank": 10,
+    "score": 0.8895913362503052
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 56,
+    "rank": 11,
+    "score": 0.8887040019035339
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 46,
+    "rank": 12,
+    "score": 0.887031078338623
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 14,
+    "rank": 13,
+    "score": 0.8859845995903015
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 41,
+    "rank": 14,
+    "score": 0.8858095407485962
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.8835899233818054
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 6,
+    "rank": 16,
+    "score": 0.8798595070838928
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 47,
+    "rank": 17,
+    "score": 0.8776446580886841
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 9,
+    "rank": 18,
+    "score": 0.8761143684387207
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 16,
+    "rank": 19,
+    "score": 0.8748136758804321
+  },
+  {
+    "query_id": 21,
+    "candidate_id": 12,
+    "rank": 20,
+    "score": 0.8723242282867432
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 53,
+    "rank": 1,
+    "score": 0.9858893752098083
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 52,
+    "rank": 2,
+    "score": 0.9854933619499207
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 54,
+    "rank": 3,
+    "score": 0.9713315963745117
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 51,
+    "rank": 4,
+    "score": 0.9613226056098938
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 55,
+    "rank": 5,
+    "score": 0.9574607610702515
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 56,
+    "rank": 6,
+    "score": 0.9476872086524963
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 6,
+    "rank": 7,
+    "score": 0.9261309504508972
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 50,
+    "rank": 8,
+    "score": 0.9248380661010742
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 38,
+    "rank": 9,
+    "score": 0.9139402508735657
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 41,
+    "rank": 10,
+    "score": 0.9101213812828064
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 40,
+    "rank": 11,
+    "score": 0.9034808874130249
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 16,
+    "rank": 12,
+    "score": 0.9033352732658386
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 57,
+    "rank": 13,
+    "score": 0.902545154094696
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 7,
+    "rank": 14,
+    "score": 0.902039647102356
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.9015610814094543
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 46,
+    "rank": 16,
+    "score": 0.899419903755188
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 45,
+    "rank": 17,
+    "score": 0.8975544571876526
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 47,
+    "rank": 18,
+    "score": 0.8973180055618286
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 10,
+    "rank": 19,
+    "score": 0.89347904920578
+  },
+  {
+    "query_id": 22,
+    "candidate_id": 11,
+    "rank": 20,
+    "score": 0.8908284306526184
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 53,
+    "rank": 1,
+    "score": 0.9638974666595459
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 54,
+    "rank": 2,
+    "score": 0.9579199552536011
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 52,
+    "rank": 3,
+    "score": 0.9540277123451233
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 55,
+    "rank": 4,
+    "score": 0.9212838411331177
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 51,
+    "rank": 5,
+    "score": 0.9181077480316162
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 56,
+    "rank": 6,
+    "score": 0.9017294049263
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 6,
+    "rank": 7,
+    "score": 0.8889382481575012
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 0,
+    "rank": 8,
+    "score": 0.8734445571899414
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 1,
+    "rank": 9,
+    "score": 0.8722442984580994
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 38,
+    "rank": 10,
+    "score": 0.866672158241272
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 40,
+    "rank": 11,
+    "score": 0.860313355922699
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 63,
+    "rank": 12,
+    "score": 0.8603060245513916
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 50,
+    "rank": 13,
+    "score": 0.8591135740280151
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 2,
+    "rank": 14,
+    "score": 0.8548554182052612
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 41,
+    "rank": 15,
+    "score": 0.8531488180160522
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 7,
+    "rank": 16,
+    "score": 0.8511048555374146
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 3,
+    "rank": 17,
+    "score": 0.8489755988121033
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 10,
+    "rank": 18,
+    "score": 0.8447476625442505
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 33,
+    "rank": 19,
+    "score": 0.8443408608436584
+  },
+  {
+    "query_id": 23,
+    "candidate_id": 5,
+    "rank": 20,
+    "score": 0.8440423011779785
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 54,
+    "rank": 1,
+    "score": 0.9672529101371765
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 52,
+    "rank": 2,
+    "score": 0.9654682278633118
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 53,
+    "rank": 3,
+    "score": 0.9649369716644287
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 55,
+    "rank": 4,
+    "score": 0.9552127718925476
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 51,
+    "rank": 5,
+    "score": 0.9323701858520508
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 56,
+    "rank": 6,
+    "score": 0.9314875602722168
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 6,
+    "rank": 7,
+    "score": 0.9044888019561768
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 0,
+    "rank": 8,
+    "score": 0.9032444357872009
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 1,
+    "rank": 9,
+    "score": 0.9004702568054199
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 38,
+    "rank": 10,
+    "score": 0.8939209580421448
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 41,
+    "rank": 11,
+    "score": 0.8876640796661377
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 40,
+    "rank": 12,
+    "score": 0.8874913454055786
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 57,
+    "rank": 13,
+    "score": 0.8810903429985046
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 50,
+    "rank": 14,
+    "score": 0.8809720873832703
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 16,
+    "rank": 15,
+    "score": 0.8759605884552002
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 42,
+    "rank": 16,
+    "score": 0.8751692175865173
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 47,
+    "rank": 17,
+    "score": 0.874515175819397
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 10,
+    "rank": 18,
+    "score": 0.8741061687469482
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 7,
+    "rank": 19,
+    "score": 0.8729196190834045
+  },
+  {
+    "query_id": 24,
+    "candidate_id": 46,
+    "rank": 20,
+    "score": 0.8715583086013794
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 53,
+    "rank": 1,
+    "score": 0.9702025651931763
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 56,
+    "rank": 2,
+    "score": 0.9587317705154419
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 55,
+    "rank": 3,
+    "score": 0.9552598595619202
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 51,
+    "rank": 4,
+    "score": 0.9545893669128418
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 54,
+    "rank": 5,
+    "score": 0.9527372121810913
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 52,
+    "rank": 6,
+    "score": 0.942371666431427
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 20,
+    "rank": 7,
+    "score": 0.92743319272995
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 57,
+    "rank": 8,
+    "score": 0.9138782024383545
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 6,
+    "rank": 9,
+    "score": 0.9013547301292419
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 40,
+    "rank": 10,
+    "score": 0.9001129865646362
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 50,
+    "rank": 11,
+    "score": 0.899024248123169
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 10,
+    "rank": 12,
+    "score": 0.894596517086029
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 41,
+    "rank": 13,
+    "score": 0.893136739730835
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 38,
+    "rank": 14,
+    "score": 0.8904404640197754
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 9,
+    "rank": 15,
+    "score": 0.8883521556854248
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 7,
+    "rank": 16,
+    "score": 0.8880934715270996
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 60,
+    "rank": 17,
+    "score": 0.8878671526908875
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 16,
+    "rank": 18,
+    "score": 0.8876270651817322
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 42,
+    "rank": 19,
+    "score": 0.8806888461112976
+  },
+  {
+    "query_id": 25,
+    "candidate_id": 47,
+    "rank": 20,
+    "score": 0.8782808184623718
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 57,
+    "rank": 1,
+    "score": 0.9707739353179932
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 56,
+    "rank": 2,
+    "score": 0.9655780792236328
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 55,
+    "rank": 3,
+    "score": 0.9476668238639832
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 51,
+    "rank": 4,
+    "score": 0.9466336965560913
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 58,
+    "rank": 5,
+    "score": 0.9439263939857483
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 54,
+    "rank": 6,
+    "score": 0.9322932958602905
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 53,
+    "rank": 7,
+    "score": 0.9316060543060303
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 52,
+    "rank": 8,
+    "score": 0.9281820058822632
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 43,
+    "rank": 9,
+    "score": 0.9224905371665955
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 20,
+    "rank": 10,
+    "score": 0.9199156165122986
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 50,
+    "rank": 11,
+    "score": 0.9187848567962646
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 41,
+    "rank": 12,
+    "score": 0.9129685759544373
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 9,
+    "rank": 13,
+    "score": 0.9116931557655334
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 16,
+    "rank": 14,
+    "score": 0.9099673628807068
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 12,
+    "rank": 15,
+    "score": 0.9095919728279114
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 40,
+    "rank": 16,
+    "score": 0.9086264371871948
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 7,
+    "rank": 17,
+    "score": 0.9081776142120361
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 11,
+    "rank": 18,
+    "score": 0.9077632427215576
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 59,
+    "rank": 19,
+    "score": 0.9074648022651672
+  },
+  {
+    "query_id": 26,
+    "candidate_id": 42,
+    "rank": 20,
+    "score": 0.9056032299995422
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 58,
+    "rank": 1,
+    "score": 0.985938549041748
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 59,
+    "rank": 2,
+    "score": 0.9704543352127075
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 57,
+    "rank": 3,
+    "score": 0.969237208366394
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.9224132299423218
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 50,
+    "rank": 5,
+    "score": 0.9186411499977112
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 51,
+    "rank": 6,
+    "score": 0.9150800704956055
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 13,
+    "rank": 7,
+    "score": 0.9138814210891724
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 18,
+    "rank": 8,
+    "score": 0.9072080254554749
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 56,
+    "rank": 9,
+    "score": 0.9071230292320251
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 44,
+    "rank": 10,
+    "score": 0.9044358730316162
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 49,
+    "rank": 11,
+    "score": 0.9023750424385071
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 9,
+    "rank": 12,
+    "score": 0.9014018177986145
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 20,
+    "rank": 13,
+    "score": 0.8991010785102844
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 19,
+    "rank": 14,
+    "score": 0.8966718912124634
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 12,
+    "rank": 15,
+    "score": 0.8963431715965271
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 48,
+    "rank": 16,
+    "score": 0.8919713497161865
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 42,
+    "rank": 17,
+    "score": 0.8850208520889282
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 11,
+    "rank": 18,
+    "score": 0.8825536370277405
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 17,
+    "rank": 19,
+    "score": 0.8794075846672058
+  },
+  {
+    "query_id": 27,
+    "candidate_id": 40,
+    "rank": 20,
+    "score": 0.8793157935142517
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 59,
+    "rank": 1,
+    "score": 0.9723768830299377
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 58,
+    "rank": 2,
+    "score": 0.9610491394996643
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 57,
+    "rank": 3,
+    "score": 0.9040789008140564
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.8607127666473389
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 13,
+    "rank": 5,
+    "score": 0.8606303930282593
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 51,
+    "rank": 6,
+    "score": 0.8503986597061157
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 44,
+    "rank": 7,
+    "score": 0.8497738242149353
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 50,
+    "rank": 8,
+    "score": 0.8472804427146912
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 18,
+    "rank": 9,
+    "score": 0.8468630909919739
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 20,
+    "rank": 10,
+    "score": 0.8423446416854858
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 60,
+    "rank": 11,
+    "score": 0.836213231086731
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 49,
+    "rank": 12,
+    "score": 0.8357079029083252
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 19,
+    "rank": 13,
+    "score": 0.8347082734107971
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 39,
+    "rank": 14,
+    "score": 0.8341817259788513
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 48,
+    "rank": 15,
+    "score": 0.8318079113960266
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 12,
+    "rank": 16,
+    "score": 0.8259321451187134
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 9,
+    "rank": 17,
+    "score": 0.8245978951454163
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 8,
+    "rank": 18,
+    "score": 0.8243761658668518
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 56,
+    "rank": 19,
+    "score": 0.8203122019767761
+  },
+  {
+    "query_id": 28,
+    "candidate_id": 14,
+    "rank": 20,
+    "score": 0.8190301656723022
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 60,
+    "rank": 1,
+    "score": 0.9686315655708313
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 59,
+    "rank": 2,
+    "score": 0.9264896512031555
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 51,
+    "rank": 3,
+    "score": 0.9146994948387146
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 20,
+    "rank": 4,
+    "score": 0.9090830087661743
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 58,
+    "rank": 5,
+    "score": 0.9078816771507263
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 61,
+    "rank": 6,
+    "score": 0.9018921852111816
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 40,
+    "rank": 7,
+    "score": 0.884429931640625
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 57,
+    "rank": 8,
+    "score": 0.8813541531562805
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 10,
+    "rank": 9,
+    "score": 0.8735771775245667
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 9,
+    "rank": 10,
+    "score": 0.8712740540504456
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 56,
+    "rank": 11,
+    "score": 0.8710833787918091
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 50,
+    "rank": 12,
+    "score": 0.864963710308075
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 21,
+    "rank": 13,
+    "score": 0.8626214265823364
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 43,
+    "rank": 14,
+    "score": 0.8600567579269409
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 19,
+    "rank": 15,
+    "score": 0.8575760722160339
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 55,
+    "rank": 16,
+    "score": 0.8572836518287659
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 45,
+    "rank": 17,
+    "score": 0.8570571541786194
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 42,
+    "rank": 18,
+    "score": 0.8558138012886047
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 11,
+    "rank": 19,
+    "score": 0.8522830605506897
+  },
+  {
+    "query_id": 29,
+    "candidate_id": 41,
+    "rank": 20,
+    "score": 0.8514683842658997
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 61,
+    "rank": 1,
+    "score": 0.966930627822876
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 60,
+    "rank": 2,
+    "score": 0.9495347738265991
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 62,
+    "rank": 3,
+    "score": 0.8565033674240112
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 40,
+    "rank": 4,
+    "score": 0.8354926705360413
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 10,
+    "rank": 5,
+    "score": 0.8235225081443787
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 59,
+    "rank": 6,
+    "score": 0.8214627504348755
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 51,
+    "rank": 7,
+    "score": 0.818712592124939
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 25,
+    "rank": 8,
+    "score": 0.8116022944450378
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 20,
+    "rank": 9,
+    "score": 0.8104822039604187
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 8,
+    "rank": 10,
+    "score": 0.8104808330535889
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 39,
+    "rank": 11,
+    "score": 0.8077462911605835
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 58,
+    "rank": 12,
+    "score": 0.8008830547332764
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 9,
+    "rank": 13,
+    "score": 0.7964824438095093
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 45,
+    "rank": 14,
+    "score": 0.7931928038597107
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 21,
+    "rank": 15,
+    "score": 0.7914876341819763
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 54,
+    "rank": 16,
+    "score": 0.790930986404419
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 41,
+    "rank": 17,
+    "score": 0.7878411412239075
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 11,
+    "rank": 18,
+    "score": 0.7848281264305115
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 42,
+    "rank": 19,
+    "score": 0.7834528684616089
+  },
+  {
+    "query_id": 30,
+    "candidate_id": 14,
+    "rank": 20,
+    "score": 0.7815377116203308
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 61,
+    "rank": 1,
+    "score": 0.9806514382362366
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 62,
+    "rank": 2,
+    "score": 0.9617868661880493
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 60,
+    "rank": 3,
+    "score": 0.9243350028991699
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 4,
+    "rank": 4,
+    "score": 0.8647146224975586
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 40,
+    "rank": 5,
+    "score": 0.8489271998405457
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 5,
+    "rank": 6,
+    "score": 0.8357445001602173
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 54,
+    "rank": 7,
+    "score": 0.826555609703064
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 10,
+    "rank": 8,
+    "score": 0.8257774114608765
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 21,
+    "rank": 9,
+    "score": 0.8172592520713806
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 24,
+    "rank": 10,
+    "score": 0.8099778294563293
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 41,
+    "rank": 11,
+    "score": 0.8061739206314087
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 52,
+    "rank": 12,
+    "score": 0.8033466935157776
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 25,
+    "rank": 13,
+    "score": 0.8029698133468628
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 53,
+    "rank": 14,
+    "score": 0.799461305141449
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 11,
+    "rank": 15,
+    "score": 0.7989272475242615
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 20,
+    "rank": 16,
+    "score": 0.7986898422241211
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 23,
+    "rank": 17,
+    "score": 0.7977822422981262
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 42,
+    "rank": 18,
+    "score": 0.7962140440940857
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 51,
+    "rank": 19,
+    "score": 0.7954727411270142
+  },
+  {
+    "query_id": 31,
+    "candidate_id": 36,
+    "rank": 20,
+    "score": 0.7938253283500671
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 62,
+    "rank": 1,
+    "score": 0.97276371717453
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 61,
+    "rank": 2,
+    "score": 0.9328610897064209
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 4,
+    "rank": 3,
+    "score": 0.9324936866760254
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 5,
+    "rank": 4,
+    "score": 0.8984382152557373
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 60,
+    "rank": 5,
+    "score": 0.8681859374046326
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 3,
+    "rank": 6,
+    "score": 0.8679651618003845
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 2,
+    "rank": 7,
+    "score": 0.8670588135719299
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 63,
+    "rank": 8,
+    "score": 0.8502479791641235
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 54,
+    "rank": 9,
+    "score": 0.8314458131790161
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 23,
+    "rank": 10,
+    "score": 0.8268935084342957
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 40,
+    "rank": 11,
+    "score": 0.8267104029655457
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 24,
+    "rank": 12,
+    "score": 0.8175889253616333
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 21,
+    "rank": 13,
+    "score": 0.8037505745887756
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 10,
+    "rank": 14,
+    "score": 0.8023415207862854
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 53,
+    "rank": 15,
+    "score": 0.8004561066627502
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 52,
+    "rank": 16,
+    "score": 0.7983378767967224
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 22,
+    "rank": 17,
+    "score": 0.790859580039978
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 1,
+    "rank": 18,
+    "score": 0.7872137427330017
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 41,
+    "rank": 19,
+    "score": 0.7840477228164673
+  },
+  {
+    "query_id": 32,
+    "candidate_id": 25,
+    "rank": 20,
+    "score": 0.7804010510444641
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 4,
+    "rank": 1,
+    "score": 0.9646596908569336
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 62,
+    "rank": 2,
+    "score": 0.937882125377655
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 3,
+    "rank": 3,
+    "score": 0.9378534555435181
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 5,
+    "rank": 4,
+    "score": 0.918257474899292
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 2,
+    "rank": 5,
+    "score": 0.9082326889038086
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 63,
+    "rank": 6,
+    "score": 0.899679958820343
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 61,
+    "rank": 7,
+    "score": 0.8546796441078186
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 23,
+    "rank": 8,
+    "score": 0.8443408608436584
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 65,
+    "rank": 9,
+    "score": 0.8355466723442078
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 54,
+    "rank": 10,
+    "score": 0.823236882686615
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 24,
+    "rank": 11,
+    "score": 0.8224571347236633
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 52,
+    "rank": 12,
+    "score": 0.8107625246047974
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 53,
+    "rank": 13,
+    "score": 0.8074609637260437
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 1,
+    "rank": 14,
+    "score": 0.8062818646430969
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 0,
+    "rank": 15,
+    "score": 0.8059710264205933
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 22,
+    "rank": 16,
+    "score": 0.8053582310676575
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 21,
+    "rank": 17,
+    "score": 0.7987992167472839
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 40,
+    "rank": 18,
+    "score": 0.7970728874206543
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 60,
+    "rank": 19,
+    "score": 0.7934845089912415
+  },
+  {
+    "query_id": 33,
+    "candidate_id": 64,
+    "rank": 20,
+    "score": 0.7860071063041687
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 4,
+    "rank": 1,
+    "score": 0.9764004945755005
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 5,
+    "rank": 2,
+    "score": 0.9446229934692383
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 62,
+    "rank": 3,
+    "score": 0.939321756362915
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 3,
+    "rank": 4,
+    "score": 0.9367404580116272
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 2,
+    "rank": 5,
+    "score": 0.9135446548461914
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 61,
+    "rank": 6,
+    "score": 0.8463333249092102
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 63,
+    "rank": 7,
+    "score": 0.8341049551963806
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 23,
+    "rank": 8,
+    "score": 0.8204302191734314
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 54,
+    "rank": 9,
+    "score": 0.8195563554763794
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 40,
+    "rank": 10,
+    "score": 0.8129879832267761
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 53,
+    "rank": 11,
+    "score": 0.7950820326805115
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 52,
+    "rank": 12,
+    "score": 0.7938138842582703
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 41,
+    "rank": 13,
+    "score": 0.7936106324195862
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 6,
+    "rank": 14,
+    "score": 0.7926911115646362
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 10,
+    "rank": 15,
+    "score": 0.7926672101020813
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 1,
+    "rank": 16,
+    "score": 0.7920622229576111
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 24,
+    "rank": 17,
+    "score": 0.790052592754364
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 0,
+    "rank": 18,
+    "score": 0.7872961163520813
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 65,
+    "rank": 19,
+    "score": 0.7870047092437744
+  },
+  {
+    "query_id": 34,
+    "candidate_id": 60,
+    "rank": 20,
+    "score": 0.7868185043334961
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 5,
+    "rank": 1,
+    "score": 0.9824559092521667
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 4,
+    "rank": 2,
+    "score": 0.9731245636940002
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 62,
+    "rank": 3,
+    "score": 0.9263551235198975
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 3,
+    "rank": 4,
+    "score": 0.9043874740600586
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 2,
+    "rank": 5,
+    "score": 0.8976486921310425
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 40,
+    "rank": 6,
+    "score": 0.8479036092758179
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 6,
+    "rank": 7,
+    "score": 0.8435399532318115
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 61,
+    "rank": 8,
+    "score": 0.8352624773979187
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 54,
+    "rank": 9,
+    "score": 0.8326973915100098
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 41,
+    "rank": 10,
+    "score": 0.8315246105194092
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 10,
+    "rank": 11,
+    "score": 0.829846978187561
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 1,
+    "rank": 12,
+    "score": 0.8210225701332092
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 23,
+    "rank": 13,
+    "score": 0.8180146217346191
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 0,
+    "rank": 14,
+    "score": 0.8110500574111938
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 53,
+    "rank": 15,
+    "score": 0.810958981513977
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 42,
+    "rank": 16,
+    "score": 0.8078616857528687
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 22,
+    "rank": 17,
+    "score": 0.8059170842170715
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 52,
+    "rank": 18,
+    "score": 0.8054105043411255
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 11,
+    "rank": 19,
+    "score": 0.805192232131958
+  },
+  {
+    "query_id": 35,
+    "candidate_id": 24,
+    "rank": 20,
+    "score": 0.8036544919013977
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 5,
+    "rank": 1,
+    "score": 0.9685969948768616
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 4,
+    "rank": 2,
+    "score": 0.9096749424934387
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 6,
+    "rank": 3,
+    "score": 0.9025251865386963
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 10,
+    "rank": 4,
+    "score": 0.8690401315689087
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 2,
+    "rank": 5,
+    "score": 0.8684391975402832
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 62,
+    "rank": 6,
+    "score": 0.8608270287513733
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 41,
+    "rank": 7,
+    "score": 0.8551462292671204
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 54,
+    "rank": 8,
+    "score": 0.8490625619888306
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 53,
+    "rank": 9,
+    "score": 0.8431305885314941
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 1,
+    "rank": 10,
+    "score": 0.8392738699913025
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 9,
+    "rank": 11,
+    "score": 0.8383024334907532
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 22,
+    "rank": 12,
+    "score": 0.8363970518112183
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 3,
+    "rank": 13,
+    "score": 0.8355662226676941
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 42,
+    "rank": 14,
+    "score": 0.8330386877059937
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 56,
+    "rank": 15,
+    "score": 0.8276202082633972
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 11,
+    "rank": 16,
+    "score": 0.8274886012077332
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 0,
+    "rank": 17,
+    "score": 0.8224077820777893
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 23,
+    "rank": 18,
+    "score": 0.8175445199012756
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 7,
+    "rank": 19,
+    "score": 0.817529559135437
+  },
+  {
+    "query_id": 36,
+    "candidate_id": 52,
+    "rank": 20,
+    "score": 0.8166792988777161
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 7,
+    "rank": 1,
+    "score": 0.9226354360580444
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 57,
+    "rank": 2,
+    "score": 0.8898537158966064
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 27,
+    "rank": 3,
+    "score": 0.8782919049263
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 56,
+    "rank": 4,
+    "score": 0.8730071783065796
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 6,
+    "rank": 5,
+    "score": 0.8717984557151794
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 26,
+    "rank": 6,
+    "score": 0.8655072450637817
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 58,
+    "rank": 7,
+    "score": 0.8576478958129883
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 9,
+    "rank": 8,
+    "score": 0.8568950891494751
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 55,
+    "rank": 9,
+    "score": 0.8349975347518921
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 51,
+    "rank": 10,
+    "score": 0.833803117275238
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 43,
+    "rank": 11,
+    "score": 0.8334387540817261
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 50,
+    "rank": 12,
+    "score": 0.8304315805435181
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 44,
+    "rank": 13,
+    "score": 0.8231863379478455
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 8,
+    "rank": 14,
+    "score": 0.8231343030929565
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 13,
+    "rank": 15,
+    "score": 0.8230100870132446
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 12,
+    "rank": 16,
+    "score": 0.8211967349052429
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 10,
+    "rank": 17,
+    "score": 0.8197194933891296
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 11,
+    "rank": 18,
+    "score": 0.8180570602416992
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 59,
+    "rank": 19,
+    "score": 0.8130486011505127
+  },
+  {
+    "query_id": 37,
+    "candidate_id": 25,
+    "rank": 20,
+    "score": 0.812570333480835
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 7,
+    "rank": 1,
+    "score": 0.9717958569526672
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 6,
+    "rank": 2,
+    "score": 0.9543589949607849
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 51,
+    "rank": 3,
+    "score": 0.9258608818054199
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 56,
+    "rank": 4,
+    "score": 0.9179345369338989
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 52,
+    "rank": 5,
+    "score": 0.917838454246521
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 22,
+    "rank": 6,
+    "score": 0.9139402508735657
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 55,
+    "rank": 7,
+    "score": 0.9138422012329102
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 57,
+    "rank": 8,
+    "score": 0.9086399078369141
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 10,
+    "rank": 9,
+    "score": 0.9054339528083801
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 26,
+    "rank": 10,
+    "score": 0.9031179547309875
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 54,
+    "rank": 11,
+    "score": 0.9029845595359802
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 9,
+    "rank": 12,
+    "score": 0.8984952569007874
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 53,
+    "rank": 13,
+    "score": 0.8956763744354248
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 24,
+    "rank": 14,
+    "score": 0.8939209580421448
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 25,
+    "rank": 15,
+    "score": 0.8904404640197754
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 21,
+    "rank": 16,
+    "score": 0.8895921111106873
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 11,
+    "rank": 17,
+    "score": 0.8867173194885254
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 12,
+    "rank": 18,
+    "score": 0.8816143870353699
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 43,
+    "rank": 19,
+    "score": 0.8808207511901855
+  },
+  {
+    "query_id": 38,
+    "candidate_id": 20,
+    "rank": 20,
+    "score": 0.880704402923584
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 8,
+    "rank": 1,
+    "score": 0.8622833490371704
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 9,
+    "rank": 2,
+    "score": 0.8440408706665039
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 28,
+    "rank": 3,
+    "score": 0.8341817259788513
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 59,
+    "rank": 4,
+    "score": 0.8265252113342285
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 27,
+    "rank": 5,
+    "score": 0.8260547518730164
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 29,
+    "rank": 6,
+    "score": 0.8260502815246582
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 10,
+    "rank": 7,
+    "score": 0.8217706084251404
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 58,
+    "rank": 8,
+    "score": 0.8123719692230225
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 30,
+    "rank": 9,
+    "score": 0.8077462911605835
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 11,
+    "rank": 10,
+    "score": 0.7964721918106079
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 57,
+    "rank": 11,
+    "score": 0.7959585189819336
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 26,
+    "rank": 12,
+    "score": 0.7831035256385803
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 12,
+    "rank": 13,
+    "score": 0.7808189392089844
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 60,
+    "rank": 14,
+    "score": 0.7761967778205872
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 51,
+    "rank": 15,
+    "score": 0.7718791365623474
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 13,
+    "rank": 16,
+    "score": 0.7700543999671936
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 44,
+    "rank": 17,
+    "score": 0.7639315128326416
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 20,
+    "rank": 18,
+    "score": 0.7638327479362488
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 50,
+    "rank": 19,
+    "score": 0.7451504468917847
+  },
+  {
+    "query_id": 39,
+    "candidate_id": 45,
+    "rank": 20,
+    "score": 0.7392538189888
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 10,
+    "rank": 1,
+    "score": 0.9908006191253662
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 9,
+    "rank": 2,
+    "score": 0.9856693744659424
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 11,
+    "rank": 3,
+    "score": 0.9761555194854736
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 12,
+    "rank": 4,
+    "score": 0.9500275254249573
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 6,
+    "rank": 5,
+    "score": 0.9442883133888245
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 56,
+    "rank": 6,
+    "score": 0.9301329255104065
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 54,
+    "rank": 7,
+    "score": 0.9278824329376221
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 51,
+    "rank": 8,
+    "score": 0.9275732636451721
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 52,
+    "rank": 9,
+    "score": 0.9153847098350525
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 7,
+    "rank": 10,
+    "score": 0.9145536422729492
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 20,
+    "rank": 11,
+    "score": 0.9125562310218811
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 57,
+    "rank": 12,
+    "score": 0.9119784235954285
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 53,
+    "rank": 13,
+    "score": 0.9098163843154907
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 26,
+    "rank": 14,
+    "score": 0.9086264371871948
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 55,
+    "rank": 15,
+    "score": 0.9084994792938232
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 13,
+    "rank": 16,
+    "score": 0.9072446227073669
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 22,
+    "rank": 17,
+    "score": 0.9034808874130249
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 25,
+    "rank": 18,
+    "score": 0.9001129865646362
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 60,
+    "rank": 19,
+    "score": 0.8995445370674133
+  },
+  {
+    "query_id": 40,
+    "candidate_id": 21,
+    "rank": 20,
+    "score": 0.8952084183692932
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 11,
+    "rank": 1,
+    "score": 0.9918313026428223
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 10,
+    "rank": 2,
+    "score": 0.9837252497673035
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 9,
+    "rank": 3,
+    "score": 0.9781739711761475
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 12,
+    "rank": 4,
+    "score": 0.9716423749923706
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 6,
+    "rank": 5,
+    "score": 0.9471482634544373
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 13,
+    "rank": 6,
+    "score": 0.9361562132835388
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 56,
+    "rank": 7,
+    "score": 0.9343845248222351
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 54,
+    "rank": 8,
+    "score": 0.9267303943634033
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 51,
+    "rank": 9,
+    "score": 0.9204391241073608
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 57,
+    "rank": 10,
+    "score": 0.9195905327796936
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 52,
+    "rank": 11,
+    "score": 0.9184249639511108
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 7,
+    "rank": 12,
+    "score": 0.9146064519882202
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 26,
+    "rank": 13,
+    "score": 0.9129685759544373
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 14,
+    "rank": 14,
+    "score": 0.9128630757331848
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 22,
+    "rank": 15,
+    "score": 0.9101213812828064
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 53,
+    "rank": 16,
+    "score": 0.9100773930549622
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 20,
+    "rank": 17,
+    "score": 0.9100455045700073
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 55,
+    "rank": 18,
+    "score": 0.909376323223114
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 16,
+    "rank": 19,
+    "score": 0.9069007635116577
+  },
+  {
+    "query_id": 41,
+    "candidate_id": 50,
+    "rank": 20,
+    "score": 0.9039828181266785
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 12,
+    "rank": 1,
+    "score": 0.988466739654541
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 11,
+    "rank": 2,
+    "score": 0.985416829586029
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 9,
+    "rank": 3,
+    "score": 0.9696316123008728
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 10,
+    "rank": 4,
+    "score": 0.9675525426864624
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 13,
+    "rank": 5,
+    "score": 0.9582151770591736
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 14,
+    "rank": 6,
+    "score": 0.93588787317276
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 47,
+    "rank": 7,
+    "score": 0.9243016839027405
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 20,
+    "rank": 8,
+    "score": 0.9232834577560425
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 50,
+    "rank": 9,
+    "score": 0.9200877547264099
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 16,
+    "rank": 10,
+    "score": 0.9186493754386902
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 51,
+    "rank": 11,
+    "score": 0.9180753827095032
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 6,
+    "rank": 12,
+    "score": 0.9180731177330017
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 57,
+    "rank": 13,
+    "score": 0.915357232093811
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 52,
+    "rank": 14,
+    "score": 0.9125573039054871
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 56,
+    "rank": 15,
+    "score": 0.9125308990478516
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 19,
+    "rank": 16,
+    "score": 0.9081766605377197
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 26,
+    "rank": 17,
+    "score": 0.9056032299995422
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 54,
+    "rank": 18,
+    "score": 0.9051028490066528
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 48,
+    "rank": 19,
+    "score": 0.902917206287384
+  },
+  {
+    "query_id": 42,
+    "candidate_id": 49,
+    "rank": 20,
+    "score": 0.9022509455680847
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 12,
+    "rank": 1,
+    "score": 0.9873360991477966
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 13,
+    "rank": 2,
+    "score": 0.9861062169075012
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 11,
+    "rank": 3,
+    "score": 0.9650548696517944
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 14,
+    "rank": 4,
+    "score": 0.963315486907959
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 9,
+    "rank": 5,
+    "score": 0.9466271996498108
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 10,
+    "rank": 6,
+    "score": 0.9401847720146179
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 16,
+    "rank": 7,
+    "score": 0.9387058615684509
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 50,
+    "rank": 8,
+    "score": 0.9357118606567383
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 57,
+    "rank": 9,
+    "score": 0.9336294531822205
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 18,
+    "rank": 10,
+    "score": 0.9303736686706543
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 20,
+    "rank": 11,
+    "score": 0.9278007745742798
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 48,
+    "rank": 12,
+    "score": 0.9251721501350403
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 49,
+    "rank": 13,
+    "score": 0.9241535663604736
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 19,
+    "rank": 14,
+    "score": 0.9234876036643982
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 17,
+    "rank": 15,
+    "score": 0.9233413338661194
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 26,
+    "rank": 16,
+    "score": 0.9224905371665955
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 27,
+    "rank": 17,
+    "score": 0.9224132299423218
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 15,
+    "rank": 18,
+    "score": 0.9193156361579895
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 58,
+    "rank": 19,
+    "score": 0.9187474846839905
+  },
+  {
+    "query_id": 43,
+    "candidate_id": 51,
+    "rank": 20,
+    "score": 0.9186955094337463
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 13,
+    "rank": 1,
+    "score": 0.9911554455757141
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 14,
+    "rank": 2,
+    "score": 0.9776944518089294
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 12,
+    "rank": 3,
+    "score": 0.9711192846298218
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 16,
+    "rank": 4,
+    "score": 0.9591251015663147
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 18,
+    "rank": 5,
+    "score": 0.9539267420768738
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 17,
+    "rank": 6,
+    "score": 0.9461135268211365
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 49,
+    "rank": 7,
+    "score": 0.9450165033340454
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 15,
+    "rank": 8,
+    "score": 0.9411500692367554
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 50,
+    "rank": 9,
+    "score": 0.937830924987793
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 11,
+    "rank": 10,
+    "score": 0.9348611235618591
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 19,
+    "rank": 11,
+    "score": 0.9343717098236084
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 20,
+    "rank": 12,
+    "score": 0.9224144816398621
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 57,
+    "rank": 13,
+    "score": 0.9132004976272583
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 9,
+    "rank": 14,
+    "score": 0.9099364280700684
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 27,
+    "rank": 15,
+    "score": 0.9044358730316162
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 26,
+    "rank": 16,
+    "score": 0.9035564661026001
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 58,
+    "rank": 17,
+    "score": 0.8961608409881592
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 51,
+    "rank": 18,
+    "score": 0.8958936333656311
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 10,
+    "rank": 19,
+    "score": 0.8916023969650269
+  },
+  {
+    "query_id": 44,
+    "candidate_id": 56,
+    "rank": 20,
+    "score": 0.8759201765060425
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 15,
+    "rank": 1,
+    "score": 0.9882852435112
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 14,
+    "rank": 2,
+    "score": 0.9880884885787964
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 16,
+    "rank": 3,
+    "score": 0.9772046804428101
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 13,
+    "rank": 4,
+    "score": 0.9570640325546265
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 17,
+    "rank": 5,
+    "score": 0.9562357664108276
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 20,
+    "rank": 6,
+    "score": 0.9474376440048218
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 19,
+    "rank": 7,
+    "score": 0.9467079043388367
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 50,
+    "rank": 8,
+    "score": 0.9424789547920227
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 18,
+    "rank": 9,
+    "score": 0.9367170333862305
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 12,
+    "rank": 10,
+    "score": 0.9348488450050354
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 51,
+    "rank": 11,
+    "score": 0.9102102518081665
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 11,
+    "rank": 12,
+    "score": 0.9029286503791809
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 52,
+    "rank": 13,
+    "score": 0.900174081325531
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 22,
+    "rank": 14,
+    "score": 0.8975544571876526
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 26,
+    "rank": 15,
+    "score": 0.8959358930587769
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 21,
+    "rank": 16,
+    "score": 0.8895913362503052
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 57,
+    "rank": 17,
+    "score": 0.8861494660377502
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 9,
+    "rank": 18,
+    "score": 0.8861439228057861
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 40,
+    "rank": 19,
+    "score": 0.8860159516334534
+  },
+  {
+    "query_id": 45,
+    "candidate_id": 53,
+    "rank": 20,
+    "score": 0.8832870721817017
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 15,
+    "rank": 1,
+    "score": 0.9862509965896606
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 16,
+    "rank": 2,
+    "score": 0.9838101863861084
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 14,
+    "rank": 3,
+    "score": 0.9776977896690369
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 17,
+    "rank": 4,
+    "score": 0.9708683490753174
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 18,
+    "rank": 5,
+    "score": 0.9465065002441406
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 19,
+    "rank": 6,
+    "score": 0.940984308719635
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 13,
+    "rank": 7,
+    "score": 0.9350969791412354
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 20,
+    "rank": 8,
+    "score": 0.9330710768699646
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 12,
+    "rank": 9,
+    "score": 0.9227191209793091
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 52,
+    "rank": 10,
+    "score": 0.9059479832649231
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 22,
+    "rank": 11,
+    "score": 0.899419903755188
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 51,
+    "rank": 12,
+    "score": 0.897056519985199
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 41,
+    "rank": 13,
+    "score": 0.8937177062034607
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 11,
+    "rank": 14,
+    "score": 0.8914239406585693
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 21,
+    "rank": 15,
+    "score": 0.887031078338623
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 26,
+    "rank": 16,
+    "score": 0.8865249156951904
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 53,
+    "rank": 17,
+    "score": 0.8861073851585388
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 57,
+    "rank": 18,
+    "score": 0.8785948753356934
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 54,
+    "rank": 19,
+    "score": 0.8751164078712463
+  },
+  {
+    "query_id": 46,
+    "candidate_id": 40,
+    "rank": 20,
+    "score": 0.8739829659461975
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 16,
+    "rank": 1,
+    "score": 0.9861674308776855
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 17,
+    "rank": 2,
+    "score": 0.9855404496192932
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 15,
+    "rank": 3,
+    "score": 0.9641897678375244
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 18,
+    "rank": 4,
+    "score": 0.9619163870811462
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 14,
+    "rank": 5,
+    "score": 0.9602630734443665
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 19,
+    "rank": 6,
+    "score": 0.9563518166542053
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 20,
+    "rank": 7,
+    "score": 0.9355099201202393
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 12,
+    "rank": 8,
+    "score": 0.9324962496757507
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 13,
+    "rank": 9,
+    "score": 0.9324825406074524
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 42,
+    "rank": 10,
+    "score": 0.9243016839027405
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 11,
+    "rank": 11,
+    "score": 0.9088261127471924
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 52,
+    "rank": 12,
+    "score": 0.9047437906265259
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 41,
+    "rank": 13,
+    "score": 0.9027255773544312
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 57,
+    "rank": 14,
+    "score": 0.9010123014450073
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 22,
+    "rank": 15,
+    "score": 0.8973180055618286
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 26,
+    "rank": 16,
+    "score": 0.8943995237350464
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 53,
+    "rank": 17,
+    "score": 0.8852931261062622
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 40,
+    "rank": 18,
+    "score": 0.8838305473327637
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 56,
+    "rank": 19,
+    "score": 0.8814243674278259
+  },
+  {
+    "query_id": 47,
+    "candidate_id": 9,
+    "rank": 20,
+    "score": 0.8806978464126587
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 17,
+    "rank": 1,
+    "score": 0.9942581653594971
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 18,
+    "rank": 2,
+    "score": 0.9904363751411438
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 16,
+    "rank": 3,
+    "score": 0.9736014604568481
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 19,
+    "rank": 4,
+    "score": 0.9679943919181824
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 14,
+    "rank": 5,
+    "score": 0.9451373219490051
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 15,
+    "rank": 6,
+    "score": 0.9403384923934937
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 13,
+    "rank": 7,
+    "score": 0.9343048930168152
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 20,
+    "rank": 8,
+    "score": 0.9318966865539551
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 43,
+    "rank": 9,
+    "score": 0.9251721501350403
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 12,
+    "rank": 10,
+    "score": 0.9221862554550171
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 57,
+    "rank": 11,
+    "score": 0.9115928411483765
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 42,
+    "rank": 12,
+    "score": 0.902917206287384
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 26,
+    "rank": 13,
+    "score": 0.893022894859314
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 27,
+    "rank": 14,
+    "score": 0.8919713497161865
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 58,
+    "rank": 15,
+    "score": 0.886188268661499
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 11,
+    "rank": 16,
+    "score": 0.8854003548622131
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 22,
+    "rank": 17,
+    "score": 0.87840735912323
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 41,
+    "rank": 18,
+    "score": 0.8740015625953674
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 59,
+    "rank": 19,
+    "score": 0.8623768091201782
+  },
+  {
+    "query_id": 48,
+    "candidate_id": 21,
+    "rank": 20,
+    "score": 0.8616454601287842
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 18,
+    "rank": 1,
+    "score": 0.9919310212135315
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 17,
+    "rank": 2,
+    "score": 0.9781808853149414
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 19,
+    "rank": 3,
+    "score": 0.9765881299972534
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 16,
+    "rank": 4,
+    "score": 0.9564298987388611
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 44,
+    "rank": 5,
+    "score": 0.9450165033340454
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 20,
+    "rank": 6,
+    "score": 0.9334322214126587
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 13,
+    "rank": 7,
+    "score": 0.931658923625946
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 14,
+    "rank": 8,
+    "score": 0.9285696744918823
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 43,
+    "rank": 9,
+    "score": 0.9241535663604736
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 12,
+    "rank": 10,
+    "score": 0.9228020906448364
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 57,
+    "rank": 11,
+    "score": 0.9199504852294922
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 15,
+    "rank": 12,
+    "score": 0.9145526885986328
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 27,
+    "rank": 13,
+    "score": 0.9023750424385071
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 42,
+    "rank": 14,
+    "score": 0.9022509455680847
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 58,
+    "rank": 15,
+    "score": 0.8938694596290588
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 26,
+    "rank": 16,
+    "score": 0.8884392976760864
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 11,
+    "rank": 17,
+    "score": 0.8848633170127869
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 41,
+    "rank": 18,
+    "score": 0.8749800324440002
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 22,
+    "rank": 19,
+    "score": 0.8727270364761353
+  },
+  {
+    "query_id": 49,
+    "candidate_id": 59,
+    "rank": 20,
+    "score": 0.869188666343689
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 19,
+    "rank": 1,
+    "score": 0.9832181334495544
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 20,
+    "rank": 2,
+    "score": 0.9798828363418579
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 18,
+    "rank": 3,
+    "score": 0.9610586166381836
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 17,
+    "rank": 4,
+    "score": 0.9476466774940491
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 16,
+    "rank": 5,
+    "score": 0.9446286559104919
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 45,
+    "rank": 6,
+    "score": 0.9424789547920227
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 44,
+    "rank": 7,
+    "score": 0.937830924987793
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 14,
+    "rank": 8,
+    "score": 0.9365367889404297
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 13,
+    "rank": 9,
+    "score": 0.9357292652130127
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 43,
+    "rank": 10,
+    "score": 0.9357118606567383
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 57,
+    "rank": 11,
+    "score": 0.9329438209533691
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 12,
+    "rank": 12,
+    "score": 0.9294141530990601
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 21,
+    "rank": 13,
+    "score": 0.9264331459999084
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 22,
+    "rank": 14,
+    "score": 0.9248380661010742
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.9200877547264099
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 26,
+    "rank": 16,
+    "score": 0.9187848567962646
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 27,
+    "rank": 17,
+    "score": 0.9186411499977112
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 15,
+    "rank": 18,
+    "score": 0.9171136617660522
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 58,
+    "rank": 19,
+    "score": 0.9056638479232788
+  },
+  {
+    "query_id": 50,
+    "candidate_id": 41,
+    "rank": 20,
+    "score": 0.9039828181266785
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 20,
+    "rank": 1,
+    "score": 0.9743478894233704
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 22,
+    "rank": 2,
+    "score": 0.9613226056098938
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 25,
+    "rank": 3,
+    "score": 0.9545893669128418
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 21,
+    "rank": 4,
+    "score": 0.9534157514572144
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 26,
+    "rank": 5,
+    "score": 0.9466336965560913
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 56,
+    "rank": 6,
+    "score": 0.9462993741035461
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 57,
+    "rank": 7,
+    "score": 0.9354193210601807
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 19,
+    "rank": 8,
+    "score": 0.9325118660926819
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 24,
+    "rank": 9,
+    "score": 0.9323701858520508
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 40,
+    "rank": 10,
+    "score": 0.9275732636451721
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 38,
+    "rank": 11,
+    "score": 0.9258608818054199
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 41,
+    "rank": 12,
+    "score": 0.9204391241073608
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 43,
+    "rank": 13,
+    "score": 0.9186955094337463
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 23,
+    "rank": 14,
+    "score": 0.9181077480316162
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 42,
+    "rank": 15,
+    "score": 0.9180753827095032
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 9,
+    "rank": 16,
+    "score": 0.9162728786468506
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 6,
+    "rank": 17,
+    "score": 0.9158572554588318
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 10,
+    "rank": 18,
+    "score": 0.9156469702720642
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 27,
+    "rank": 19,
+    "score": 0.9150800704956055
+  },
+  {
+    "query_id": 51,
+    "candidate_id": 29,
+    "rank": 20,
+    "score": 0.9146994948387146
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 22,
+    "rank": 1,
+    "score": 0.9854933619499207
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 21,
+    "rank": 2,
+    "score": 0.9709086418151855
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 24,
+    "rank": 3,
+    "score": 0.9654682278633118
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 23,
+    "rank": 4,
+    "score": 0.9540277123451233
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 20,
+    "rank": 5,
+    "score": 0.9501208662986755
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 25,
+    "rank": 6,
+    "score": 0.942371666431427
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 26,
+    "rank": 7,
+    "score": 0.9281820058822632
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 6,
+    "rank": 8,
+    "score": 0.9188592433929443
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 41,
+    "rank": 9,
+    "score": 0.9184249639511108
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 38,
+    "rank": 10,
+    "score": 0.917838454246521
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 40,
+    "rank": 11,
+    "score": 0.9153847098350525
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 42,
+    "rank": 12,
+    "score": 0.9125573039054871
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 19,
+    "rank": 13,
+    "score": 0.9086783528327942
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 46,
+    "rank": 14,
+    "score": 0.9059479832649231
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 47,
+    "rank": 15,
+    "score": 0.9047437906265259
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 10,
+    "rank": 16,
+    "score": 0.9031071662902832
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 16,
+    "rank": 17,
+    "score": 0.9021928906440735
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 57,
+    "rank": 18,
+    "score": 0.9012243747711182
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 45,
+    "rank": 19,
+    "score": 0.900174081325531
+  },
+  {
+    "query_id": 52,
+    "candidate_id": 11,
+    "rank": 20,
+    "score": 0.9001025557518005
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 22,
+    "rank": 1,
+    "score": 0.9858893752098083
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 25,
+    "rank": 2,
+    "score": 0.9702025651931763
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 24,
+    "rank": 3,
+    "score": 0.9649369716644287
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 23,
+    "rank": 4,
+    "score": 0.9638974666595459
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 21,
+    "rank": 5,
+    "score": 0.9383919835090637
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 26,
+    "rank": 6,
+    "score": 0.9316060543060303
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 20,
+    "rank": 7,
+    "score": 0.926494300365448
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 6,
+    "rank": 8,
+    "score": 0.9213189482688904
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 41,
+    "rank": 9,
+    "score": 0.9100773930549622
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 40,
+    "rank": 10,
+    "score": 0.9098163843154907
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 10,
+    "rank": 11,
+    "score": 0.904147744178772
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 42,
+    "rank": 12,
+    "score": 0.8981412649154663
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 38,
+    "rank": 13,
+    "score": 0.8956763744354248
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 7,
+    "rank": 14,
+    "score": 0.8951745629310608
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 9,
+    "rank": 15,
+    "score": 0.8949634432792664
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 16,
+    "rank": 16,
+    "score": 0.8893316388130188
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 11,
+    "rank": 17,
+    "score": 0.8864365816116333
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 46,
+    "rank": 18,
+    "score": 0.8861073851585388
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 47,
+    "rank": 19,
+    "score": 0.8852931261062622
+  },
+  {
+    "query_id": 53,
+    "candidate_id": 45,
+    "rank": 20,
+    "score": 0.8832870721817017
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 22,
+    "rank": 1,
+    "score": 0.9713315963745117
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 24,
+    "rank": 2,
+    "score": 0.9672529101371765
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 23,
+    "rank": 3,
+    "score": 0.9579199552536011
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 25,
+    "rank": 4,
+    "score": 0.9527372121810913
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 21,
+    "rank": 5,
+    "score": 0.9353803396224976
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 6,
+    "rank": 6,
+    "score": 0.9353165030479431
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 26,
+    "rank": 7,
+    "score": 0.9322932958602905
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 40,
+    "rank": 8,
+    "score": 0.9278824329376221
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 41,
+    "rank": 9,
+    "score": 0.9267303943634033
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 10,
+    "rank": 10,
+    "score": 0.9212714433670044
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 20,
+    "rank": 11,
+    "score": 0.9134403467178345
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 9,
+    "rank": 12,
+    "score": 0.9099168181419373
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 11,
+    "rank": 13,
+    "score": 0.9068927764892578
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 42,
+    "rank": 14,
+    "score": 0.9051028490066528
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 38,
+    "rank": 15,
+    "score": 0.9029845595359802
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 7,
+    "rank": 16,
+    "score": 0.9015979170799255
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 1,
+    "rank": 17,
+    "score": 0.8922697901725769
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 0,
+    "rank": 18,
+    "score": 0.8922152519226074
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 12,
+    "rank": 19,
+    "score": 0.8842802047729492
+  },
+  {
+    "query_id": 54,
+    "candidate_id": 16,
+    "rank": 20,
+    "score": 0.8802777528762817
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 22,
+    "rank": 1,
+    "score": 0.9574607610702515
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 25,
+    "rank": 2,
+    "score": 0.9552598595619202
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 24,
+    "rank": 3,
+    "score": 0.9552127718925476
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 26,
+    "rank": 4,
+    "score": 0.9476668238639832
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 6,
+    "rank": 5,
+    "score": 0.9228118062019348
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 23,
+    "rank": 6,
+    "score": 0.9212838411331177
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 38,
+    "rank": 7,
+    "score": 0.9138422012329102
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 7,
+    "rank": 8,
+    "score": 0.9113283157348633
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 41,
+    "rank": 9,
+    "score": 0.909376323223114
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 40,
+    "rank": 10,
+    "score": 0.9084994792938232
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 21,
+    "rank": 11,
+    "score": 0.9075450897216797
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 9,
+    "rank": 12,
+    "score": 0.905509352684021
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 10,
+    "rank": 13,
+    "score": 0.9038633108139038
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 20,
+    "rank": 14,
+    "score": 0.9014215469360352
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 11,
+    "rank": 15,
+    "score": 0.8969842791557312
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 42,
+    "rank": 16,
+    "score": 0.8966203331947327
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 1,
+    "rank": 17,
+    "score": 0.8929595947265625
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 50,
+    "rank": 18,
+    "score": 0.8908799886703491
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 0,
+    "rank": 19,
+    "score": 0.8888125419616699
+  },
+  {
+    "query_id": 55,
+    "candidate_id": 12,
+    "rank": 20,
+    "score": 0.884057343006134
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 26,
+    "rank": 1,
+    "score": 0.9655780792236328
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 25,
+    "rank": 2,
+    "score": 0.9587317705154419
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 22,
+    "rank": 3,
+    "score": 0.9476872086524963
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 51,
+    "rank": 4,
+    "score": 0.9462993741035461
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 6,
+    "rank": 5,
+    "score": 0.9436859488487244
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 7,
+    "rank": 6,
+    "score": 0.9345108866691589
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 41,
+    "rank": 7,
+    "score": 0.9343845248222351
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 10,
+    "rank": 8,
+    "score": 0.9316198825836182
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 24,
+    "rank": 9,
+    "score": 0.9314875602722168
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 40,
+    "rank": 10,
+    "score": 0.9301329255104065
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 9,
+    "rank": 11,
+    "score": 0.928459882736206
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 11,
+    "rank": 12,
+    "score": 0.9193039536476135
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 38,
+    "rank": 13,
+    "score": 0.9179345369338989
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 42,
+    "rank": 14,
+    "score": 0.9125308990478516
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 43,
+    "rank": 15,
+    "score": 0.9081411957740784
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 27,
+    "rank": 16,
+    "score": 0.9071230292320251
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 20,
+    "rank": 17,
+    "score": 0.9054298400878906
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 50,
+    "rank": 18,
+    "score": 0.9034937024116516
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 23,
+    "rank": 19,
+    "score": 0.9017294049263
+  },
+  {
+    "query_id": 56,
+    "candidate_id": 12,
+    "rank": 20,
+    "score": 0.9008094668388367
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 26,
+    "rank": 1,
+    "score": 0.9707739353179932
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 27,
+    "rank": 2,
+    "score": 0.969237208366394
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 51,
+    "rank": 3,
+    "score": 0.9354193210601807
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.9336294531822205
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 50,
+    "rank": 5,
+    "score": 0.9329438209533691
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 9,
+    "rank": 6,
+    "score": 0.9266621470451355
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 11,
+    "rank": 7,
+    "score": 0.9230602979660034
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 12,
+    "rank": 8,
+    "score": 0.9228700995445251
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 18,
+    "rank": 9,
+    "score": 0.9228247404098511
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 7,
+    "rank": 10,
+    "score": 0.9200722575187683
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 49,
+    "rank": 11,
+    "score": 0.9199504852294922
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 41,
+    "rank": 12,
+    "score": 0.9195905327796936
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 42,
+    "rank": 13,
+    "score": 0.915357232093811
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 13,
+    "rank": 14,
+    "score": 0.9149526953697205
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 25,
+    "rank": 15,
+    "score": 0.9138782024383545
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 20,
+    "rank": 16,
+    "score": 0.9133968949317932
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 44,
+    "rank": 17,
+    "score": 0.9132004976272583
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 40,
+    "rank": 18,
+    "score": 0.9119784235954285
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 48,
+    "rank": 19,
+    "score": 0.9115928411483765
+  },
+  {
+    "query_id": 57,
+    "candidate_id": 16,
+    "rank": 20,
+    "score": 0.9104909300804138
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 27,
+    "rank": 1,
+    "score": 0.985938549041748
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 28,
+    "rank": 2,
+    "score": 0.9610491394996643
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 26,
+    "rank": 3,
+    "score": 0.9439263939857483
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 43,
+    "rank": 4,
+    "score": 0.9187474846839905
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 51,
+    "rank": 5,
+    "score": 0.9128418564796448
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 29,
+    "rank": 6,
+    "score": 0.9078816771507263
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 50,
+    "rank": 7,
+    "score": 0.9056638479232788
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 13,
+    "rank": 8,
+    "score": 0.9029434323310852
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 18,
+    "rank": 9,
+    "score": 0.9019830226898193
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 44,
+    "rank": 10,
+    "score": 0.8961608409881592
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 12,
+    "rank": 11,
+    "score": 0.8942872881889343
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 9,
+    "rank": 12,
+    "score": 0.8941190242767334
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 49,
+    "rank": 13,
+    "score": 0.8938694596290588
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 20,
+    "rank": 14,
+    "score": 0.8906660676002502
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 19,
+    "rank": 15,
+    "score": 0.8891186118125916
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 48,
+    "rank": 16,
+    "score": 0.886188268661499
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 11,
+    "rank": 17,
+    "score": 0.8828757405281067
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 40,
+    "rank": 18,
+    "score": 0.8826616406440735
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 42,
+    "rank": 19,
+    "score": 0.8821218013763428
+  },
+  {
+    "query_id": 58,
+    "candidate_id": 10,
+    "rank": 20,
+    "score": 0.8779500126838684
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 28,
+    "rank": 1,
+    "score": 0.9723768830299377
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 27,
+    "rank": 2,
+    "score": 0.9704543352127075
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 29,
+    "rank": 3,
+    "score": 0.9264896512031555
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 26,
+    "rank": 4,
+    "score": 0.9074648022651672
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 51,
+    "rank": 5,
+    "score": 0.8963307738304138
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 43,
+    "rank": 6,
+    "score": 0.8930383324623108
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 50,
+    "rank": 7,
+    "score": 0.885161280632019
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 20,
+    "rank": 8,
+    "score": 0.8836204409599304
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 13,
+    "rank": 9,
+    "score": 0.8775110244750977
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 9,
+    "rank": 10,
+    "score": 0.8743160367012024
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 18,
+    "rank": 11,
+    "score": 0.8742254376411438
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 19,
+    "rank": 12,
+    "score": 0.873264729976654
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 44,
+    "rank": 13,
+    "score": 0.8709970712661743
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 49,
+    "rank": 14,
+    "score": 0.869188666343689
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 12,
+    "rank": 15,
+    "score": 0.8688325881958008
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 48,
+    "rank": 16,
+    "score": 0.8623768091201782
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 40,
+    "rank": 17,
+    "score": 0.8615649938583374
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 42,
+    "rank": 18,
+    "score": 0.8587358593940735
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 11,
+    "rank": 19,
+    "score": 0.8580624461174011
+  },
+  {
+    "query_id": 59,
+    "candidate_id": 10,
+    "rank": 20,
+    "score": 0.8546443581581116
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 29,
+    "rank": 1,
+    "score": 0.9686315655708313
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 30,
+    "rank": 2,
+    "score": 0.9495347738265991
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 31,
+    "rank": 3,
+    "score": 0.9243350028991699
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 40,
+    "rank": 4,
+    "score": 0.8995445370674133
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 51,
+    "rank": 5,
+    "score": 0.8974010944366455
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 10,
+    "rank": 6,
+    "score": 0.8900004029273987
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 25,
+    "rank": 7,
+    "score": 0.8878671526908875
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 20,
+    "rank": 8,
+    "score": 0.8715509176254272
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 55,
+    "rank": 9,
+    "score": 0.8683308959007263
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 32,
+    "rank": 10,
+    "score": 0.8681859374046326
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 54,
+    "rank": 11,
+    "score": 0.8680630326271057
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 26,
+    "rank": 12,
+    "score": 0.8674965500831604
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 9,
+    "rank": 13,
+    "score": 0.8660513162612915
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 41,
+    "rank": 14,
+    "score": 0.8639675378799438
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 53,
+    "rank": 15,
+    "score": 0.8614609241485596
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 11,
+    "rank": 16,
+    "score": 0.8585925698280334
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 21,
+    "rank": 17,
+    "score": 0.8558240532875061
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 42,
+    "rank": 18,
+    "score": 0.8543837070465088
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 24,
+    "rank": 19,
+    "score": 0.8503212332725525
+  },
+  {
+    "query_id": 60,
+    "candidate_id": 52,
+    "rank": 20,
+    "score": 0.8476666212081909
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 31,
+    "rank": 1,
+    "score": 0.9806514382362366
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 30,
+    "rank": 2,
+    "score": 0.966930627822876
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 32,
+    "rank": 3,
+    "score": 0.9328610897064209
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 29,
+    "rank": 4,
+    "score": 0.9018921852111816
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 33,
+    "rank": 5,
+    "score": 0.8546796441078186
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 40,
+    "rank": 6,
+    "score": 0.8472532033920288
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 34,
+    "rank": 7,
+    "score": 0.8463333249092102
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 4,
+    "rank": 8,
+    "score": 0.840172290802002
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 35,
+    "rank": 9,
+    "score": 0.8352624773979187
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 10,
+    "rank": 10,
+    "score": 0.8326892852783203
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 5,
+    "rank": 11,
+    "score": 0.8271493315696716
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 54,
+    "rank": 12,
+    "score": 0.8160784244537354
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 25,
+    "rank": 13,
+    "score": 0.8125304579734802
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 51,
+    "rank": 14,
+    "score": 0.8106896877288818
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 21,
+    "rank": 15,
+    "score": 0.8081455230712891
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 36,
+    "rank": 16,
+    "score": 0.8053774237632751
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 20,
+    "rank": 17,
+    "score": 0.8047447800636292
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 24,
+    "rank": 18,
+    "score": 0.8030720949172974
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 41,
+    "rank": 19,
+    "score": 0.800324022769928
+  },
+  {
+    "query_id": 61,
+    "candidate_id": 42,
+    "rank": 20,
+    "score": 0.7933664917945862
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 32,
+    "rank": 1,
+    "score": 0.97276371717453
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 31,
+    "rank": 2,
+    "score": 0.9617868661880493
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 34,
+    "rank": 3,
+    "score": 0.939321756362915
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 33,
+    "rank": 4,
+    "score": 0.937882125377655
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 4,
+    "rank": 5,
+    "score": 0.9286589026451111
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 35,
+    "rank": 6,
+    "score": 0.9263551235198975
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 5,
+    "rank": 7,
+    "score": 0.9007247686386108
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 36,
+    "rank": 8,
+    "score": 0.8608270287513733
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 30,
+    "rank": 9,
+    "score": 0.8565033674240112
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 2,
+    "rank": 10,
+    "score": 0.8488757610321045
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 3,
+    "rank": 11,
+    "score": 0.8398346900939941
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 40,
+    "rank": 12,
+    "score": 0.830946683883667
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 54,
+    "rank": 13,
+    "score": 0.8259475231170654
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 24,
+    "rank": 14,
+    "score": 0.809158980846405
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 10,
+    "rank": 15,
+    "score": 0.8071981072425842
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 23,
+    "rank": 16,
+    "score": 0.7985517382621765
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 41,
+    "rank": 17,
+    "score": 0.7982824444770813
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 53,
+    "rank": 18,
+    "score": 0.7942618131637573
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 52,
+    "rank": 19,
+    "score": 0.7884294390678406
+  },
+  {
+    "query_id": 62,
+    "candidate_id": 29,
+    "rank": 20,
+    "score": 0.7884045839309692
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 33,
+    "rank": 1,
+    "score": 0.899679958820343
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 3,
+    "rank": 2,
+    "score": 0.8880546689033508
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 23,
+    "rank": 3,
+    "score": 0.8603060245513916
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 4,
+    "rank": 4,
+    "score": 0.8526267409324646
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 32,
+    "rank": 5,
+    "score": 0.8502479791641235
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 24,
+    "rank": 6,
+    "score": 0.8425004482269287
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 2,
+    "rank": 7,
+    "score": 0.8422191739082336
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 34,
+    "rank": 8,
+    "score": 0.8341049551963806
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 54,
+    "rank": 9,
+    "score": 0.8177030682563782
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 52,
+    "rank": 10,
+    "score": 0.8086504936218262
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 53,
+    "rank": 11,
+    "score": 0.7994917631149292
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 22,
+    "rank": 12,
+    "score": 0.7994840741157532
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 0,
+    "rank": 13,
+    "score": 0.7957663536071777
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 1,
+    "rank": 14,
+    "score": 0.7878866195678711
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 21,
+    "rank": 15,
+    "score": 0.7877998948097229
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 31,
+    "rank": 16,
+    "score": 0.7876096963882446
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 35,
+    "rank": 17,
+    "score": 0.7865603566169739
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 5,
+    "rank": 18,
+    "score": 0.7683565616607666
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 25,
+    "rank": 19,
+    "score": 0.7633695602416992
+  },
+  {
+    "query_id": 63,
+    "candidate_id": 55,
+    "rank": 20,
+    "score": 0.7542687654495239
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 33,
+    "rank": 1,
+    "score": 0.7860071063041687
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 3,
+    "rank": 2,
+    "score": 0.7665436267852783
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 4,
+    "rank": 3,
+    "score": 0.7472119927406311
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 34,
+    "rank": 4,
+    "score": 0.7322149276733398
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 32,
+    "rank": 5,
+    "score": 0.7281234264373779
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 2,
+    "rank": 6,
+    "score": 0.6988232731819153
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 31,
+    "rank": 7,
+    "score": 0.6905989646911621
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 35,
+    "rank": 8,
+    "score": 0.673656702041626
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 0,
+    "rank": 9,
+    "score": 0.6537660360336304
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 24,
+    "rank": 10,
+    "score": 0.6325948238372803
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 5,
+    "rank": 11,
+    "score": 0.6271175742149353
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 47,
+    "rank": 12,
+    "score": 0.6248213648796082
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 54,
+    "rank": 13,
+    "score": 0.6244717836380005
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 23,
+    "rank": 14,
+    "score": 0.623716413974762
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 52,
+    "rank": 15,
+    "score": 0.618895411491394
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 1,
+    "rank": 16,
+    "score": 0.6146948933601379
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 19,
+    "rank": 17,
+    "score": 0.6030672788619995
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 21,
+    "rank": 18,
+    "score": 0.5977562069892883
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 11,
+    "rank": 19,
+    "score": 0.5880245566368103
+  },
+  {
+    "query_id": 64,
+    "candidate_id": 53,
+    "rank": 20,
+    "score": 0.5849960446357727
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 33,
+    "rank": 1,
+    "score": 0.8355466723442078
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 3,
+    "rank": 2,
+    "score": 0.833669900894165
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 4,
+    "rank": 3,
+    "score": 0.8055223226547241
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 2,
+    "rank": 4,
+    "score": 0.7945549488067627
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 34,
+    "rank": 5,
+    "score": 0.7870047092437744
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 32,
+    "rank": 6,
+    "score": 0.7529706954956055
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 35,
+    "rank": 7,
+    "score": 0.749703586101532
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 0,
+    "rank": 8,
+    "score": 0.7406020164489746
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 24,
+    "rank": 9,
+    "score": 0.7226951122283936
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 23,
+    "rank": 10,
+    "score": 0.720460832118988
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 52,
+    "rank": 11,
+    "score": 0.7169793844223022
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 5,
+    "rank": 12,
+    "score": 0.7136700749397278
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 1,
+    "rank": 13,
+    "score": 0.7084507346153259
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 31,
+    "rank": 14,
+    "score": 0.7051509618759155
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 54,
+    "rank": 15,
+    "score": 0.701981246471405
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 22,
+    "rank": 16,
+    "score": 0.6909114718437195
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 21,
+    "rank": 17,
+    "score": 0.6856624484062195
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 53,
+    "rank": 18,
+    "score": 0.6735149025917053
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 19,
+    "rank": 19,
+    "score": 0.6539690494537354
+  },
+  {
+    "query_id": 65,
+    "candidate_id": 55,
+    "rank": 20,
+    "score": 0.6529462337493896
+  }
+]

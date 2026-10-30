@@ -1,0 +1,39 @@
+{
+  "file": "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/sequence_gap_ablation_20261014/full_resolution/map_four_floors_20261013_loop24s_corrected_fullres_colored.pcd",
+  "points": 328306517,
+  "bytes": 5252904453,
+  "sha256": "f4977d899959a69231ce1d17b05d43055ddb75c7ae2bad2c442c82a737585395",
+  "scans": 7400,
+  "input_lidar_points": 148784448,
+  "filtered_invalid_or_outside_trajectory": 16994677,
+  "voxel_downsampling": false,
+  "all_four_cameras": true,
+  "per_point_recorded_timestamps": true,
+  "maximum_image_alignment_error_s": 0.05612921714782715,
+  "elapsed_seconds": 460.3423929920009,
+  "method": "Full-density recorded point timestamps; 24 s gap optimized correction applied to every reconstructed colored point",
+  "limitations": [
+    "Deskew uses interpolated logged poses rather than original high-rate IMU propagation.",
+    "Reconstructed RGB and point count can differ from the online PCD because all usable recorded scans are processed.",
+    "Sparse optimized pose correction is interpolated and held constant outside its first/last anchors."
+  ],
+  "reconstruction_source": "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/raw_reconstruction/map_four_floors_20261013_reconstructed_raw_fullres_colored.pcd",
+  "rgb_identical_to_reconstruction": true,
+  "point_count_identical_to_reconstruction": true,
+  "nonfinite_points": 0,
+  "xyz_min": [
+    -58.9025764465332,
+    -93.08335876464844,
+    -19.224414825439453
+  ],
+  "xyz_max": [
+    104.57477569580078,
+    126.197021484375,
+    34.231380462646484
+  ],
+  "sequence_gap_s": 24,
+  "accepted_loop_edges": 26,
+  "comparison_release": "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/loop_latest_20261014/full_resolution/map_four_floors_20261013_loop_corrected_fullres_colored.pcd",
+  "correction_elapsed_seconds": 143.0498723540004,
+  "readback_sha256_verified": true
+}

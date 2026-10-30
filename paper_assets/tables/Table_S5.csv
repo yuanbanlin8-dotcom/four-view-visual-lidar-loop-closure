@@ -1,0 +1,4 @@
+﻿Floor pair,Uncorrected trajectory,Scan Context + ICP,Scan Context + ICP (Cauchy),Ours,w/o floor factors,Reference height (m)
+F1–F2,4.135,3.958,4.012,4.179,4.075,4.201
+F2–F3,4.456,4.922,4.767,4.334,4.469,4.255
+F3–F4,4.219,4.007,4.224,4.183,4.276,4.169

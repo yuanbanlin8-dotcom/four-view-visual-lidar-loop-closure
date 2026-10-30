@@ -1,0 +1,41 @@
+{
+  "modes": {
+    "single_c0": {
+      "pairs": 1100,
+      "cached": 732,
+      "new_pairs": 368,
+      "full_edges_exact": 16
+    },
+    "single_c1": {
+      "pairs": 1100,
+      "cached": 768,
+      "new_pairs": 332,
+      "full_edges_exact": 13
+    },
+    "single_c2": {
+      "pairs": 1100,
+      "cached": 829,
+      "new_pairs": 271,
+      "full_edges_exact": 20
+    },
+    "single_c3": {
+      "pairs": 1100,
+      "cached": 739,
+      "new_pairs": 361,
+      "full_edges_exact": 16
+    },
+    "four_independent": {
+      "pairs": 1100,
+      "cached": 834,
+      "new_pairs": 266,
+      "full_edges_exact": 23
+    },
+    "four_joint": {
+      "pairs": 1100,
+      "cached": 1100,
+      "new_pairs": 0,
+      "full_edges_exact": 26
+    }
+  },
+  "warning": "Full-method edges are a reference set, not independent ground truth; candidate coverage is not precision or recall."
+}

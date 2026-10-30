@@ -1,0 +1,21 @@
+{
+  "name": "BTC (Binary Triangle Descriptor)",
+  "priority": "P1",
+  "status": "BLOCKED \u2014 needs Backend",
+  "what_exists_on_box": {
+    "vendor_src": "/workspace/seeker-fresh/loop_closure/vendor/btc/{src,include,config}",
+    "config_outdoor": "/workspace/seeker-fresh/loop_closure/vendor/btc/config/config_outdoor.yaml",
+    "binary_extract_candidates_configurable": "/workspace/data/20261008/support_btc_v11_20261009/extract_candidates_configurable",
+    "binary_extract_candidates_v13": "/workspace/data/20261008/recall_pose_v13_20261010/extract_candidates_v13",
+    "ncd_submaps_npy": "/workspace/project/ncd_adapter/converted/quad-easy/submaps/NNNN.npy (66\u00d7 float32 Nx3)",
+    "historical_pcd_layout": "BTC runners expect NNNN.pcd next to run dir (see run_four_floor_btc_baseline.py)"
+  },
+  "exact_ask_for_Backend": [
+    "Convert adapter Quad-Easy submaps `ncd_adapter/converted/quad-easy/submaps/0000.npy`\u2026`0065.npy` (body-frame XYZ float32) \u2192 `NNNN.pcd` (or run BTC on npy if you have a loader). Confirm frame = body/lidar frame BTC expects.",
+    "Provide a runnable BTC env on box OR run yourself: `extract_candidates*` currently `ldd`-missing `libpcl_*.so.1.10`, `libroscpp`, `libopencv_core.so.4.2`, `libtbb`, `libglog`, `libcholmod`, `libcxsparse`.",
+    "Recommended profile for outdoor NCD: start from `vendor/btc/config/config_outdoor.yaml`; set `skip_near_num`\u224810 (3 s nodes, ~30 s gap \u2248 10 frames), `candidate_num`\u226550.",
+    "Deliver to Eval: `candidates.csv` with columns at least `i,j,score` (optionally rms, planes, T) for all 66 nodes, path e.g. `eval/ncd_quad_easy/results/baselines/btc_quad_easy/candidates.csv`.",
+    "Do NOT change multifloor/GNC core; this is a baseline retrieval dump only."
+  ],
+  "eval_will_score": "R@k \u00b11 & tol=0 @2m/@3m on canonical 31/33 using same GT positives; P/R only if BTC emits an accept/verify set (usually retrieval-only \u2192 P/R N/A)."
+}

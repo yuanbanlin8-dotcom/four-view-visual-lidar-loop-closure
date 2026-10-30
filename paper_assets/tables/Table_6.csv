@@ -1,0 +1,5 @@
+﻿Configuration,Sequence,GNC,Spatial anchors,Accepted loops,Max position change (m)
+Sequence + GNC,On,On,27,23,0.398
+Sequence only,On,Off,27,27,46.441
+GNC only,Off,On,50,26,1.029
+Neither,Off,Off,50,50,95.173

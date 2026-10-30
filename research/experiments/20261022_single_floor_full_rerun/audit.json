@@ -1,0 +1,35 @@
+{
+  "dataset": "20261008_145008",
+  "candidate_count": 1338,
+  "old_new_summary_identical": true,
+  "sha256": {
+    "summary": "a0c0efcdbc66d59e07ee412e6b6a6f68220c83e06c0b031f11aa21cc183e2197",
+    "candidates": "a43c8e89f3f7ebd384066f8485e67d1a4e22daedb08cea82a345bfd61967c76b"
+  },
+  "stage_counts": {
+    "visual_pair_pass": 66,
+    "full_pair_pass": 64,
+    "visual_sequence_supported": 54,
+    "full_sequence_supported": 60,
+    "visual_spatial_anchors": 11,
+    "full_spatial_anchors": 17
+  },
+  "sparse_benchmark": {
+    "eligible_certain_positive_queries": 44,
+    "retrieval_R_at_1": {
+      "hits": 16,
+      "denominator": 44
+    },
+    "retrieval_R_at_5": {
+      "hits": 34,
+      "denominator": 44
+    },
+    "note": "Query hit rate on sparse prior labels, not exhaustive true-loop recall."
+  },
+  "reviewed_final_anchors": {
+    "correct": 17,
+    "total": 17
+  },
+  "overall_precision": null,
+  "overall_recall": null
+}

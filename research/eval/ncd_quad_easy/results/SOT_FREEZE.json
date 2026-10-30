@@ -1,0 +1,40 @@
+{
+  "freeze_id": "ncd_quad_easy_samefloor100_v1-frozen-20261024",
+  "frozen_at": "2026-10-24 00:20:36 Asia/Singapore",
+  "status": "FROZEN_EVAL_SOT",
+  "run_label": "optimize_gap24_samefloor",
+  "frontend": "adapter_GT_3s",
+  "protocol_version": "v1-locked-20261023",
+  "mandatory_caveats": [
+    "`--force-single-floor` wrapper \u2014 NCD Quad-Easy is a single outdoor floor adapter; NOT a multifloor core change.",
+    "GT-as-frontend: poses_odometry == adapter GT 3 s nodes; ATE is vs GT poses, NOT vs a LiDAR-inertial odometry (LIO/DLIO) trajectory. Never claim ATE-beat vs LIO/DLIO.",
+    "frontend=adapter_GT_3s (N=66). Do not mix with Omni-LIVO node ids."
+  ],
+  "beats_x_rules": [
+    "Same sequence (NCD Collection-1 Quad-Easy) + comparable GT radius / temporal gap / query denominator only.",
+    "Accepted-edge P_est@2m \u2265 0.95 required to lead with loop-accept claims (SoT P_est@2m=0.960 OK). If a push drops below 0.95, do not claim.",
+    "Never ATE-beat vs LIO/DLIO (our ATE is GT-frontend residual after LC, not odometry drift vs GT).",
+    "Never direct R@k win vs park/cloister / 25 m-radius VPR \u2014 cite only as context."
+  ],
+  "sot_paths": {
+    "metrics_json": "/workspace/project/eval/ncd_quad_easy/results/metrics_ncd_quad_easy_adapter3s.json",
+    "table_md": "/workspace/project/eval/ncd_quad_easy/results/table.md",
+    "table_csv": "/workspace/project/eval/ncd_quad_easy/results/table.csv",
+    "mana_snippet": "/workspace/project/eval/ncd_quad_easy/results/MANA_PRIORITY_SNIPPET.md"
+  },
+  "sot_headline": {
+    "R@1_2m_pm1": 0.967741935483871,
+    "R@5_2m_pm1": 1.0,
+    "P_est_accepted_2m": 0.96,
+    "P_lb_accepted_2m": 0.96,
+    "TP_FP_accepted_2m": "96/4",
+    "Recall_accepted_2m": 0.8421052631578947,
+    "P_est_accepted_3m": 0.98,
+    "TP_FP_accepted_3m": "98/2",
+    "ATE_SE3_m": 0.019790626883410146,
+    "ATE_unaligned_m": 0.4555804881935067,
+    "n_accepted": 100,
+    "n_verified": 152
+  },
+  "metrics_sha1": "3bdc1a09442a7a95dbf92bbdaf0b2b3d06403e4e"
+}

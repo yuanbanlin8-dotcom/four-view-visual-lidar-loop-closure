@@ -1,0 +1,85 @@
+{
+  "name": "SuperPoint mean-pool",
+  "fair": "yes",
+  "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+  "weights": "lightglue.SuperPoint max_kp=512",
+  "protocol": "v1-locked-20261023",
+  "cam0": {
+    "label": "SuperPoint mean-pool_cam0",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.9032258064516129,
+      "hits@1": 28,
+      "recall@5": 1.0,
+      "hits@5": 31
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.5806451612903226,
+      "hits@1": 18,
+      "recall@5": 0.9354838709677419,
+      "hits@5": 29
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 0.9090909090909091,
+      "hits@1": 30,
+      "recall@5": 1.0,
+      "hits@5": 33
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.7878787878787878,
+      "hits@1": 26,
+      "recall@5": 0.9393939393939394,
+      "hits@5": 31
+    }
+  },
+  "cam4": {
+    "label": "SuperPoint mean-pool_4cam",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.7419354838709677,
+      "hits@1": 23,
+      "recall@5": 1.0,
+      "hits@5": 31
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.45161290322580644,
+      "hits@1": 14,
+      "recall@5": 0.9032258064516129,
+      "hits@5": 28
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 0.8787878787878788,
+      "hits@1": 29,
+      "recall@5": 1.0,
+      "hits@5": 33
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.6666666666666666,
+      "hits@1": 22,
+      "recall@5": 1.0,
+      "hits@5": 33
+    }
+  }
+}

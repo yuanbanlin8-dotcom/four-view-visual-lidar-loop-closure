@@ -1,0 +1,25 @@
+metric,value
+frontend,adapter_GT_3s
+node_source,adapter_3s
+protocol_version,v1-locked-20261023
+thr_m,2.0
+dt_min_s,30.0
+n_gt_positives,38
+n_canonical_queries,31
+n_reverse_positives,5
+R@1,0.967742
+R@5,1.000000
+n_accepted_edges,100
+P_est,0.960000
+P_lb,0.960000
+Recall,0.842105
+ATE_RMSE_SE3_optimised_m,0.019791
+ATE_trans_median_optimised_m,0.014216
+ATE_Z_RMSE_optimised_m,0.019734
+start_end_gap_optimised_m,0.327896
+ATE_RMSE_SE3_odometry_m,0.000000
+start_end_gap_odometry_m,0.297753
+start_end_gap_GT_m,0.297753
+floor_z / lap_p2pl / sharpness,N/A
+ready_to_publish,True
+missing_artifacts,(none)

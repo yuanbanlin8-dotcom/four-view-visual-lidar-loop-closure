@@ -1,0 +1,6 @@
+﻿Stage,Ours,w/o LiDAR verification
+Shortlisted,1100,1100
+Verified pairs,29,42
+Sequence-supported,28,17
+Spatial anchors,26,16
+Accepted loops,26,16

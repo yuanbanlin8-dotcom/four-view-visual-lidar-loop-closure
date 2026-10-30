@@ -1,0 +1,60 @@
+{
+  "four_floor": {
+    "dataset": "20261013_160929",
+    "nodes": 243,
+    "sequence_gap_s": 24,
+    "accepted_loops_with_gnc": 26,
+    "accepted_loops_without_gnc": 26,
+    "max_position_difference_m": 4.216144448409102e-05
+  },
+  "single_floor_stress_test": {
+    "dataset": "20261008_145008",
+    "nodes": 134,
+    "sequence_gap_s": 24,
+    "ground_factors_enabled": false,
+    "cases": {
+      "sequence_gnc": {
+        "input_candidates": 28,
+        "spatial_anchors": 27,
+        "final_loops": 23,
+        "max_deviation_from_raw_m": 0.3983257380342766
+      },
+      "sequence_no_gnc": {
+        "input_candidates": 28,
+        "spatial_anchors": 27,
+        "final_loops": 27,
+        "max_deviation_from_raw_m": 46.440571755274625
+      },
+      "all_pairs_gnc": {
+        "input_candidates": 55,
+        "spatial_anchors": 50,
+        "final_loops": 26,
+        "max_deviation_from_raw_m": 1.0289936495422154
+      },
+      "all_pairs_no_gnc": {
+        "input_candidates": 55,
+        "spatial_anchors": 50,
+        "final_loops": 50,
+        "max_deviation_from_raw_m": 95.17289089157713
+      }
+    },
+    "sequence_gnc_removed_edges": [
+      [
+        73,
+        54
+      ],
+      [
+        76,
+        56
+      ],
+      [
+        77,
+        57
+      ],
+      [
+        78,
+        58
+      ]
+    ]
+  }
+}

@@ -1,0 +1,915 @@
+{
+  "method": "same joint DINO+multicamera+LiDAR-depth PnP; symmetric LiDAR ICP gate removed",
+  "candidate_count": 1100,
+  "visual_gate_counts": {
+    "reject_visual_support": 893,
+    "hold_large_pose_disagreement": 165,
+    "pair_pass": 42
+  },
+  "full_gate_counts": {
+    "reject_visual_support": 893,
+    "hold_large_pose_disagreement": 165,
+    "pair_pass": 29,
+    "reject_symmetric_geometry": 13
+  },
+  "visual_pair_pass": 42,
+  "full_pair_pass": 29,
+  "visual_sequence_supported": 17,
+  "visual_spatial_anchors": 16,
+  "full_final_accepted": 26,
+  "visual_only_pair_pass": [
+    {
+      "i": 125,
+      "j": 91,
+      "visual_inliers": 105,
+      "per_cam": {
+        "0": 43,
+        "1": 59,
+        "3": 3
+      },
+      "pnp_odom_diff_m": 0.09494754572180168,
+      "pnp_odom_diff_deg": 2.6426397583238104,
+      "icp_fitness": 0.23809523809523808,
+      "icp_rmse": 0.08732640546876033,
+      "reverse_fitness": 0.11586091093542293,
+      "reverse_rmse": 0.07413284090388478,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 127,
+      "j": 88,
+      "visual_inliers": 31,
+      "per_cam": {
+        "0": 12,
+        "1": 19
+      },
+      "pnp_odom_diff_m": 0.5547710326687503,
+      "pnp_odom_diff_deg": 3.2239638210086583,
+      "icp_fitness": 0.5120518781353236,
+      "icp_rmse": 0.04714757596275426,
+      "reverse_fitness": 0.3419097857681128,
+      "reverse_rmse": 0.050488005631530546,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 128,
+      "j": 88,
+      "visual_inliers": 81,
+      "per_cam": {
+        "0": 40,
+        "1": 41
+      },
+      "pnp_odom_diff_m": 0.10526698289899403,
+      "pnp_odom_diff_deg": 3.3914621797842313,
+      "icp_fitness": 0.31246062744109865,
+      "icp_rmse": 0.061254094975015855,
+      "reverse_fitness": 0.1843040155022069,
+      "reverse_rmse": 0.06165401595876726,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 129,
+      "j": 88,
+      "visual_inliers": 61,
+      "per_cam": {
+        "0": 27,
+        "1": 34,
+        "3": 0
+      },
+      "pnp_odom_diff_m": 0.16992460206955726,
+      "pnp_odom_diff_deg": 3.1726280552969337,
+      "icp_fitness": 0.1765035749334081,
+      "icp_rmse": 0.09032986981463993,
+      "reverse_fitness": 0.08224782000215308,
+      "reverse_rmse": 0.08573223557735794,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 132,
+      "j": 84,
+      "visual_inliers": 18,
+      "per_cam": {
+        "0": 6,
+        "1": 12,
+        "2": 0,
+        "3": 0
+      },
+      "pnp_odom_diff_m": 1.041431864653752,
+      "pnp_odom_diff_deg": 8.74261233304756,
+      "icp_fitness": 0.6619427982478743,
+      "icp_rmse": 0.050062174581571056,
+      "reverse_fitness": 0.24353602452733777,
+      "reverse_rmse": 0.06384599052311207,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 186,
+      "j": 173,
+      "visual_inliers": 23,
+      "per_cam": {
+        "0": 17,
+        "1": 6
+      },
+      "pnp_odom_diff_m": 1.2108858658096662,
+      "pnp_odom_diff_deg": 5.562469599512947,
+      "icp_fitness": 0.28826574633304575,
+      "icp_rmse": 0.08457755070006667,
+      "reverse_fitness": 0.15811362792424805,
+      "reverse_rmse": 0.0786211946795241,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 189,
+      "j": 171,
+      "visual_inliers": 42,
+      "per_cam": {
+        "0": 17,
+        "1": 25,
+        "2": 0,
+        "3": 0
+      },
+      "pnp_odom_diff_m": 4.435006463875918,
+      "pnp_odom_diff_deg": 5.371327774484381,
+      "icp_fitness": 0.2279352768119818,
+      "icp_rmse": 0.08854878979656587,
+      "reverse_fitness": 0.20683707072291047,
+      "reverse_rmse": 0.083727931787837,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 190,
+      "j": 171,
+      "visual_inliers": 35,
+      "per_cam": {
+        "0": 9,
+        "1": 26,
+        "3": 0
+      },
+      "pnp_odom_diff_m": 4.109086336786421,
+      "pnp_odom_diff_deg": 2.782123785041264,
+      "icp_fitness": 0.12434976467674015,
+      "icp_rmse": 0.0971840264635843,
+      "reverse_fitness": 0.10592755214050494,
+      "reverse_rmse": 0.0869910721086231,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 198,
+      "j": 161,
+      "visual_inliers": 59,
+      "per_cam": {
+        "0": 29,
+        "1": 30
+      },
+      "pnp_odom_diff_m": 0.06452823301682753,
+      "pnp_odom_diff_deg": 2.8034021269224603,
+      "icp_fitness": 0.18964872944693573,
+      "icp_rmse": 0.07779909755763242,
+      "reverse_fitness": 0.12504443654461428,
+      "reverse_rmse": 0.07410236436825929,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 199,
+      "j": 161,
+      "visual_inliers": 34,
+      "per_cam": {
+        "0": 14,
+        "1": 20,
+        "2": 0
+      },
+      "pnp_odom_diff_m": 1.1744534570064216,
+      "pnp_odom_diff_deg": 3.8091806338633596,
+      "icp_fitness": 0.07319535588086824,
+      "icp_rmse": 0.08092841462426836,
+      "reverse_fitness": 0.049324564521862777,
+      "reverse_rmse": 0.0819724317245738,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 200,
+      "j": 158,
+      "visual_inliers": 51,
+      "per_cam": {
+        "0": 25,
+        "1": 26
+      },
+      "pnp_odom_diff_m": 0.11557988829465245,
+      "pnp_odom_diff_deg": 2.72647153937172,
+      "icp_fitness": 0.29928571428571427,
+      "icp_rmse": 0.07475625747564638,
+      "reverse_fitness": 0.21545903456615942,
+      "reverse_rmse": 0.06643690198883866,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 224,
+      "j": 18,
+      "visual_inliers": 67,
+      "per_cam": {
+        "0": 31,
+        "1": 36,
+        "3": 0
+      },
+      "pnp_odom_diff_m": 0.12861839612002668,
+      "pnp_odom_diff_deg": 2.3738090112757786,
+      "icp_fitness": 0.24692762858443332,
+      "icp_rmse": 0.08034953732568342,
+      "reverse_fitness": 0.15262767098424224,
+      "reverse_rmse": 0.07690695225756078,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    },
+    {
+      "i": 228,
+      "j": 12,
+      "visual_inliers": 21,
+      "per_cam": {
+        "0": 14,
+        "1": 5,
+        "2": 1,
+        "3": 1
+      },
+      "pnp_odom_diff_m": 0.08291798647695944,
+      "pnp_odom_diff_deg": 2.035996358544803,
+      "icp_fitness": 0.20147693112011503,
+      "icp_rmse": 0.0693971790597364,
+      "reverse_fitness": 0.25800292036392225,
+      "reverse_rmse": 0.04870885732366669,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": null
+    }
+  ],
+  "visual_sequence_edges": [
+    {
+      "i": 112,
+      "j": 100,
+      "visual_inliers": 48,
+      "per_cam": {
+        "0": 23,
+        "1": 25
+      },
+      "pnp_odom_diff_m": 0.21753921553591937,
+      "pnp_odom_diff_deg": 2.7804966654085392,
+      "icp_fitness": 0.46422071079605326,
+      "icp_rmse": 0.050563754696332494,
+      "reverse_fitness": 0.39512142703632064,
+      "reverse_rmse": 0.041132235812524655,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 115,
+      "j": 97,
+      "visual_inliers": 66,
+      "per_cam": {
+        "0": 33,
+        "1": 0,
+        "2": 7,
+        "3": 26
+      },
+      "pnp_odom_diff_m": 0.18841258418556178,
+      "pnp_odom_diff_deg": 2.8079554828256854,
+      "icp_fitness": 0.43369749482011677,
+      "icp_rmse": 0.04750000440461251,
+      "reverse_fitness": 0.5506718775095026,
+      "reverse_rmse": 0.045202840607629136,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 116,
+      "j": 96,
+      "visual_inliers": 115,
+      "per_cam": {
+        "0": 16,
+        "1": 6,
+        "2": 2,
+        "3": 91
+      },
+      "pnp_odom_diff_m": 0.12782260159146308,
+      "pnp_odom_diff_deg": 2.4123126877081886,
+      "icp_fitness": 0.6902440848687327,
+      "icp_rmse": 0.05505310255868182,
+      "reverse_fitness": 0.5969810146280734,
+      "reverse_rmse": 0.0476096622271962,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 117,
+      "j": 95,
+      "visual_inliers": 169,
+      "per_cam": {
+        "0": 28,
+        "1": 66,
+        "3": 75
+      },
+      "pnp_odom_diff_m": 0.09396887236363528,
+      "pnp_odom_diff_deg": 2.367748018614306,
+      "icp_fitness": 0.6352743089659043,
+      "icp_rmse": 0.05729034226064065,
+      "reverse_fitness": 0.4761694616063548,
+      "reverse_rmse": 0.05274072988291712,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 117,
+      "j": 97,
+      "visual_inliers": 40,
+      "per_cam": {
+        "0": 28,
+        "2": 6,
+        "3": 6
+      },
+      "pnp_odom_diff_m": 0.26603519865409275,
+      "pnp_odom_diff_deg": 2.4450903300772286,
+      "icp_fitness": 0.30585098919601517,
+      "icp_rmse": 0.06491297322355329,
+      "reverse_fitness": 0.3750200760212003,
+      "reverse_rmse": 0.05644149961877723,
+      "full_gate": "pair_pass",
+      "full_accepted": false,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 118,
+      "j": 95,
+      "visual_inliers": 228,
+      "per_cam": {
+        "0": 55,
+        "1": 93,
+        "2": 1,
+        "3": 79
+      },
+      "pnp_odom_diff_m": 0.10538246464723391,
+      "pnp_odom_diff_deg": 2.851711513560689,
+      "icp_fitness": 0.5850466746154069,
+      "icp_rmse": 0.07202650468018311,
+      "reverse_fitness": 0.3606943218593704,
+      "reverse_rmse": 0.058780684827521974,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 118,
+      "j": 96,
+      "visual_inliers": 68,
+      "per_cam": {
+        "0": 13,
+        "1": 1,
+        "2": 0,
+        "3": 54
+      },
+      "pnp_odom_diff_m": 0.31757420030682554,
+      "pnp_odom_diff_deg": 3.516718935585576,
+      "icp_fitness": 0.6214848634658446,
+      "icp_rmse": 0.07708697074409913,
+      "reverse_fitness": 0.37482103952692186,
+      "reverse_rmse": 0.05785339040508754,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 3
+    },
+    {
+      "i": 119,
+      "j": 95,
+      "visual_inliers": 97,
+      "per_cam": {
+        "0": 36,
+        "1": 32,
+        "2": 0,
+        "3": 29
+      },
+      "pnp_odom_diff_m": 0.06202358400548122,
+      "pnp_odom_diff_deg": 2.1059696708397655,
+      "icp_fitness": 0.5286407958627768,
+      "icp_rmse": 0.058490853041977785,
+      "reverse_fitness": 0.32180052956751987,
+      "reverse_rmse": 0.060352859818672853,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 3
+    },
+    {
+      "i": 119,
+      "j": 94,
+      "visual_inliers": 210,
+      "per_cam": {
+        "0": 83,
+        "1": 87,
+        "2": 0,
+        "3": 40
+      },
+      "pnp_odom_diff_m": 0.09227425854947184,
+      "pnp_odom_diff_deg": 2.7519743051770553,
+      "icp_fitness": 0.5901069835379574,
+      "icp_rmse": 0.05346949110641812,
+      "reverse_fitness": 0.34007683834394564,
+      "reverse_rmse": 0.054545779618166916,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 125,
+      "j": 91,
+      "visual_inliers": 105,
+      "per_cam": {
+        "0": 43,
+        "1": 59,
+        "3": 3
+      },
+      "pnp_odom_diff_m": 0.09494754572180168,
+      "pnp_odom_diff_deg": 2.6426397583238104,
+      "icp_fitness": 0.23809523809523808,
+      "icp_rmse": 0.08732640546876033,
+      "reverse_fitness": 0.11586091093542293,
+      "reverse_rmse": 0.07413284090388478,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 220,
+      "j": 22,
+      "visual_inliers": 30,
+      "per_cam": {
+        "0": 0,
+        "1": 5,
+        "2": 4,
+        "3": 21
+      },
+      "pnp_odom_diff_m": 0.2657475534444727,
+      "pnp_odom_diff_deg": 2.665504457767528,
+      "icp_fitness": 0.5654858810980744,
+      "icp_rmse": 0.048821451101473824,
+      "reverse_fitness": 0.47761755485893415,
+      "reverse_rmse": 0.04755865448782153,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 223,
+      "j": 18,
+      "visual_inliers": 25,
+      "per_cam": {
+        "0": 1,
+        "1": 7,
+        "3": 17
+      },
+      "pnp_odom_diff_m": 0.27717203071113755,
+      "pnp_odom_diff_deg": 1.5549423253721797,
+      "icp_fitness": 0.5164573586144627,
+      "icp_rmse": 0.04679274427334275,
+      "reverse_fitness": 0.3996369936473888,
+      "reverse_rmse": 0.0397998847457993,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 224,
+      "j": 17,
+      "visual_inliers": 42,
+      "per_cam": {
+        "0": 16,
+        "1": 26,
+        "2": 0,
+        "3": 0
+      },
+      "pnp_odom_diff_m": 0.2237022450370594,
+      "pnp_odom_diff_deg": 2.657141199455866,
+      "icp_fitness": 0.43013199817933545,
+      "icp_rmse": 0.042823968234000365,
+      "reverse_fitness": 0.2875956231238501,
+      "reverse_rmse": 0.04218147086432155,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 227,
+      "j": 13,
+      "visual_inliers": 34,
+      "per_cam": {
+        "0": 15,
+        "1": 5,
+        "2": 14
+      },
+      "pnp_odom_diff_m": 0.205798420661902,
+      "pnp_odom_diff_deg": 2.6057287791490853,
+      "icp_fitness": 0.7307140492219402,
+      "icp_rmse": 0.04707574844118107,
+      "reverse_fitness": 0.6160351826792964,
+      "reverse_rmse": 0.041099971050500866,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 228,
+      "j": 12,
+      "visual_inliers": 21,
+      "per_cam": {
+        "0": 14,
+        "1": 5,
+        "2": 1,
+        "3": 1
+      },
+      "pnp_odom_diff_m": 0.08291798647695944,
+      "pnp_odom_diff_deg": 2.035996358544803,
+      "icp_fitness": 0.20147693112011503,
+      "icp_rmse": 0.0693971790597364,
+      "reverse_fitness": 0.25800292036392225,
+      "reverse_rmse": 0.04870885732366669,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 229,
+      "j": 11,
+      "visual_inliers": 77,
+      "per_cam": {
+        "0": 1,
+        "2": 23,
+        "3": 53
+      },
+      "pnp_odom_diff_m": 0.10550540724589305,
+      "pnp_odom_diff_deg": 1.787838753194055,
+      "icp_fitness": 0.5583853304469629,
+      "icp_rmse": 0.05340884848759886,
+      "reverse_fitness": 0.5594256846583355,
+      "reverse_rmse": 0.04612738822238159,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 230,
+      "j": 9,
+      "visual_inliers": 58,
+      "per_cam": {
+        "0": 18,
+        "1": 0,
+        "2": 0,
+        "3": 40
+      },
+      "pnp_odom_diff_m": 0.10774714023668279,
+      "pnp_odom_diff_deg": 3.284040675177306,
+      "icp_fitness": 0.8874034462269756,
+      "icp_rmse": 0.05094928929096166,
+      "reverse_fitness": 0.6963239875389408,
+      "reverse_rmse": 0.041804543291714395,
+      "full_gate": "pair_pass",
+      "full_accepted": false,
+      "sequence_pairs": 7
+    }
+  ],
+  "visual_anchor_edges": [
+    {
+      "i": 118,
+      "j": 95,
+      "visual_inliers": 228,
+      "per_cam": {
+        "0": 55,
+        "1": 93,
+        "2": 1,
+        "3": 79
+      },
+      "pnp_odom_diff_m": 0.10538246464723391,
+      "pnp_odom_diff_deg": 2.851711513560689,
+      "icp_fitness": 0.5850466746154069,
+      "icp_rmse": 0.07202650468018311,
+      "reverse_fitness": 0.3606943218593704,
+      "reverse_rmse": 0.058780684827521974,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 119,
+      "j": 94,
+      "visual_inliers": 210,
+      "per_cam": {
+        "0": 83,
+        "1": 87,
+        "2": 0,
+        "3": 40
+      },
+      "pnp_odom_diff_m": 0.09227425854947184,
+      "pnp_odom_diff_deg": 2.7519743051770553,
+      "icp_fitness": 0.5901069835379574,
+      "icp_rmse": 0.05346949110641812,
+      "reverse_fitness": 0.34007683834394564,
+      "reverse_rmse": 0.054545779618166916,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 117,
+      "j": 95,
+      "visual_inliers": 169,
+      "per_cam": {
+        "0": 28,
+        "1": 66,
+        "3": 75
+      },
+      "pnp_odom_diff_m": 0.09396887236363528,
+      "pnp_odom_diff_deg": 2.367748018614306,
+      "icp_fitness": 0.6352743089659043,
+      "icp_rmse": 0.05729034226064065,
+      "reverse_fitness": 0.4761694616063548,
+      "reverse_rmse": 0.05274072988291712,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 116,
+      "j": 96,
+      "visual_inliers": 115,
+      "per_cam": {
+        "0": 16,
+        "1": 6,
+        "2": 2,
+        "3": 91
+      },
+      "pnp_odom_diff_m": 0.12782260159146308,
+      "pnp_odom_diff_deg": 2.4123126877081886,
+      "icp_fitness": 0.6902440848687327,
+      "icp_rmse": 0.05505310255868182,
+      "reverse_fitness": 0.5969810146280734,
+      "reverse_rmse": 0.0476096622271962,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 125,
+      "j": 91,
+      "visual_inliers": 105,
+      "per_cam": {
+        "0": 43,
+        "1": 59,
+        "3": 3
+      },
+      "pnp_odom_diff_m": 0.09494754572180168,
+      "pnp_odom_diff_deg": 2.6426397583238104,
+      "icp_fitness": 0.23809523809523808,
+      "icp_rmse": 0.08732640546876033,
+      "reverse_fitness": 0.11586091093542293,
+      "reverse_rmse": 0.07413284090388478,
+      "full_gate": "reject_symmetric_geometry",
+      "full_accepted": false,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 119,
+      "j": 95,
+      "visual_inliers": 97,
+      "per_cam": {
+        "0": 36,
+        "1": 32,
+        "2": 0,
+        "3": 29
+      },
+      "pnp_odom_diff_m": 0.06202358400548122,
+      "pnp_odom_diff_deg": 2.1059696708397655,
+      "icp_fitness": 0.5286407958627768,
+      "icp_rmse": 0.058490853041977785,
+      "reverse_fitness": 0.32180052956751987,
+      "reverse_rmse": 0.060352859818672853,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 3
+    },
+    {
+      "i": 229,
+      "j": 11,
+      "visual_inliers": 77,
+      "per_cam": {
+        "0": 1,
+        "2": 23,
+        "3": 53
+      },
+      "pnp_odom_diff_m": 0.10550540724589305,
+      "pnp_odom_diff_deg": 1.787838753194055,
+      "icp_fitness": 0.5583853304469629,
+      "icp_rmse": 0.05340884848759886,
+      "reverse_fitness": 0.5594256846583355,
+      "reverse_rmse": 0.04612738822238159,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 118,
+      "j": 96,
+      "visual_inliers": 68,
+      "per_cam": {
+        "0": 13,
+        "1": 1,
+        "2": 0,
+        "3": 54
+      },
+      "pnp_odom_diff_m": 0.31757420030682554,
+      "pnp_odom_diff_deg": 3.516718935585576,
+      "icp_fitness": 0.6214848634658446,
+      "icp_rmse": 0.07708697074409913,
+      "reverse_fitness": 0.37482103952692186,
+      "reverse_rmse": 0.05785339040508754,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 3
+    },
+    {
+      "i": 115,
+      "j": 97,
+      "visual_inliers": 66,
+      "per_cam": {
+        "0": 33,
+        "1": 0,
+        "2": 7,
+        "3": 26
+      },
+      "pnp_odom_diff_m": 0.18841258418556178,
+      "pnp_odom_diff_deg": 2.8079554828256854,
+      "icp_fitness": 0.43369749482011677,
+      "icp_rmse": 0.04750000440461251,
+      "reverse_fitness": 0.5506718775095026,
+      "reverse_rmse": 0.045202840607629136,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 230,
+      "j": 9,
+      "visual_inliers": 58,
+      "per_cam": {
+        "0": 18,
+        "1": 0,
+        "2": 0,
+        "3": 40
+      },
+      "pnp_odom_diff_m": 0.10774714023668279,
+      "pnp_odom_diff_deg": 3.284040675177306,
+      "icp_fitness": 0.8874034462269756,
+      "icp_rmse": 0.05094928929096166,
+      "reverse_fitness": 0.6963239875389408,
+      "reverse_rmse": 0.041804543291714395,
+      "full_gate": "pair_pass",
+      "full_accepted": false,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 112,
+      "j": 100,
+      "visual_inliers": 48,
+      "per_cam": {
+        "0": 23,
+        "1": 25
+      },
+      "pnp_odom_diff_m": 0.21753921553591937,
+      "pnp_odom_diff_deg": 2.7804966654085392,
+      "icp_fitness": 0.46422071079605326,
+      "icp_rmse": 0.050563754696332494,
+      "reverse_fitness": 0.39512142703632064,
+      "reverse_rmse": 0.041132235812524655,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 224,
+      "j": 17,
+      "visual_inliers": 42,
+      "per_cam": {
+        "0": 16,
+        "1": 26,
+        "2": 0,
+        "3": 0
+      },
+      "pnp_odom_diff_m": 0.2237022450370594,
+      "pnp_odom_diff_deg": 2.657141199455866,
+      "icp_fitness": 0.43013199817933545,
+      "icp_rmse": 0.042823968234000365,
+      "reverse_fitness": 0.2875956231238501,
+      "reverse_rmse": 0.04218147086432155,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 117,
+      "j": 97,
+      "visual_inliers": 40,
+      "per_cam": {
+        "0": 28,
+        "2": 6,
+        "3": 6
+      },
+      "pnp_odom_diff_m": 0.26603519865409275,
+      "pnp_odom_diff_deg": 2.4450903300772286,
+      "icp_fitness": 0.30585098919601517,
+      "icp_rmse": 0.06491297322355329,
+      "reverse_fitness": 0.3750200760212003,
+      "reverse_rmse": 0.05644149961877723,
+      "full_gate": "pair_pass",
+      "full_accepted": false,
+      "sequence_pairs": 4
+    },
+    {
+      "i": 227,
+      "j": 13,
+      "visual_inliers": 34,
+      "per_cam": {
+        "0": 15,
+        "1": 5,
+        "2": 14
+      },
+      "pnp_odom_diff_m": 0.205798420661902,
+      "pnp_odom_diff_deg": 2.6057287791490853,
+      "icp_fitness": 0.7307140492219402,
+      "icp_rmse": 0.04707574844118107,
+      "reverse_fitness": 0.6160351826792964,
+      "reverse_rmse": 0.041099971050500866,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 220,
+      "j": 22,
+      "visual_inliers": 30,
+      "per_cam": {
+        "0": 0,
+        "1": 5,
+        "2": 4,
+        "3": 21
+      },
+      "pnp_odom_diff_m": 0.2657475534444727,
+      "pnp_odom_diff_deg": 2.665504457767528,
+      "icp_fitness": 0.5654858810980744,
+      "icp_rmse": 0.048821451101473824,
+      "reverse_fitness": 0.47761755485893415,
+      "reverse_rmse": 0.04755865448782153,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    },
+    {
+      "i": 223,
+      "j": 18,
+      "visual_inliers": 25,
+      "per_cam": {
+        "0": 1,
+        "1": 7,
+        "3": 17
+      },
+      "pnp_odom_diff_m": 0.27717203071113755,
+      "pnp_odom_diff_deg": 1.5549423253721797,
+      "icp_fitness": 0.5164573586144627,
+      "icp_rmse": 0.04679274427334275,
+      "reverse_fitness": 0.3996369936473888,
+      "reverse_rmse": 0.0397998847457993,
+      "full_gate": "pair_pass",
+      "full_accepted": true,
+      "sequence_pairs": 7
+    }
+  ]
+}

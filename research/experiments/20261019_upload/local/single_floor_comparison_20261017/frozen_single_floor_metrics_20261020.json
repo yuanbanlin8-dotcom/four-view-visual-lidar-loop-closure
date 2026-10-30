@@ -1,0 +1,67 @@
+{
+  "dataset": "20261008_145008",
+  "evaluation": "frozen retrieval rerun on NUC 2026-10-20, metrics scored locally",
+  "nuc_rerun_check": {
+    "host": "192.168.10.15",
+    "script": "run_single_floor_retrieval.py",
+    "source_descriptors": "/home/nuc/omnilivo_floor_loop_trial/single_floor_20261008_no_icp_20261017/vision_input/global_dinov2.npz",
+    "rerun_candidate_count": 1338,
+    "same_query_match_order": true,
+    "same_rank_rows": 1338,
+    "same_score_rows": 91,
+    "rerun_shortlist_sha256": "c10d4f1b5efcaab062488bd9ac003cc20ff0b963f1d2935f20ad6797e4113641",
+    "note": "Floating-point score values changed slightly; selected pairs and ranks did not."
+  },
+  "source_sha256": {
+    "research/eval/benchmark_pairs.csv": "85be0630bdd0e86a08fe2254700b2ae9f6d855a1b34de70c9729f3ebd0620b6a",
+    "research/experiments/20261019_upload/nuc/single_floor/no_icp/shortlist.json": "9dc6d30c8eb020a9a37e60d767eb3a4cb28f7afe1fa4bccedacd4363d6b11fc3",
+    "research/experiments/20261019_upload/local/single_floor_comparison_20261017/no_icp_summary.json": "a0c0efcdbc66d59e07ee412e6b6a6f68220c83e06c0b031f11aa21cc183e2197",
+    "research/experiments/20261019_upload/local/single_floor_comparison_20261017/人工复核标签_20261017.json": "18ca89587f569766c7030e7aaae8326685f5e6f8d35ff43f6fe4840c67108e96"
+  },
+  "query_scope": "lap-2 carried nodes 66..121",
+  "match_tolerance_nodes": 1,
+  "retrieval_min_time_gap_s": 35,
+  "all_human_positive_queries": 52,
+  "excluded_positive_queries_below_35s": [
+    70,
+    71,
+    72
+  ],
+  "eligible_positive_queries_including_uncertain": 49,
+  "uncertain_eligible_queries": [
+    76,
+    77,
+    81,
+    96,
+    120
+  ],
+  "strict_positive_queries": 44,
+  "retrieval_R_at_1": {
+    "hits": 16,
+    "denominator": 44
+  },
+  "retrieval_R_at_5": {
+    "hits": 34,
+    "denominator": 44
+  },
+  "retrieval_R_at_1_including_uncertain": {
+    "hits": 17,
+    "denominator": 49
+  },
+  "retrieval_R_at_5_including_uncertain": {
+    "hits": 39,
+    "denominator": 49
+  },
+  "accepted_final_anchors": 17,
+  "final_anchor_query_coverage_of_strict_benchmark": {
+    "hits": 8,
+    "denominator": 44
+  },
+  "reviewed_final_anchor_correctness": {
+    "correct": 17,
+    "reviewed": 17
+  },
+  "full_precision": null,
+  "full_recall": null,
+  "limitation": "Benchmark positives are sparse and some labels derive from odometry proximity; negatives are auto-generated. Human review covers selected final anchors only. No exhaustive independent pair-level ground truth exists."
+}

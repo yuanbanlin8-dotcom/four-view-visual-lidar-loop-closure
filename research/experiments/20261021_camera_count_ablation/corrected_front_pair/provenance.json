@@ -1,0 +1,23 @@
+{
+  "description": "Front-camera-pair end-to-end visual-input ablation on four-floor flight.\n\nc0+c1 are used on both traversals. LiDAR ICP, sequence support, ground\nfactors and GNC are unchanged. This is not a vision-only SLAM benchmark.\n",
+  "worker_count": 8,
+  "cameras": [
+    0,
+    1
+  ],
+  "tasks": 1100,
+  "files": {
+    "/home/nuc/five_floor_optimization_20261013/research/multifloor/verify.py": "f5818d1f97d57dbd2915003cc5341389cfd6ccda9e5b0af126eb854e84ede25c",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/front_pair_c0_c1_20261021/shortlist.json": "f6a3bc68460d0c9414d87982894cdb560ac804920589019747a14091a7ec8b76",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/front_pair_c0_c1_20261021/scripts/backend.py": "3b71dbf6d032116973d6cda29c9a92a84ae44d29a0fbef4298f7ad0b704b5cdf",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/vision_input/global_dinov2.npz": "ccabf8f5796ef0de5d67cd5e6adba5be079f98a3418233fe0fbad0c2bfff2886",
+    "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929_submaps/poses.json": "ee87f177e1b509f06bbec415adf071c1ec1a9e800db3a812ecb13f0fc1f3c921",
+    "/home/nuc/five_floor_optimization_20261013/research/vision/src/pnp_multicam.py": "ec3cf2584f2cc119e3148083b31e681a3ff54f5b59b918d012d001f6e0b2cf5d",
+    "/home/nuc/five_floor_optimization_20261013/research/vision/src/match_reverse.py": "2a50947fc77772d7a4a9d64708277fc8722ee7533449279d3a4e5afcb05c6490"
+  },
+  "verifier_patch": {
+    "front_pair_permutation": true,
+    "two_camera_gate": true,
+    "all_other_thresholds_unchanged": true
+  }
+}

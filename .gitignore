@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+build/
+devel/
+.env
+*.bag
+*.pcd
+*.pt
+*.pth
+# Local deployment helpers excluded from the public package.
+mapping/tools/desktop/
+mapping/README_EXPERIMENT.md
+mapping/build_experiment.sh
+mapping/run_raw.sh
+research/experiments/20261021_camera_count_ablation/restart_fixed_front_pair.sh
+research/experiments/20261021_camera_count_ablation/watch_fixed.py

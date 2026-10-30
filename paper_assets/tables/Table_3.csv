@@ -1,0 +1,7 @@
+﻿Method/configuration,Accepted loops,Cross-floor loops identified,Loops reviewed
+BTC + proposed selection checks,0 after added checks,—,No accepted output
+"RTAB-Map, PnP",0,—,No accepted output
+"RTAB-Map, 3D–3D",11,4,Cross-floor cases
+"RTAB-Map, 3D–3D + 2.5 m",10,3,Cross-floor cases
+Scan Context + ICP,35,2,Two cross-floor cases
+Ours,26,0,All 26

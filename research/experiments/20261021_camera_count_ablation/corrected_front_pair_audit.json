@@ -1,0 +1,81 @@
+{
+  "flight": "four_floor_20261013_160929",
+  "cameras": [
+    "c0",
+    "c1"
+  ],
+  "shortlisted_candidates": 1100,
+  "reference_four_view_accepted": 26,
+  "reference_edges_retrieved_by_front_pair": 14,
+  "visual_supported_candidates": 5,
+  "gate_counts": {
+    "reject_visual_support": 1095,
+    "hold_large_pose_disagreement": 5
+  },
+  "pair_pass": 0,
+  "sequence_supported": 0,
+  "accepted_loops": 0,
+  "held_after_visual_support": [
+    {
+      "query": 119,
+      "match": 96,
+      "inliers": 19,
+      "per_camera_inliers": {
+        "0": 14,
+        "1": 5
+      },
+      "translation_disagreement_m": 8.61886695511795,
+      "rotation_disagreement_deg": 178.26707030547425,
+      "in_four_view_accepted": false
+    },
+    {
+      "query": 231,
+      "match": 9,
+      "inliers": 32,
+      "per_camera_inliers": {
+        "0": 26,
+        "1": 6
+      },
+      "translation_disagreement_m": 0.5297610640267717,
+      "rotation_disagreement_deg": 113.6370604794257,
+      "in_four_view_accepted": true
+    },
+    {
+      "query": 76,
+      "match": 40,
+      "inliers": 19,
+      "per_camera_inliers": {
+        "0": 6,
+        "1": 13
+      },
+      "translation_disagreement_m": 4.134833669283817,
+      "rotation_disagreement_deg": 178.72105786180484,
+      "in_four_view_accepted": false
+    },
+    {
+      "query": 75,
+      "match": 40,
+      "inliers": 26,
+      "per_camera_inliers": {
+        "0": 12,
+        "1": 14
+      },
+      "translation_disagreement_m": 1.099503912017505,
+      "rotation_disagreement_deg": 178.72652610549386,
+      "in_four_view_accepted": false
+    },
+    {
+      "query": 118,
+      "match": 106,
+      "inliers": 28,
+      "per_camera_inliers": {
+        "0": 16,
+        "1": 12
+      },
+      "translation_disagreement_m": 41.23540301327547,
+      "rotation_disagreement_deg": 172.0688113772899,
+      "in_four_view_accepted": false
+    }
+  ],
+  "interpretation": "Fixed visual-input ablation; no independent loop ground truth. Zero accepted loops means no estimated front-pair loop constraints reached the GNC graph under the frozen gates."
+}

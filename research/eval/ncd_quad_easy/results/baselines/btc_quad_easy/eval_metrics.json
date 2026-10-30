@@ -1,0 +1,101 @@
+{
+  "name": "BTC_outdoor_quad_easy",
+  "scored_at": "2026-10-24 00:32:58 Asia/Singapore",
+  "frontend": "adapter_GT_3s",
+  "config": "config_outdoor_quad_easy.yaml skip_near=10 candidate_num=50 useful_corner=500",
+  "caveat_intensity0": "PCDs written with intensity=0 \u2192 BTC descriptors sparse. Backend: only 1 pair passed verify score\u22650.2 (57\u219226); selector_audit has 10 hits (9 with verify_score=-1). Do NOT overclaim a general BTC loss \u2014 this run is intensity-crippled on OREN npy\u2192pcd.",
+  "verify_stage": {
+    "source": "candidates.csv",
+    "n_rows": 1,
+    "pairs": [
+      [
+        57,
+        26,
+        0.824468085106
+      ]
+    ],
+    "R_at_k_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 1,
+      "tol": 1,
+      "recall@1": 0.03225806451612903,
+      "hits@1": 1,
+      "recall@5": 0.03225806451612903,
+      "hits@5": 1
+    },
+    "R_at_k_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 1,
+      "tol": 0,
+      "recall@1": 0.03225806451612903,
+      "hits@1": 1,
+      "recall@5": 0.03225806451612903,
+      "hits@5": 1
+    },
+    "R_at_k_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 1,
+      "tol": 1,
+      "recall@1": 0.030303030303030304,
+      "hits@1": 1,
+      "recall@5": 0.030303030303030304,
+      "hits@5": 1
+    },
+    "R_at_k_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 1,
+      "tol": 0,
+      "recall@1": 0.030303030303030304,
+      "hits@1": 1,
+      "recall@5": 0.030303030303030304,
+      "hits@5": 1
+    },
+    "canonical_queries_with_any_hit_pm1": 1
+  },
+  "selector_stage": {
+    "source": "selector_audit.csv",
+    "n_rows": 10,
+    "n_verify_pass": 1,
+    "n_verify_fail_neg1": 9,
+    "R_at_k_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 8,
+      "tol": 1,
+      "recall@1": 0.0967741935483871,
+      "hits@1": 3,
+      "recall@5": 0.0967741935483871,
+      "hits@5": 3
+    },
+    "R_at_k_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 8,
+      "tol": 0,
+      "recall@1": 0.06451612903225806,
+      "hits@1": 2,
+      "recall@5": 0.06451612903225806,
+      "hits@5": 2
+    },
+    "R_at_k_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 8,
+      "tol": 1,
+      "recall@1": 0.09090909090909091,
+      "hits@1": 3,
+      "recall@5": 0.09090909090909091,
+      "hits@5": 3
+    },
+    "R_at_k_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 8,
+      "tol": 0,
+      "recall@1": 0.06060606060606061,
+      "hits@1": 2,
+      "recall@5": 0.06060606060606061,
+      "hits@5": 2
+    },
+    "canonical_queries_with_any_hit_pm1": 3,
+    "score_definition": "verify_score if >=0 else descriptor_matches*1e-3; bidirectional edges"
+  },
+  "P_R": "N/A (no accept-set comparable to GNC; retrieval/verify dump only)",
+  "ATE": "N/A"
+}

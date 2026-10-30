@@ -1,0 +1,33 @@
+{
+  "protocol_version": "v1-locked-20261023",
+  "node_source": "adapter_3s",
+  "frontend": "adapter_GT_3s",
+  "n_nodes": 66,
+  "thr_m_primary": 2.0,
+  "thr_m_sensitivity": 3.0,
+  "dt_min_s": 30.0,
+  "reverse_heading_thresh_deg": 120.0,
+  "poses_json": "/workspace/project/ncd_adapter/converted/quad-easy/poses.json",
+  "gt_csv": "/workspace/project/ncd_adapter/gt/gt-nc-quad-easy.csv",
+  "gt_csv_sha1": "5c3709399f1e6331e64bbf5333b7e9039de27299",
+  "poses_json_sha1": "d2b1b5e9b604d08e9bb9b49905c781ded857dfb8",
+  "t0": 1625132069.158812,
+  "tN": 1625132267.8413587,
+  "duration_s": 198.6825466156006,
+  "start_end_gap_gt_m": 0.297752522570069,
+  "primary": {
+    "n_positives": 38,
+    "n_reverse": 5,
+    "n_same_dir": 33,
+    "n_canonical_queries": 31,
+    "n_canonical_reverse": 2
+  },
+  "sensitivity_3m": {
+    "n_positives": 60,
+    "n_reverse": 5,
+    "n_same_dir": 55,
+    "n_canonical_queries": 33,
+    "n_canonical_reverse": 2
+  },
+  "note": "Reverse pairs retained in both R@k and Recall denominators; tagged only. NCD = same-direction external val; reverse claim stays on 20261008."
+}

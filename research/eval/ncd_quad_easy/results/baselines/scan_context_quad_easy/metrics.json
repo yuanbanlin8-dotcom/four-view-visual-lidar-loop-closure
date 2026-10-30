@@ -1,0 +1,52 @@
+{
+  "name": "ScanContext_20x60_r80",
+  "status": "ok",
+  "algorithm": "20x60 max-height SC; 80m radius; +2m height; ring-key KNN shortlist=50; sector yaw \u00b13; score=-sc_distance",
+  "source_script": "adapted from seeker-fresh/.../scan_context_retrieval.py",
+  "submaps": "/workspace/project/ncd_adapter/converted/quad-easy/submaps",
+  "poses": "/workspace/project/ncd_adapter/converted/quad-easy/poses.json",
+  "frontend": "adapter_GT_3s",
+  "n_nodes": 66,
+  "gap_nodes": 10,
+  "gap_note": "~30s at 3s/node (protocol dt>30s)",
+  "n_candidate_rows": 1525,
+  "elapsed_s": 1.9558533109993732,
+  "R_at_k_2m_pm1": {
+    "n_queries": 31,
+    "n_queries_with_candidates": 31,
+    "tol": 1,
+    "recall@1": 0.8709677419354839,
+    "hits@1": 27,
+    "recall@5": 0.9032258064516129,
+    "hits@5": 28
+  },
+  "R_at_k_2m_tol0": {
+    "n_queries": 31,
+    "n_queries_with_candidates": 31,
+    "tol": 0,
+    "recall@1": 0.8387096774193549,
+    "hits@1": 26,
+    "recall@5": 0.8709677419354839,
+    "hits@5": 27
+  },
+  "R_at_k_3m_pm1": {
+    "n_queries": 33,
+    "n_queries_with_candidates": 33,
+    "tol": 1,
+    "recall@1": 0.8787878787878788,
+    "hits@1": 29,
+    "recall@5": 0.9090909090909091,
+    "hits@5": 30
+  },
+  "R_at_k_3m_tol0": {
+    "n_queries": 33,
+    "n_queries_with_candidates": 33,
+    "tol": 0,
+    "recall@1": 0.8787878787878788,
+    "hits@1": 29,
+    "recall@5": 0.8787878787878788,
+    "hits@5": 29
+  },
+  "P_R": "N/A (retrieval-only; no accept set)",
+  "ATE": "N/A"
+}

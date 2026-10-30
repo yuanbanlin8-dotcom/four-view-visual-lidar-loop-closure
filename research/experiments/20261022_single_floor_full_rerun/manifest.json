@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-22",
+  "source": "/home/nuc/omnilivo_floor_loop_trial/single_floor_20261008_no_icp_20261017",
+  "candidate_count": 1338,
+  "shortlist_sha256": "9dc6d30c8eb020a9a37e60d767eb3a4cb28f7afe1fa4bccedacd4363d6b11fc3",
+  "purpose": "independent output rerun of frozen single-floor verifier and gate summary",
+  "status": "complete",
+  "summary_sha256": "a0c0efcdbc66d59e07ee412e6b6a6f68220c83e06c0b031f11aa21cc183e2197",
+  "finished_unix": 1792666980.1630936
+}

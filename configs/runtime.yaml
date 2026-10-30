@@ -1,0 +1,166 @@
+# OmniLIVO desktop mapping configuration; saves raw and 5 cm PCD files.
+common:
+  img_en: 1
+  imu_topic: /livox/imu
+  lid_topic: /livox/lidar
+  lidar_en: 1
+  ros_driver_bug_fix: false
+evo:
+  pose_output_en: true
+  seq_name: frame_pose
+extrin_calib:
+  cameras:
+  - Pcl:
+    - -0.0026704861365662684
+    - -0.09423204244648604
+    - -0.04511544426249621
+    Rcl:
+    - 0.7088845597439358
+    - 0.6426603456545267
+    - -0.2906378521112678
+    - -0.0015727085596883503
+    - -0.41062135482964535
+    - -0.9118046005288927
+    - -0.7053227683439925
+    - 0.646821291456204
+    - -0.29007242091328805
+    cam_id: 0
+    img_topic: /fisheye/left/image_raw
+  - Pcl:
+    - 0.015889349384186142
+    - -0.09332153007307833
+    - -0.03828587160258881
+    Rcl:
+    - 0.7024300041167059
+    - -0.6380949960169533
+    - 0.3153202584274113
+    - -0.008179421510157658
+    - -0.4502269714414786
+    - -0.8928766831149718
+    - 0.7117058285417962
+    - 0.6246042348917906
+    - -0.32147218133903455
+    cam_id: 1
+    img_topic: /fisheye/right/image_raw
+  - Pcl:
+    - 0.0051048238448435455
+    - -0.09402808499232149
+    - -0.01969295487245725
+    Rcl:
+    - -0.7144568343225403
+    - -0.6273485690595239
+    - 0.30981479110717536
+    - -0.02301707015137444
+    - -0.42148212668536916
+    - -0.9065445556432544
+    - 0.6993008268059332
+    - -0.6548179821780606
+    - 0.28669105993175326
+    cam_id: 2
+    img_topic: /fisheye/bright/image_raw
+  - Pcl:
+    - -0.013221980616907266
+    - -0.0939458482444015
+    - -0.027811959742591347
+    Rcl:
+    - -0.7028495767845786
+    - 0.6470124405999794
+    - -0.29559664091900184
+    - -0.01313438164431587
+    - -0.4272831266829145
+    - -0.9040224652467961
+    - -0.7112172385653774
+    - -0.6315093280078539
+    - 0.30881387307973807
+    cam_id: 3
+    img_topic: /fisheye/bleft/image_raw
+  extrinsic_R:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  extrinsic_T:
+  - -0.011
+  - -0.02329
+  - 0.04412
+imu:
+  acc_cov: 0.6
+  b_acc_cov: 0.0001
+  b_gyr_cov: 0.0001
+  gravity_est_en: false
+  gyr_cov: 0.3
+  imu_en: true
+  imu_int_frame: 600
+lio:
+  beam_err: 0.05
+  dept_err: 0.02
+  layer_init_num:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  max_iterations: 5
+  max_layer: 2
+  max_points_num: 100
+  min_eigen_value: 0.0025
+  voxel_size: 1.0
+  max_point_plane_distance: 0.2
+local_map:
+  half_map_size: 50
+  map_sliding_en: true
+  max_visual_voxels: 10000
+  sliding_thresh: 4
+pcd_save:
+  colmap_output_en: false
+  filter_size_pcd: 0.05
+  interval: 300
+  pcd_save_en: true
+preprocess:
+  blind: 0.5
+  filter_size_surf: 0.5
+  lidar_type: 1
+  point_filter_num: 1
+  scan_line: 4
+publish:
+  blind_rgb_points: 0.5
+  dense_map_en: true
+  pub_effect_point_en: false
+  pub_plane_en: false
+  pub_scan_num: 1
+safety:
+  image_subscriber_queue: 64
+  imu_subscriber_queue: 2000
+  lidar_subscriber_queue: 200
+  max_image_buffer_groups: 10
+  max_processing_lag_sec: 3.0
+  max_rss_gib: 12.0
+time_offset:
+  exposure_time_init: 0.0
+  img_time_offset: 0.0
+  imu_time_offset: 0.0
+uav:
+  gravity_align_en: true
+  imu_rate_odom: false
+vio:
+  dynamic_cov_error_max: 100
+  enable_cross_camera_tracking: true
+  enable_dynamic_covariance: false
+  exposure_estimate_en: true
+  img_point_cov: 100
+  inv_expo_cov: 0.1
+  inverse_composition_en: false
+  max_cov_scale: 2000.0
+  max_iterations: 5
+  max_total_points: 150
+  min_cov_scale: 500.0
+  normal_en: true
+  outlier_threshold: 100
+  patch_pyrimid_level: 3
+  patch_size: 4
+  raycast_en: false

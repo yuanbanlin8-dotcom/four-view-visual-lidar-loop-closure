@@ -1,0 +1,85 @@
+{
+  "name": "MixVPR",
+  "fair": "yes",
+  "scored_at": "2026-10-24 09:51:00 Asia/Singapore",
+  "weights": "resnet50_MixVPR_4096.ckpt",
+  "protocol": "v1-locked-20261023",
+  "cam0": {
+    "label": "MixVPR_cam0",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.9032258064516129,
+      "hits@1": 28,
+      "recall@5": 0.9354838709677419,
+      "hits@5": 29
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.6129032258064516,
+      "hits@1": 19,
+      "recall@5": 0.9354838709677419,
+      "hits@5": 29
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 0.9090909090909091,
+      "hits@1": 30,
+      "recall@5": 0.9393939393939394,
+      "hits@5": 31
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.8787878787878788,
+      "hits@1": 29,
+      "recall@5": 0.9393939393939394,
+      "hits@5": 31
+    }
+  },
+  "cam4": {
+    "label": "MixVPR_4cam",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.967741935483871,
+      "hits@1": 30,
+      "recall@5": 1.0,
+      "hits@5": 31
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.5161290322580645,
+      "hits@1": 16,
+      "recall@5": 1.0,
+      "hits@5": 31
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 1.0,
+      "hits@1": 33,
+      "recall@5": 1.0,
+      "hits@5": 33
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.8181818181818182,
+      "hits@1": 27,
+      "recall@5": 1.0,
+      "hits@5": 33
+    }
+  }
+}

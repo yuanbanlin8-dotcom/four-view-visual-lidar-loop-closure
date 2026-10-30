@@ -1,0 +1,51 @@
+{
+  "scored_at": "2026-10-23 23:41:52 Asia/Singapore",
+  "candidates_path": "/workspace/project/vision/ncd_quad_easy/candidates.json",
+  "candidates_n_rows": 270,
+  "candidates_n_unique_queries": 56,
+  "frontend_label_in_candidates": [
+    "adapter_GT_3s"
+  ],
+  "node_map": "/workspace/project/vision/ncd_quad_easy/NODE_MAP.md",
+  "mana_reported": {
+    "2m": {
+      "R@1": "17/31 (0.55)",
+      "R@5": "30/31 (0.97)",
+      "tol": 0
+    },
+    "3m": {
+      "R@1": "28/33 (0.85)",
+      "R@5": "33/33 (1.00)",
+      "tol": 0
+    }
+  },
+  "eval_protocol_tol1": {
+    "2m": {
+      "R@1": "30/31 (0.9677)",
+      "R@5": "31/31 (1.0000)",
+      "tol": 1
+    },
+    "3m": {
+      "R@1": "33/33 (1.0000)",
+      "R@5": "33/33 (1.0000)",
+      "tol": 1
+    }
+  },
+  "eval_recomputed_tol0_matches_mana": {
+    "2m_R@1": true,
+    "2m_R@5": true,
+    "3m_R@1": true,
+    "3m_R@5": true,
+    "detail": {
+      "2m": {
+        "R@1": "17/31 (0.5484)",
+        "R@5": "30/31 (0.9677)"
+      },
+      "3m": {
+        "R@1": "28/33 (0.8485)",
+        "R@5": "33/33 (1.0000)"
+      }
+    }
+  },
+  "mismatch_reason": "Mana/Vision retrieval_eval.json uses exact keyframe match (tol=0) against GT positives. Locked protocol \u00a72.4 / metrics.py pattern uses \u00b11 keyframe tolerance. Same candidates, same canonical sets (31 / 33); only matching tolerance differs. Ranking: score descending == rank ascending (verified)."
+}

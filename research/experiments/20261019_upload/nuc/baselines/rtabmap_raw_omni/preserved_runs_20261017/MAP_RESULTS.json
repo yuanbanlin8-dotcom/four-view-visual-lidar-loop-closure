@@ -1,0 +1,157 @@
+{
+  "0": {
+    "pcd": "rtabmap_multicam_raw_omni_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "98dd532fed6f2e51d40f279a951d00dfffc2cb025991b7a6cf5f623e85c38b59",
+    "max_pose_correction_m": 0.0001445683229476358,
+    "median_pose_correction_m": 2.4494897427810954e-05,
+    "return_z_m": -0.005422238,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -7.81169,
+        "p90_z_range_m": 0.161308
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -3.635215,
+        "p90_z_range_m": 0.3143775
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.8100615,
+        "p90_z_range_m": 0.58787975
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 5.04962,
+        "p90_z_range_m": 0.5248279999999994
+      }
+    }
+  },
+  "1": {
+    "pcd": "rtabmap_multicam_raw_omni_mode1_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "a72ddcd6e26b8535828aac660ee89588bf0333f2598c31328fb3fd530a7b7c25",
+    "max_pose_correction_m": 4.282128636788017,
+    "median_pose_correction_m": 2.4674822320940835,
+    "return_z_m": 0.020430712,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -4.40975,
+        "p90_z_range_m": 1.317888
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -1.09824,
+        "p90_z_range_m": 3.88108395
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.7737799999999999,
+        "p90_z_range_m": 1.163479
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 7.53142,
+        "p90_z_range_m": 2.1782959999999996
+      }
+    }
+  },
+  "2": {
+    "pcd": "rtabmap_multicam_raw_omni_mode2_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "939a982d585a3e580a248e8124c8255976224fe584187c37b21e1702005a85ac",
+    "max_pose_correction_m": 4.635171053208285,
+    "median_pose_correction_m": 2.0985473219825193,
+    "return_z_m": -0.024239488,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -4.21789,
+        "p90_z_range_m": 1.4730599999999998
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -2.4333,
+        "p90_z_range_m": 3.7445514500000003
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.877473,
+        "p90_z_range_m": 1.4726055
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 7.43705,
+        "p90_z_range_m": 1.772888
+      }
+    }
+  },
+  "3": {
+    "pcd": "rtabmap_multicam_raw_omni_mode3_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "fdfb67a7dc086c932d23e78c9894be4a3bf3a74c11eb8e6674b47e19a67e8a98",
+    "max_pose_correction_m": 5.865062695768903,
+    "median_pose_correction_m": 2.6956487427704667,
+    "return_z_m": 0.024743312,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -4.17349,
+        "p90_z_range_m": 1.940004
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -0.5551775,
+        "p90_z_range_m": 4.66758496295
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.895744,
+        "p90_z_range_m": 1.663243
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 7.64427,
+        "p90_z_range_m": 2.012008
+      }
+    }
+  },
+  "4": {
+    "pcd": "rtabmap_multicam_raw_omni_mode4_optimized_all_submaps_xyz.pcd",
+    "bytes": 81516464,
+    "points": 6793024,
+    "sha256": "8b32afc4130efccc7b997ce05d8a659446f1367339d7ee6b5d82a226162f2568",
+    "max_pose_correction_m": 4.551482905614389,
+    "median_pose_correction_m": 1.3632804621940415,
+    "return_z_m": 0.005961962,
+    "floor_stats": {
+      "1": {
+        "nodes": 49,
+        "median_z_m": -4.57215,
+        "p90_z_range_m": 2.2953719999999995
+      },
+      "2": {
+        "nodes": 44,
+        "median_z_m": -1.1103100000000001,
+        "p90_z_range_m": 3.8118482
+      },
+      "3": {
+        "nodes": 36,
+        "median_z_m": 0.6484385,
+        "p90_z_range_m": 0.9754146499999999
+      },
+      "4": {
+        "nodes": 45,
+        "median_z_m": 6.21957,
+        "p90_z_range_m": 1.7817539999999985
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "name": "BTC_outdoor_quad_easy_intensity",
+  "fair": "yes",
+  "scored_at": "2026-10-24 09:31:03 Asia/Singapore",
+  "protocol": "v1-locked-20261023",
+  "freeze": "ncd_quad_easy_samefloor100_v1-frozen-20261024",
+  "caveat": "Vendor BTC uses XYZ only for planes/descriptors/verify \u2014 intensity never enters geometry. Real intensity still yields 1 verify pair (OREN DLIO deskewed check also \u2192 1). Low R@k is protocol/scene under outdoor cfg, NOT a missing-intensity artifact. Old baselines/btc_quad_easy/ remains NOT_FAIR.",
+  "verify_stage": {
+    "label": "BTC_intensity_verify",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 1,
+      "tol": 1,
+      "recall@1": 0.03225806451612903,
+      "hits@1": 1,
+      "recall@5": 0.03225806451612903,
+      "hits@5": 1
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 1,
+      "tol": 0,
+      "recall@1": 0.03225806451612903,
+      "hits@1": 1,
+      "recall@5": 0.03225806451612903,
+      "hits@5": 1
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 1,
+      "tol": 1,
+      "recall@1": 0.030303030303030304,
+      "hits@1": 1,
+      "recall@5": 0.030303030303030304,
+      "hits@5": 1
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 1,
+      "tol": 0,
+      "recall@1": 0.030303030303030304,
+      "hits@1": 1,
+      "recall@5": 0.030303030303030304,
+      "hits@5": 1
+    },
+    "n_rows": 1,
+    "pairs": [
+      [
+        36,
+        6,
+        0.709055876686
+      ]
+    ]
+  },
+  "selector_stage": {
+    "label": "BTC_intensity_selector",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 2,
+      "tol": 1,
+      "recall@1": 0.03225806451612903,
+      "hits@1": 1,
+      "recall@5": 0.03225806451612903,
+      "hits@5": 1
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 2,
+      "tol": 0,
+      "recall@1": 0.03225806451612903,
+      "hits@1": 1,
+      "recall@5": 0.03225806451612903,
+      "hits@5": 1
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 2,
+      "tol": 1,
+      "recall@1": 0.030303030303030304,
+      "hits@1": 1,
+      "recall@5": 0.030303030303030304,
+      "hits@5": 1
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 2,
+      "tol": 0,
+      "recall@1": 0.030303030303030304,
+      "hits@1": 1,
+      "recall@5": 0.030303030303030304,
+      "hits@5": 1
+    },
+    "n_rows": 2,
+    "n_verify_pass": 1
+  }
+}

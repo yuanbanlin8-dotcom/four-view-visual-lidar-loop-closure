@@ -1,0 +1,21 @@
+{
+  "name": "BTC",
+  "priority": "P1",
+  "status": "DONE",
+  "pcd_ready": true,
+  "pcd_dir": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy/pcd",
+  "pcd_count": 66,
+  "binary": "/workspace/data/20261008/support_btc_v11_20261009/extract_candidates_configurable",
+  "config": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy/config_outdoor_quad_easy.yaml",
+  "config_base": "/workspace/seeker-fresh/loop_closure/vendor/btc/config/config_outdoor.yaml",
+  "effective_settings": {
+    "skip_near_num": 10,
+    "candidate_num": 50,
+    "useful_corner_num": 500
+  },
+  "candidates_csv": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy/candidates.csv",
+  "candidate_rows": 1,
+  "selector_audit_rows": 10,
+  "runtime_note": "User-space Ubuntu focal debs (PCL1.10/OpenCV4.2/...) + micromamba robostack ROS noetic libs; LD_LIBRARY_PATH=/workspace/btc_runtime/lib. No root apt. Intensity=0 in PCDs.",
+  "soT_untouched": true
+}

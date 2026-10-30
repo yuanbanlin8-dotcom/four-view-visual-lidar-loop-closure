@@ -1,0 +1,10 @@
+{
+  "nodes": 134,
+  "eligible_pairs": 7503,
+  "selected_pairs": 1338,
+  "minimum_time_gap_s": 35,
+  "top_per_query": 12,
+  "time_bin_s": 12,
+  "per_bin": 2,
+  "all_nodes_same_floor": true
+}

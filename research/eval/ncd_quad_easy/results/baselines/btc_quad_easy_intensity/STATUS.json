@@ -1,0 +1,52 @@
+{
+  "name": "BTC",
+  "variant": "btc_quad_easy_intensity",
+  "priority": "P1",
+  "status": "SCORED_FAIR",
+  "fairness": "FAIR_for_BTC_LiDAR_PR_claim",
+  "fairness_note": "Real Ouster intensity from official NCD Quad-Easy ROS1 bag (/os_cloud_node/points) at exact poses.json timestamps (66/66 nonzero). Outdoor cfg (skip_near_num=10, candidate_num=50, useful_corner_num=500). Same 66 nodes 0..65 as Eval protocol. IMPORTANT: vendor BTC (seeker-fresh/loop_closure/vendor/btc) never uses intensity for plane detection, binary descriptors, or verify \u2014 only XYZ. Intensity=0 was therefore NOT the geometric cause of sparse verifies; this intensity-correct run still yields few verify pairs under outdoor cfg on Quad-Easy. Fair as BTC capability on this protocol; do NOT treat baselines/btc_quad_easy/ (intensity=0) as the claim row.",
+  "intensity_source": {
+    "method": "official_ros1_bag_os_cloud_node_points",
+    "bag": "D:\\2021-07-01-10-37-38-quad-easy.bag (WHF); topic /os_cloud_node/points",
+    "match": "nearest PointCloud2 header stamp to poses.json t; all 66 dt=0.0000s",
+    "voxel_m": 0.1,
+    "frame": "ouster_sensor_frame_as_published",
+    "frames_with_nonzero_intensity": 66,
+    "frames_total": 66,
+    "extract_meta": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy_intensity/npy_xyzi/EXTRACT_META.json"
+  },
+  "pcd_dir": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy_intensity/pcd",
+  "pcd_count": 66,
+  "binary": "/workspace/data/20261008/support_btc_v11_20261009/extract_candidates_configurable",
+  "vendor_btc": "/workspace/seeker-fresh/loop_closure/vendor/btc",
+  "config": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy_intensity/config_outdoor_quad_easy.yaml",
+  "config_base": "/workspace/seeker-fresh/loop_closure/vendor/btc/config/config_outdoor.yaml",
+  "effective_settings": {
+    "skip_near_num": 10,
+    "candidate_num": 50,
+    "useful_corner_num": 500
+  },
+  "candidates_csv": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy_intensity/candidates.csv",
+  "selector_audit_csv": "/workspace/project/eval/ncd_quad_easy/results/baselines/btc_quad_easy_intensity/selector_audit.csv",
+  "candidate_rows": 1,
+  "selector_audit_rows": 2,
+  "verified_pairs": [
+    {
+      "i": 36,
+      "j": 6,
+      "score": 0.709055876686
+    }
+  ],
+  "geometry_only_vendor_finding": true,
+  "secondary_dlio_deskewed_check": {
+    "note": "OREN HF DLIO deskewed also has real intensity; absolute-stamp match (nodes 0-1 dt\u2248+4.3s/+1.2s because DLIO starts ~4.3s late). Same outdoor cfg \u2192 1 verify pair. Artifacts: candidates_dlio_deskewed.csv",
+    "candidate_rows": 1
+  },
+  "soT_untouched": true,
+  "visual_VPR_untouched": true,
+  "supersedes": "baselines/btc_quad_easy/ (intensity=0, NOT_FAIR)",
+  "fair": "yes",
+  "scored_at": "2026-10-24 09:32:04 Asia/Singapore",
+  "R_at_1_2m_pm1": "1/31=0.0323",
+  "caveat": "vendor_XYZ_only; low_verify=scene_protocol_not_missing_intensity"
+}

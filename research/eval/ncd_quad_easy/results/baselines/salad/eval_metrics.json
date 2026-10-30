@@ -1,0 +1,85 @@
+{
+  "name": "SALAD",
+  "fair": "yes",
+  "scored_at": "2026-10-24 09:31:03 Asia/Singapore",
+  "weights": "serizba/salad v1.0.0 dino_salad.ckpt",
+  "protocol": "v1-locked-20261023",
+  "cam0": {
+    "label": "SALAD_cam0",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.9032258064516129,
+      "hits@1": 28,
+      "recall@5": 0.9354838709677419,
+      "hits@5": 29
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.45161290322580644,
+      "hits@1": 14,
+      "recall@5": 0.9354838709677419,
+      "hits@5": 29
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 0.9090909090909091,
+      "hits@1": 30,
+      "recall@5": 0.9393939393939394,
+      "hits@5": 31
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.7878787878787878,
+      "hits@1": 26,
+      "recall@5": 0.9393939393939394,
+      "hits@5": 31
+    }
+  },
+  "cam4": {
+    "label": "SALAD_4cam",
+    "R_2m_pm1": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 1,
+      "recall@1": 0.9032258064516129,
+      "hits@1": 28,
+      "recall@5": 1.0,
+      "hits@5": 31
+    },
+    "R_2m_tol0": {
+      "n_queries": 31,
+      "n_queries_with_candidates": 31,
+      "tol": 0,
+      "recall@1": 0.5161290322580645,
+      "hits@1": 16,
+      "recall@5": 0.967741935483871,
+      "hits@5": 30
+    },
+    "R_3m_pm1": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 1,
+      "recall@1": 0.9090909090909091,
+      "hits@1": 30,
+      "recall@5": 1.0,
+      "hits@5": 33
+    },
+    "R_3m_tol0": {
+      "n_queries": 33,
+      "n_queries_with_candidates": 33,
+      "tol": 0,
+      "recall@1": 0.8484848484848485,
+      "hits@1": 28,
+      "recall@5": 0.9696969696969697,
+      "hits@5": 32
+    }
+  }
+}

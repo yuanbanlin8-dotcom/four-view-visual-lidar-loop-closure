@@ -1,0 +1,90 @@
+{
+  "method": "front_pair_c0_c1_end_to_end_visual_input",
+  "explanation": "Front cameras c0 and c1 alone are used in both visits, from retrieval through geometric verification and LiDAR-depth PnP. Other factors and thresholds match the four-view reference.",
+  "candidates": 1100,
+  "gate_counts": {
+    "reject_visual_support": 1095,
+    "hold_large_pose_disagreement": 5
+  },
+  "pair_pass": 0,
+  "sequence_supported": 0,
+  "accepted_loops": 0,
+  "accepted_by_floor": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "accepted_edges": [],
+  "accepted_overlap_full": 0,
+  "accepted_unique": 0,
+  "full_unique": 26,
+  "ground_before": {
+    "0": {
+      "count": 36,
+      "center_m": -1.0599220566672027,
+      "std_m": 0.16873047443605127,
+      "p90_range_m": 0.5883673336504243,
+      "mean_tilt_deg": 1.1201232532058052
+    },
+    "1": {
+      "count": 44,
+      "center_m": -5.516365457144245,
+      "std_m": 0.0765482005935537,
+      "p90_range_m": 0.22905594611559543,
+      "mean_tilt_deg": 0.5615592509598962
+    },
+    "2": {
+      "count": 49,
+      "center_m": -9.651262227159755,
+      "std_m": 0.053744996328650596,
+      "p90_range_m": 0.14042797124560025,
+      "mean_tilt_deg": 0.8213042506578304
+    },
+    "3": {
+      "count": 45,
+      "center_m": 3.1591037271417557,
+      "std_m": 0.1703497607963709,
+      "p90_range_m": 0.5069528559801841,
+      "mean_tilt_deg": 2.585785998004501
+    }
+  },
+  "ground_after": {
+    "0": {
+      "count": 36,
+      "center_m": -0.9407548145984221,
+      "std_m": 0.033988771742618835,
+      "p90_range_m": 0.06684350356415181,
+      "mean_tilt_deg": 0.29238641190319453
+    },
+    "1": {
+      "count": 44,
+      "center_m": -5.274406667918919,
+      "std_m": 0.014598846960971594,
+      "p90_range_m": 0.04162858368005029,
+      "mean_tilt_deg": 0.13558256417109582
+    },
+    "2": {
+      "count": 49,
+      "center_m": -9.45282270133615,
+      "std_m": 0.01710883790599408,
+      "p90_range_m": 0.024493516863612896,
+      "mean_tilt_deg": 0.18258421730699972
+    },
+    "3": {
+      "count": 45,
+      "center_m": 3.2425756681824187,
+      "std_m": 0.009210379993691965,
+      "p90_range_m": 0.029423528648308217,
+      "mean_tilt_deg": 0.13629986228504212
+    }
+  },
+  "quality_violations": [],
+  "floor_heights": [
+    -0.9406694263659062,
+    -5.2758789119274905,
+    -9.452211727875008,
+    3.2421955278749874
+  ],
+  "elapsed_evaluation_seconds": 0.25357054099731613
+}

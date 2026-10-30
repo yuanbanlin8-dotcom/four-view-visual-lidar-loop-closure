@@ -1,0 +1,30 @@
+[
+  {
+    "source": "research\\experiments\\20261019_upload\\nuc\\four_floor\\backend_pcm_ground\\no_pcm_summary.json",
+    "sha256": "8ccc9d12c00b192dec3a082354cbb38a5ffb620e0e17445fd12dbe7c15bf48e4"
+  },
+  {
+    "source": "research\\experiments\\20261019_upload\\nuc\\four_floor\\backend_pcm_ground\\no_pcm_poses.txt",
+    "sha256": "f13b7bbf39e67e06e625d8f1c770d5d5ce3a6f48261c0697b9271639860f6b5d"
+  },
+  {
+    "source": "C:\\Users\\33312\\Documents\\ChatGPT\\New project\\gnc_ablation_20261021\\no_gnc_24s_summary.json",
+    "sha256": "4ecf3838defeabccb1cbeb230b3bb6fe17d439f738d123fa1bf57effe3b1c487"
+  },
+  {
+    "source": "C:\\Users\\33312\\Documents\\ChatGPT\\New project\\gnc_ablation_20261021\\no_gnc_24s_poses.txt",
+    "sha256": "6fe11bb916ba5b881450e1377b4d8a0ca728de64f69178ceb16a76b1b0e94203"
+  },
+  {
+    "source": "C:\\Users\\33312\\Documents\\ChatGPT\\New project\\gnc_ablation_20261021\\single_floor\\results.json",
+    "sha256": "2c1c1390b25234c4603195ec4957b2813ba3573aae7e1c5cb90c99ef760f5283"
+  },
+  {
+    "source": "C:\\Users\\33312\\Documents\\ChatGPT\\New project\\gnc_ablation_20261021\\run_four_floor_no_gnc.py",
+    "sha256": "28cf847228b24aa05a5ba77409f2450eff1c9c60744bae4ae4976e38d9247a7c"
+  },
+  {
+    "source": "C:\\Users\\33312\\Documents\\ChatGPT\\New project\\gnc_ablation_20261021\\run_single_floor_gnc.py",
+    "sha256": "0c4cd914fee946538a466f721be987e06cf9ef18d581c58661f0c1be24c55ce5"
+  }
+]

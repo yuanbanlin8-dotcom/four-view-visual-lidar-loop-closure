@@ -1,0 +1,6 @@
+﻿Method,F1-F2 mapped (m),F2-F3 mapped (m),F3-F4 mapped (m),F1-F2 reference (m),F2-F3 reference (m),F3-F4 reference (m),F1-F2 signed error (cm),F2-F3 signed error (cm),F3-F4 signed error (cm),MAE (cm)
+Uncorrected frontend,4.135,4.456,4.219,4.201,4.255,4.169,-6.600,20.100,5.000,10.57
+Scan Context + ICP,3.958,4.922,4.007,4.201,4.255,4.169,-24.300,66.700,-16.200,35.73
+Scan Context + ICP (Cauchy),4.012,4.767,4.224,4.201,4.255,4.169,-18.900,51.200,5.500,25.20
+Ours,4.179,4.334,4.183,4.201,4.255,4.169,-2.200,7.900,1.400,3.83
+w/o floor factors,4.075,4.469,4.276,4.201,4.255,4.169,-12.600,21.400,10.700,14.90

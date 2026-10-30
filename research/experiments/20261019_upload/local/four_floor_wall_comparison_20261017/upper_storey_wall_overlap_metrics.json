@@ -1,0 +1,60 @@
+{
+  "recording": "20261013_160929",
+  "site": "F4 left-side wall beside accepted revisit 191-168",
+  "metric": "Median of absolute differences between pass-wise wall-normal medians at common 0.10 m stations",
+  "comparison_scope": "Whole-system original Omni-LIVO replay versus complete frozen 24 s map; different frontend configurations and reconstruction",
+  "pass_assignment": "Earlier/later chronological PCD point-index clusters, cross-checked against trajectory revisit 168/191; original replay has no explicit per-point timestamps",
+  "cases": [
+    {
+      "name": "Original Omni-LIVO",
+      "pcd": "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/frontend_ablation_20261014/legacy_livo_full_0.5x/map_raw.pcd",
+      "y_range_m": [
+        237.0,
+        238.5
+      ],
+      "point_index_windows": [
+        [
+          190000000,
+          215000000
+        ],
+        [
+          225000000,
+          245000000
+        ]
+      ],
+      "first_points": 88896,
+      "revisit_points": 65918,
+      "paired_stations": 15,
+      "median_abs_gap_m": 0.05556916072964668,
+      "p75_abs_gap_m": 0.09809708967804909,
+      "max_abs_station_gap_m": 0.11324316263198853,
+      "normal_distance_reference": "Local wall centreline x(y); common reference within each PCD"
+    },
+    {
+      "name": "Complete 24 s method",
+      "pcd": "/home/nuc/omnilivo_floor_loop_trial/four_floor_20261013_160929/sequence_gap_ablation_20261014/full_resolution/map_four_floors_20261013_loop24s_corrected_fullres_colored.pcd",
+      "y_range_m": [
+        19.0,
+        20.5
+      ],
+      "point_index_windows": [
+        [
+          215000000,
+          245000000
+        ],
+        [
+          250000000,
+          280000000
+        ]
+      ],
+      "first_points": 115023,
+      "revisit_points": 136059,
+      "paired_stations": 15,
+      "median_abs_gap_m": 0.020665515214204788,
+      "p75_abs_gap_m": 0.04119449481368065,
+      "max_abs_station_gap_m": 0.10066473484039307,
+      "normal_distance_reference": "Local wall centreline x(y); common reference within each PCD"
+    }
+  ],
+  "limitation": "Selected illustrative wall patch. Not physical wall thickness or surveyed 3D accuracy. A different map-coordinate crop is required for each PCD due to global drift."
+}
