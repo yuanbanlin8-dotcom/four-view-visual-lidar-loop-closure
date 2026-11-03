@@ -52,7 +52,7 @@ The general entry point fits ground observations from the supplied submaps and p
 | Adjacent-floor reference means | 4.201, 4.255, 4.169 m |
 | Complete-method height MAE | 3.83 cm |
 | NCD R@1 / R@5 | 30/31 and 31/31 with ±1-keyframe tolerance |
-| NCD accepted constraints | 100, with 96 satisfying the spatial criterion |
+| NCD accepted constraints | 100; 96 match ground-truth positive pairs with a tolerance of ±1 keyframe at each endpoint; 32/38 positive pairs covered |
 
 ## Packaging corrections
 
