@@ -40,7 +40,7 @@ Stages: `prepare`, `verify`, `optimize`. Outputs include floor hypotheses, groun
 
 The frame extraction, global-descriptor and mask scripts are acquisition-specific preparation scripts. Their node ranges, bag paths and masks must match the recording. The offline entry point consumes prepared descriptors and frames.
 
-Original reconstruction experiments used per-floor ground-measurement selection in their experiment scripts. Outputs and scripts are retained under `research/experiments`. The general entry point fits observations from the supplied submaps. Reproducing those maps requires matching sensor inputs and measurement selection.
+The general entry point fits ground observations from the supplied submaps and passes sequence-supported anchors to graph optimization. Experiment scripts, configurations, and outputs are provided under `research/experiments`.
 
 ## Expected outputs
 
