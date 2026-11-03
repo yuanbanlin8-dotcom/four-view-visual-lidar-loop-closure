@@ -1,6 +1,6 @@
-# Four-View Visual–LiDAR Loop Closure for Drift Correction in Multi-Storey Indoor UAV Mapping
+# Four-View Visual–LiDAR Loop Closure for Drift Correction in Multi-Storey Indoor Mapping
 
-Paper-support release containing the algorithm, experimental records, editable figures and table data for the Drones manuscript.
+Paper-support release containing the algorithm, experimental records, editable figures and table data for the manuscript submitted to Sensors.
 
 ## Contents
 
