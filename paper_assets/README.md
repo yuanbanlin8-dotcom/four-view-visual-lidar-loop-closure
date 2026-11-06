@@ -1,4 +1,13 @@
-# Final paper figures and tables
+# Paper figures and tables
+
+The current **Scientific Reports** edition contains **five main figures and three main tables**, with six supplementary tables and Figure S1.
+
+Use the [current manuscript and asset index](scientific_reports_20261106/README.md) for PDFs, figures, CSV tables, and the old-to-new numbering map.
+
+The files below retain their earlier numbering so that existing experiment links and editable source figures remain available. In the current edition, former Figures 2 and 3 form the horizontal Figure 2; former Figures 4, 5 and 6 become Figures 3, 4 and 5.
+
+## Earlier source assets
+
 
 SVGs are extracted from the final manuscript documents, retaining embedded image pixels and editable vectors. CSV tables are exported directly from Word table cells.
 

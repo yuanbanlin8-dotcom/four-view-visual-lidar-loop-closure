@@ -1,0 +1,12 @@
+﻿Stage or floor,Joint four-view,Forward pair,Independent max,Without LiDAR verification
+Shortlisted candidates,1100,1100,—,1100
+Sufficient visual support,207,5,—,—
+Pose consistent with odometry,42,0,—,—
+Pairs passed to sequence checking,29,0,—,42
+Route-sequence supported,28,0,—,17
+Spatial anchors,26,0,—,16
+Accepted loops,26,0,20,16
+Accepted on F1,11,0,8,10
+Accepted on F2,3,0,5,0
+Accepted on F3,7,0,7,6
+Accepted on F4,5,0,0,0

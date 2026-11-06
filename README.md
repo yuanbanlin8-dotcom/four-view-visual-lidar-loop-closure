@@ -1,6 +1,8 @@
 # Four-View Visual–LiDAR Loop Closure for Drift Correction in Multi-Storey Indoor Mapping
 
-Paper-support release containing the algorithm, experimental records, editable figures and table data for the manuscript submitted to Sensors.
+Paper-support repository containing the algorithm, experimental records, figures and table data. The current manuscript edition is prepared for Scientific Reports and uses five main figures and three main tables.
+
+See the [current manuscript and figure/table index](paper_assets/scientific_reports_20261106/README.md).
 
 ## Contents
 
@@ -12,8 +14,9 @@ Paper-support release containing the algorithm, experimental records, editable f
 | `configs/` | Camera intrinsics and sensor runtime calibration |
 | `research/experiments/` | Single-floor and four-floor comparisons and ablations |
 | `research/eval/ncd_quad_easy/` | NCD candidates, poses, evaluation labels and baseline scores |
-| `paper_assets/figures/` | Six main figures and Figure S1 as editable SVG files |
-| `paper_assets/tables/` | Tables 1–7 and S1–S5 as UTF-8 CSV files |
+| `paper_assets/scientific_reports_20261106/` | Current manuscript, supplementary information, five main figures and three main tables |
+| `paper_assets/figures/` | Editable source SVGs with the earlier figure numbering |
+| `paper_assets/tables/` | Earlier CSV tables; current Tables 1–3 and S1–S6 are in the Scientific Reports edition |
 | `paper_assets/data/` | Corridor profiles, loop locations, sequence sensitivity and updated floor-height comparisons |
 
 See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for commands, [DATA.md](DATA.md) for data coverage and [paper_assets/README.md](paper_assets/README.md) for the figure/table index.

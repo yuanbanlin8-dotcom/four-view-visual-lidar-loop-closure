@@ -1,0 +1,20 @@
+﻿Stage,Setting
+Rectification,"Three 512 × 512 pinhole views per camera, yaw −50°/0°/+50°, 90° FoV"
+Retrieval,Minimum pair separation 35 s; up to 12 same-floor and 3 unknown-floor candidates; at most 2 per 12 s historical bin
+Score normalization,Camera-pair mean/std; floor-specific when at least 32 eligible pairs; std floor 10⁻⁶
+PnP hypotheses,"AP3P-RANSAC per camera, 3 seeds, up to 2000 iterations, confidence 0.999; 0.8° joint angular inlier threshold"
+Visual gate,At least 15 total PnP inliers; at least 2 cameras with at least 5 each
+Odometry agreement,Translation ≤5 m; rotation ≤20°
+LiDAR geometry,Coverage ≥0.25 and point-to-plane RMSE ≤0.18 m in both directions; refinement ≤0.5 m and ≤5° from PnP
+Reverse geometry evaluation,0.2 m voxel grid; 0.3 m nearest-neighbour limit; planarity >0.3
+Sequence,"At least 3 pairs; minimum endpoint span 6 m on both sides; query gap 24 s, historical gap 36 s; correction agreement ≤0.8 m/8° for every pair of members"
+Spatial anchors,Redundancy requires both time differences <12 s and both position differences <3 m; prioritize PnP inlier count
+Ground plane fitting,"Height band −2.6 to −1.2 m along the initial up axis, horizontal radius <12 m; up to 6000 sampled points and 200 RANSAC trials; 0.04 m plane inlier band; ≥150 inliers"
+Near-horizontal normal residual,When abs(n_z) <0.2 the implementation returns a fixed large residual; the observation remains in the objective
+Stable floor segments,"Local time window ±9 s; height range ≤0.6 m and slope ≤0.07; ≥5 samples, ≥12 s duration, ≥6 m travel; ground RMSE ≤0.06 m and tilt ≤12°; same-level tolerance 0.9 m, between-level separation ≥1.8 m"
+Floor-height prior,Initial identified level; standard deviation 0.5 m
+Transition measurement,"Difference of consecutive stable segment centres; sigma=max(0.3 m, half the sum of segment P90–P10 spreads)"
+Graph noise,Odometry sigmas 0.01 rad and 0.05 m; ground horizontal-normal sigmas corresponding to 1.5° and height sigma 0.08 m; Huber parameter 1.345
+ICP iteration,Up to 30 iterations; correspondence distance decreases from 1.0 to 0.3 m; Cauchy weighting
+Pose validity,Finite homogeneous 4 × 4 transform; rotation orthogonality tolerance 10⁻⁵; determinant ≥0.99
+GNC,"Squared whitened-residual cutoff 16.81; continuation multiplier 1.4; up to 60 updates; stop when all weights are within 0.001 of 0 or 1 and μ >50; final loop retained only if weight >0.5, followed by re-optimization"
