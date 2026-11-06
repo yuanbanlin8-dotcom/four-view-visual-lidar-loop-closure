@@ -18,6 +18,13 @@ Paper-support release containing the algorithm, experimental records, editable f
 
 See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for commands, [DATA.md](DATA.md) for data coverage and [paper_assets/README.md](paper_assets/README.md) for the figure/table index.
 
+## Dataset downloads
+
+- [Single-floor recording, 2026-10-08](https://github.com/yuanbanlin8-dotcom/four-view-visual-lidar-loop-closure/releases/tag/dataset-20261008-floor1): camera and LiDAR/IMU bags, point clouds, trajectory and offline analysis archives.
+- [Four-floor prepared inputs, 2026-10-13](https://github.com/yuanbanlin8-dotcom/four-view-visual-lidar-loop-closure/releases/tag/dataset-20261013-four-floor-inputs): 243 submaps and poses, 972 camera images, descriptors, masks and calibration.
+
+See [DATA_DOWNLOADS.md](DATA_DOWNLOADS.md) for extraction and checksum commands. Full four-floor raw bags and dense maps remain to be added.
+
 The sequence-support query gap is **24 s**. The visual gate retains the paper's multi-camera requirement: at least two supported cameras. The detailed thresholds are implemented in `research/multifloor/verify.py`.
 
 ## Quick checks
@@ -36,7 +43,7 @@ GTSAM is needed for the backend unit checks. The full perception pipeline also u
 
 图中的四层路线及截图上的回环位置属于空间展示；精确回环编号和位姿以实验记录为准。相邻楼层高度比较使用重测均值 4.201、4.255、4.169 m。旧实验记录中的参考层高保留其原始值，最终比较数据见 `paper_assets/data/floor_height_comparison.csv`。
 
-完整 ROS bags、稠密点云和模型权重需要另外准备。此公开版提供结果核对与指标重算；从原始传感器数据运行的条件见复现说明。
+一层完整采集包（ROS bags、点云、轨迹和配置）及四层后端输入包已通过上述 Release 提供下载。四层完整原始 ROS bags、完整稠密点云和模型权重仍需另外准备。下载与校验步骤见 `DATA_DOWNLOADS.md`，运行条件见复现说明。
 
 ## License and attribution
 

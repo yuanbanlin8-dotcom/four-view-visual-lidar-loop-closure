@@ -4,13 +4,15 @@
 
 | Dataset | Included records | Sensor-data access |
 |---|---|---|
-| Single-floor indoor flight, 20261008 | Candidate pairs, pose estimates, comparison and ablation outputs, corridor profiles | ROS bags and dense point clouds are outside this public release; contact the repository maintainer for availability |
-| Four-floor indoor flight, 20261013 | Candidate decisions, ground-plane measurements, floor hypotheses, trajectories, loop checks, sequence/ground/camera ablations | ROS bags and dense point clouds are outside this public release; contact the repository maintainer for availability |
+| Single-floor indoor flight, 20261008 | Candidate pairs, pose estimates, comparison and ablation outputs, corridor profiles | [Dataset release](https://github.com/yuanbanlin8-dotcom/four-view-visual-lidar-loop-closure/releases/tag/dataset-20261008-floor1): camera and LiDAR/IMU ROS bags, raw and 5 cm point clouds, trajectory, configuration and logs |
+| Four-floor indoor flight, 20261013 | Candidate decisions, ground-plane measurements, floor hypotheses, trajectories, loop checks, sequence/ground/camera ablations | [Prepared-input release](https://github.com/yuanbanlin8-dotcom/four-view-visual-lidar-loop-closure/releases/tag/dataset-20261013-four-floor-inputs): 243 LiDAR submaps and poses, 972 images, masks, descriptors and calibration. Full raw ROS bags and dense maps remain outside this release |
 | NCD Quad-Easy | 66-node adapter poses, query/positive labels, candidate ranks, accepted constraints and baseline metrics | Obtain source sensor data from the Newer College Dataset authors |
 
 NCD uses `adapter_GT_3s`: the input node poses come from dataset ground truth. R@k uses 31 canonical queries, a 2 m spatial criterion, a temporal separation above 30 s, and a ±1-keyframe match tolerance. The 38 positive pairs include five opposite-heading pairs. The included run retrieves 30/31 at rank 1 and 31/31 at rank 5; with a tolerance of ±1 keyframe at each endpoint, 96 of 100 accepted constraints match ground-truth positive pairs, covering 32/38 pairs and 0/5 opposite-heading pairs. Baseline records specify whether they represent retrieval rankings or verified output. ORB-BoW is an OpenCV stand-in; BTC verified-output coverage uses its available output.
 
 ## Experimental directories
+
+Download, extraction and verification instructions are in [DATA_DOWNLOADS.md](DATA_DOWNLOADS.md). Large sensor files are distributed as GitHub Release attachments rather than Git objects.
 
 - `20261019_upload/local/four_floor_comparison_20261016`: four-floor poses, floor measurements and external-method comparisons.
 - `20261019_upload/local/single_floor_ground_comparison_20261017`: corridor ground comparison.
@@ -31,4 +33,4 @@ The updated adjacent-floor reference means are 4.201, 4.255 and 4.169 m (F1–F2
 
 ## File integrity
 
-`SHA256SUMS.txt` lists release-file hashes. The seven SVG files were extracted byte-for-byte from the final main and supplementary Word documents; embedded images were preserved without resampling. The manuscript drafts, review correspondence, development archives, model weights and raw sensor releases are outside this public repository.
+`SHA256SUMS.txt` lists repository-file hashes. Dataset attachments have their own checksum files and per-file inventories in the linked Releases. The seven SVG files were extracted byte-for-byte from the final main and supplementary Word documents; embedded images were preserved without resampling. Manuscript drafts, review correspondence and model weights are outside this repository.

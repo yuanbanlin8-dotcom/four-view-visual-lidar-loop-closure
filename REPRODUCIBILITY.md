@@ -15,6 +15,8 @@ The first script checks file hashes, final floor-height calculations and the 26-
 
 ## Run the multilevel pipeline with prepared inputs
 
+The [four-floor prepared-input release](https://github.com/yuanbanlin8-dotcom/four-view-visual-lidar-loop-closure/releases/tag/dataset-20261013-four-floor-inputs) supplies the input files below. See [DATA_DOWNLOADS.md](DATA_DOWNLOADS.md) for download checks and a command using the extracted paths.
+
 Use a Linux environment for the ROS frontend and symlinks created by the offline entry point. The source environment dependency record is `research/requirements.txt`; installation of that complete environment has not been checked on this release workstation.
 
 ```bash
