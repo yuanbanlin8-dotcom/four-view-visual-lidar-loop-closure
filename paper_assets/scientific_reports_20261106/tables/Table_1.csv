@@ -1,4 +1,9 @@
-﻿Stage or floor,Joint four-view,Forward pair,Independent max,Without LiDAR verification
+﻿(a) Single-storey LiDAR-verification ablation
+Configuration,Correct,False,Total
+Ours,17,0,17
+w/o LiDAR verification,10,1,11
+"(b) Four-storey camera-input, ranking, and LiDAR-verification ablations"
+Stage or floor,Joint four-view,Forward pair,Independent max,Without LiDAR verification
 Shortlisted candidates,1100,1100,—,1100
 Sufficient visual support,207,5,—,—
 Pose consistent with odometry,42,0,—,—
@@ -10,3 +15,9 @@ Accepted on F1,11,0,8,10
 Accepted on F2,3,0,5,0
 Accepted on F3,7,0,7,6
 Accepted on F4,5,0,0,0
+(c) Single-storey sequence and GNC stress test
+Configuration,Sequence,GNC,Spatial anchors,Accepted loops,Max position change (m)
+Sequence + GNC,On,On,27,23,0.398
+Sequence only,On,Off,27,27,46.441
+GNC only,Off,On,50,26,1.029
+Neither,Off,Off,50,50,95.173

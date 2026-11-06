@@ -16,7 +16,7 @@ See the [current manuscript and figure/table index](paper_assets/scientific_repo
 | `research/eval/ncd_quad_easy/` | NCD candidates, poses, evaluation labels and baseline scores |
 | `paper_assets/scientific_reports_20261106/` | Current manuscript, supplementary information, five main figures and three main tables |
 | `paper_assets/figures/` | Editable source SVGs with the earlier figure numbering |
-| `paper_assets/tables/` | Earlier CSV tables; current Tables 1–3 and S1–S6 are in the Scientific Reports edition |
+| `paper_assets/tables/` | Earlier CSV tables; current Tables 1–3 and S1–S4 are in the Scientific Reports edition |
 | `paper_assets/data/` | Corridor profiles, loop locations, sequence sensitivity and updated floor-height comparisons |
 
 See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for commands, [DATA.md](DATA.md) for data coverage and [paper_assets/README.md](paper_assets/README.md) for the figure/table index.

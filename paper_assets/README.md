@@ -1,6 +1,6 @@
 # Paper figures and tables
 
-The current **Scientific Reports** edition contains **five main figures and three main tables**, with six supplementary tables and Figure S1.
+The current **Scientific Reports** edition contains **five main figures and three main tables**, with four supplementary tables and Figure S1.
 
 Use the [current manuscript and asset index](scientific_reports_20261106/README.md) for PDFs, figures, CSV tables, and the old-to-new numbering map.
 

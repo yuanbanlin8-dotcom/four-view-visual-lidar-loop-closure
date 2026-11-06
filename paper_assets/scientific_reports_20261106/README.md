@@ -21,18 +21,20 @@ This edition contains five main figures and three main tables for **Four-View Vi
 
 | Current table | Content | Earlier main table(s) |
 |---|---|---|
-| 1 | Camera-input, ranking and LiDAR-verification ablations | 1 + 2 + 5 |
+| 1(a) | Single-storey LiDAR-verification ablation | Main 4; formerly S5 in this edition |
+| 1(b) | Four-storey camera-input, ranking and LiDAR-verification ablations | 1 + 2 + 5 |
+| 1(c) | Single-storey sequence/GNC stress test | Main 6; formerly S6 in this edition |
 | 2 | External loop-closure configurations | 3 |
 | 3 | NCD Quad-Easy retrieval comparison | 7 |
 | S1 | Fixed-camera ranking | Supplementary S2 |
 | S2 | Single-storey surface alignment | Supplementary S3 |
 | S3 | Implementation parameters | Supplementary S4 |
 | S4 | Adjacent-floor heights | Supplementary S5 |
-| S5 | Single-storey LiDAR-verification ablation | Main 4 |
-| S6 | Sequence/GNC stress test | Main 6 |
 
 Supplementary Figure S1 contains the expanded NCD retrieval comparison. The former supplementary NCD table is consolidated into main Table 3 and Figure S1.
 
 The existing parent `figures/` and `tables/` directories retain the earlier numbering. This directory provides the current manuscript numbering. Images are copied without recompression; CSV values are taken directly from the current document cells. `SHA256SUMS.json` records the delivered PDFs, figures and tables.
 
 The algorithm release referenced by the manuscript remains commit `288c020630f790a12518f27490ab115965bfbf11`. This update changes manuscript presentation and asset indexing, not algorithm settings or experimental results. Dataset access is described in the repository [download guide](../../DATA_DOWNLOADS.md).
+
+Table 1 contains three blocks with their original metrics and values. The former Tables S5 and S6 are now blocks (a) and (c); Supplementary Tables S1–S4 remain in the supplement.
