@@ -14,7 +14,7 @@ jobs:
           SOURCE_ASSETS: ${{ secrets.DATASET_RECOVERY_URLS }}
         shell: python
         run: |
-          import os, json, hashlib, urllib.request, urllib.error, time, tarfile, io
+          import os, json, hashlib, base64, urllib.request, urllib.error, time, tarfile, io
           from pathlib import Path
           
           repo = os.environ['GITHUB_REPOSITORY']
@@ -31,6 +31,8 @@ jobs:
           
           for a in assets:
               f = root / a['name']
+              if 'inline_base64' in a:
+                  b=base64.b64decode(a['inline_base64']);assert hashlib.sha256(b).hexdigest()==a['sha256'];f.write_bytes(b);continue
               print('Downloading', a['name'], a['size'], flush=True)
               for attempt in range(3):
                   try:
